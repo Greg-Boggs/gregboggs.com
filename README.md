@@ -1,9 +1,11 @@
 hugoBasicExample
 ==========
 
-This is an example site for [Hugo](http://gohugo.io/).
+This is an example site for [Hugo](http://gohugo.io/) intended to be a kickstart site for my [Starter theme](https://github.com/Greg-Boggs/starter)
 
-It is intended to be a kickstart site for my [Starter theme](https://github.com/Greg-Boggs/starter)
+# Features
+
+1. Prose.io integration.
 
 # Using
 
