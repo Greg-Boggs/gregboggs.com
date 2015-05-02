@@ -1,7 +1,7 @@
 Hugo Starter Kickstart
 ======================
 
-This is an kickstart site for [Hugo](http://gohugo.io/) intended to be a kickstart site for [Starter theme](https://github.com/Greg-Boggs/starter).
+This is a kickstart site for [Hugo](http://gohugo.io/) intended to be a kickstart site for [Starter theme](https://github.com/Greg-Boggs/starter).
 
 # Features
 
