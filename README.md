@@ -1,5 +1,5 @@
-hugoBasicExample
-==========
+Hugo Starter Kickstart
+======================
 
 This is an example site for [Hugo](http://gohugo.io/) intended to be a kickstart site for my [Starter theme](https://github.com/Greg-Boggs/starter)
 
@@ -16,7 +16,7 @@ This is an example site for [Hugo](http://gohugo.io/) intended to be a kickstart
 
 In other words:
 
-    git clone https://github.com/Greg-Boggs/hugo-starter-example
+    git clone https://github.com/Greg-Boggs/hugo-starter-kickstart
     cd hugo-starter-example
     git clone https://github.com/Greg-Boggs/starter.git theme/starter
     hugo server -t starter
