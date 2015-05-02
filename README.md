@@ -7,19 +7,16 @@ It is intended to be a kickstart site for my [Starter theme](https://github.com/
 
 # Using
 
-1. First, [install Hugo](http://gohugo.io/overview/installing/);
-2. Then, clone this repository;
-3. Clone the [Starter][https://github.com/Greg-Boggs/starter] theme/starter;
+1. [Install Hugo](http://gohugo.io/overview/installing/)
+2. Clone this repository
+3. Clone the [Starter](https://github.com/Greg-Boggs/starter)
 4. Run Hugo with Starter
 
 In other words:
 
-<pre><code>git clone https://github.com/spf13/HugoBasicExample.git
-cd HugoBasicExample
-git clone https://github.com/Greg-Boggs/starter.git theme/starter
-hugo server -t starter
-</code></pre>
+    git clone https://github.com/Greg-Boggs/hugo-starter-example
+    cd hugo-starter-example
+    git clone https://github.com/Greg-Boggs/starter.git theme/starter
+    hugo server -t starter
 
 Enjoy!
-
-[Hugo themes]: https://github.com/spf13/hugoThemes
