@@ -5,7 +5,9 @@ This is a kickstart site for [Hugo](http://gohugo.io/) intended to be a kickstar
 
 # Features
 
-1. Prose.io integration.
+1. Prose.io integration
+2. Google Analytics
+3. Pagination
 
 # Using
 
