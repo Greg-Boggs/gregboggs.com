@@ -1,0 +1,72 @@
+prose:
+  rooturl: 'content/post'
+  media: 'static/images'
+  ignore:
+    - index.html
+    - config.yaml
+    - gulpfile.js
+    - .gitignore
+    - README.md
+    - /archetypes
+    - /data
+    - /layouts
+    - /themes
+  metadata:
+    content/post:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "published"
+        field:
+          element: "hidden"
+          value: "true"
+      - name: "created"
+        field:
+          element: "hidden"
+          value: "true"
+      - name: "h1"
+        field:
+          element: "text"
+          label: "Title"
+          placeholder: "The title that your readers see on the page."
+      - name: "keyword"
+        field:
+          element: "text"
+          label: "Keywords"
+          placeholder: "Seperate keywords with a comma."
+      - name: "description"
+        field:
+          element: "text"
+          label: "Description"
+          placeholder: "The meta description."
+      - name: "url"
+        field:
+          element: "text"
+          label: "URL"
+          placeholder: "The address of a page."
+      - name: "LinkTitle"
+        field:
+          element: "text"
+          label: "Link Title"
+          placeholder: "The text that appears in a menu link to this page."
+      - name: "draft"
+        field:
+          element: "checkbox"
+          label: "Set as Draft"
+          help: "Drafts are not published."
+          value: false
+      - name: "categories"
+        field:
+          element: "multiselect"
+          label: "Add Categories"
+          options:
+            - name: "Blog"
+              value: "blog"
+          alterable: True
+    static:
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
