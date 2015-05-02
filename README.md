@@ -11,8 +11,8 @@ This is an kickstart site for [Hugo](http://gohugo.io/) intended to be a kicksta
 
 1. [Install Hugo](http://gohugo.io/overview/installing/)
 2. Clone this repository
-3. Clone the [Starter](https://github.com/Greg-Boggs/starter)
-4. Run Hugo with Starter
+3. Clone the [Starter](https://github.com/Greg-Boggs/starter) theme
+4. Run Hugo with Starter theme
 
 In other words:
 
