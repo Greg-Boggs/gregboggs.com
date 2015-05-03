@@ -1,10 +1,11 @@
-baseurl = "http://localhost/"
+baseurl = "http://localhost"
 title = "Starter Hugo Base Theme"
-uglyurls = true
+uglyurls = false
 googleAnalytics = "UA-2815903-1"
 author = "Greg Boggs"
 paginate = 20
 
 [params]
   DateForm = "Mon, Jan 2, 2006"
+  SyntaxHighlightTheme = "solarized_dark.min.css"
 
