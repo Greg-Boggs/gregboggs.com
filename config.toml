@@ -1,11 +1,21 @@
 baseurl = "http://localhost"
 title = "Starter Hugo Base Theme"
 uglyurls = false
-googleAnalytics = "UA-2815903-1"
-author = "Greg Boggs"
-paginate = 20
+paginate = 10
+
+[permalinks]
+  post = "/:title"
 
 [params]
-  DateForm = "Mon, Jan 2, 2006"
+  Author = "Greg Boggs"
+  DateForm = "Jan 2, 2006"
+  googleAnalytics = "UA-xxxxxxx-x"
   SyntaxHighlightTheme = "solarized_dark.min.css"
+  
+#Starter theme specifics
+  github = "Greg-Boggs"
+  linkedin = "gregoryboggs"
+  twitter = "gregory-boggs"
 
+[Indexes]
+  categories = "categories"
