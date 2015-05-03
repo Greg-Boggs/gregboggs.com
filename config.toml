@@ -10,9 +10,10 @@ paginate = 10
   Author = "Greg Boggs"
   DateForm = "Jan 2, 2006"
   googleAnalytics = "UA-xxxxxxx-x"
+  jquery = "2.1.4"
   SyntaxHighlightTheme = "solarized_dark.min.css"
   
-#Starter theme specifics
+  #Starter theme specifics
   github = "https://github.com/Greg-Boggs/"
   linkedin = "https://www.linkedin.com/in/gregoryboggs"
   twitter = "https://twitter.com/gregory_boggs"
