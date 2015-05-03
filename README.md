@@ -20,7 +20,7 @@ In other words:
 
     git clone https://github.com/Greg-Boggs/hugo-starter-kickstart
     cd hugo-starter-kickstart
-    git clone https://github.com/Greg-Boggs/starter.git theme/starter
+    git clone https://github.com/Greg-Boggs/starter.git themes/starter
     hugo server -t starter
 
 Enjoy!
