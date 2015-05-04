@@ -1,5 +1,5 @@
 baseurl = "http://localhost"
-title = "Starter Hugo Base Theme"
+title = "Greg Boggs"
 uglyurls = false
 paginate = 10
 
@@ -14,6 +14,8 @@ paginate = 10
   SyntaxHighlightTheme = "solarized_dark.min.css"
   
   #Starter theme specifics
+  tagline = "Portland Drupal Developer"
+  intro = "I make websites that succeed."
   github = "https://github.com/Greg-Boggs/"
   linkedin = "https://www.linkedin.com/in/gregoryboggs"
   twitter = "https://twitter.com/gregory_boggs"
