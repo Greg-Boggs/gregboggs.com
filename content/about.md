@@ -2,6 +2,9 @@
 title = "About Hugo"
 date = "2014-04-09"
 menu = "main"
+theme = "right-sidebar"
+right-sidebar = "true"
+icon = "fa-tablet"
 +++
 
 Hugo is a static site engine written in Go.
