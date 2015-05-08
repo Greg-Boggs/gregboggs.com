@@ -1,7 +1,7 @@
 ---
 author: "Michael Henderson"
 date: 2014-09-28
-linktitle: Creating a New Theme
+linktitle: Creating a fun Theme
 menu:
   main:
     parent: tutorials
