@@ -1,6 +1,6 @@
 
-Hugo Starter Kickstart
-======================
+GregBoggs.com based on Hugo Starter Kickstart
+=============================================
 
 This is my website for [GregBoggs.com](http://www.gregboggs.com) using [Starter Kickstart](https://github.com/Greg-Boggs/hugo-starter-kickstart)
 for [Hugo](http://gohugo.io/) with the [Starter theme](https://github.com/Greg-Boggs/starter) and [Twenty](http://github.com/Greg-Boggs/twenty).
@@ -10,6 +10,12 @@ for [Hugo](http://gohugo.io/) with the [Starter theme](https://github.com/Greg-B
 1. Prose.io integration
 2. Google Analytics
 3. Pagination
+4. Related posts by category and tag
+5. Optional sidebars
+6. Drop down menu header
+7. Flat scroller
+8. Recent Posts
+9. Contact Form
 
 # Using
 
