@@ -15,7 +15,7 @@ paginate = 10
   
   #Starter theme specifics
   tagline = "Portland Drupal Developer"
-  intro = "I make websites that succeed."
+  intro = "I make websites that <strong>succeed.</strong>"
   github = "https://github.com/Greg-Boggs/"
   linkedin = "https://www.linkedin.com/in/gregoryboggs"
   twitter = "https://twitter.com/gregory_boggs"
