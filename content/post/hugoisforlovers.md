@@ -12,7 +12,11 @@ categories = [
     "Development",
     "golang",
 ]
-menu = "main"
+menu = "top"
+theme = "right-sidebar"
+right-sidebar = "true"
+icon = "fa-tablet"
+image = "pic03.jpg"
 +++
 
 ## Step 1. Install Hugo

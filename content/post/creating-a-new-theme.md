@@ -1,7 +1,7 @@
 ---
 author: "Michael Henderson"
 date: 2014-09-28
-linktitle: Creating a Old Theme
+linktitle: Creating a New Theme
 menu:
   main:
     parent: tutorials
@@ -9,6 +9,11 @@ next: /tutorials/github-pages-blog
 prev: /tutorials/automated-deployments
 title: Creating a New Theme
 weight: 10
+menu: "top"
+theme: "right-sidebar"
+right-sidebar: "true"
+icon: "fa-tablet"
+image: "pic03.jpg"
 ---
 
 
