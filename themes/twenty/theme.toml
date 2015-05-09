@@ -1,0 +1,12 @@
+name = "Twenty"
+license = "GPL3"
+licenselink = "https://github.com/Greg-Boggs/html5up-twenty/LICENSE"
+description = "This is Twenty, a minimal, multi-page responsive site template by html5up.com."
+homepage = "https://github.com/Greg-Boggs/starter"
+tags = ["flat", "scrolling", "blog", "website"]
+features = ["blog", "highlighting", "analytics", "related content"]
+min_version=0.13
+
+[author]
+    name = "Greg Boggs"
+    homepage = "http://www.gregboggs.com"

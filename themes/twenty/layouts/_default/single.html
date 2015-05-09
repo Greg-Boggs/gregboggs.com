@@ -1,0 +1,28 @@
+{{ partial "head.html" . }}
+
+<!-- Main -->
+<article id="main">
+	<header class="special container">
+		<span class="icon {{ .Params.icon }}"></span>
+		<h2>{{ .Title }}</h2>
+		<p>{{ .Params.subtitle }}</p>
+	</header>
+
+	<!-- One -->
+	<section class="wrapper style4 container">
+		<div class="row 150%">
+			{{  if eq .Params.theme "left-sidebar" }}{{ partial "sidebar.html" . }}{{end}}
+
+			<!-- Content -->
+			<div class="{{ if eq .Params.theme "no-sidebar" }}12{{else}}8{{end}}u 12u(narrower)">
+				<div class="content">
+					<section>
+						{{ .Content }}
+					</section>
+				</div>
+			</div>
+			{{ if eq .Params.theme "right-sidebar" }}{{ partial "sidebar.html" . }}{{end}}
+
+</article>
+{{ partial "related-posts.html" . }}
+{{ partial "foot.html" . }}

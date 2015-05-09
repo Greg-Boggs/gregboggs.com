@@ -1,0 +1,33 @@
+<!-- Header -->
+<header id="header"{{ $title := (.Title | title ) }}
+				{{ $siteTitle := (.Site.Title) }}
+				{{ if eq $siteTitle $title }} class="alt"{{end}}>
+	<h1 id="logo"><a href="{{ .Site.BaseUrl }}">{{ .Site.Title }} {{ with .Site.Params.tagline }}<span>- {{ . }}</span>{{ end }}</a></h1>
+	<nav id="nav">
+        <!-- top menu start-->
+        <ul>
+            <li class="current"><a href="{{ .Site.BaseUrl }}">Welcome</a></li>
+            {{ $currentNode := . }}
+            {{ range .Site.Menus.top }}
+                {{ if .HasChildren }}
+                    <li{{if $currentNode.HasMenuCurrent "top" . }} class="current"{{end}}>
+                        <a href="{{.Url}}">{{ .Pre }}{{ .Name }}</a>
+                        <ul>
+                            {{ range .Children }}
+                                <li{{if $currentNode.IsMenuCurrent "top" . }} class="current"{{end}}>
+                                    <a href="{{.Url}}">{{ .Pre }}{{ .Name }}</a>
+                                </li>
+                            {{ end }}
+                        </ul>
+                    </li>
+                {{else}}
+                    <li>
+                        <a href="{{.Url}}">{{ .Pre }}{{ .Name }}</a>
+                    </li>
+                {{end}}
+            {{end}}
+            <li><a href="#" class="button special">Sign Up</a></li>
+        </ul>
+        <!-- top menu end-->
+	</nav>
+</header>

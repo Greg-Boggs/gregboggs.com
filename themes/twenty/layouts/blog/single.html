@@ -1,0 +1,37 @@
+{{ partial "head.html" . }}
+{{ if isset .Params "left-sidebar" }}{{ partial "sidebar.html" . }}{{end}}
+
+<!-- Main -->
+<article id="main">
+	<header class="special container">
+		<span class="icon {{ .Params.icon }}"></span>
+		<h2>{{ .Title }}</h2>
+		<p>{{ .Params.subtitle }}</p>
+	</header>
+
+	<!-- One -->
+	<section class="wrapper style4 container">
+		<div class="row 150%">
+			{{ if isset .Params "left-sidebar" }}{{ partial "sidebar.html" . }}{{end}}
+
+			<!-- Content -->
+			<div class="{{ if isset .Params "no-sidebar" }}12{{else}}8{{end}}u 12u(narrower)">
+			<div class="content">
+				<section class="post-meta">
+					{{ .Date.Format "Jan 2, 2006" }} &middot; {{ .ReadingTime }} minute read
+					{{ if isset .Params "categories" }}
+					{{ $baseUrl := .Site.BaseUrl }}
+						{{ range .Params.categories }}
+							<a class="label" href="{{ $baseUrl }}/categories/{{ . | urlize }}">{{ . }}</a>
+						{{ end }}
+					{{ end }}
+				</section>
+				<section>
+					{{ .Content }}
+				</section>
+			</div>
+		</div>
+		{{ if isset .Params "right-sidebar" }}{{ partial "sidebar.html" . }}{{end}}
+</article>
+{{ partial "related-posts.html" . }}
+{{ partial "foot.html" . }}

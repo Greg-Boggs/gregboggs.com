@@ -1,0 +1,67 @@
+{{ partial "head.html" . }}
+{{ if isset .Params "left-sidebar" }}{{ partial "sidebar.html" . }}{{end}}
+
+<!-- Main -->
+<article id="main">
+	<header class="special container">
+		<span class="icon {{ .Params.icon }}"></span>
+		<h2>{{ .Title }}</h2>
+		<p>{{ .Params.subtitle }}</p>
+	</header>
+
+	<!-- One -->
+	<section class="wrapper style4 container">
+		<div class="row 150%">
+			{{ if isset .Params "left-sidebar" }}{{ partial "sidebar.html" . }}{{end}}
+
+			<!-- Content -->
+			<div class="{{ if isset .Params "no-sidebar" }}12{{else}}8{{end}}u 12u(narrower)">
+
+			<div class="content">
+
+				<!-- One -->
+				<section>
+					{{ .Content }}
+				</section>
+				<!-- Two -->
+				<section class="wrapper style4 special container 75%">
+
+					<!-- Content -->
+					<div class="content">
+						<form action="//formspree.io/me@gregboggs.com" method="POST">
+							<div class="row 50%">
+								<div class="6u 12u(mobile)">
+									<input type="text" name="name" placeholder="Name" />
+								</div>
+								<div class="6u 12u(mobile)">
+									<input type="text" name="_replyto" placeholder="Email" />
+								</div>
+							</div>
+							<div class="row 50%">
+								<div class="12u">
+									<input type="text" name="subject" placeholder="Subject" />
+								</div>
+							</div>
+							<div class="row 50%">
+								<div class="12u">
+									<textarea name="message" placeholder="Message" rows="7"></textarea>
+								</div>
+							</div>
+							<div class="row">
+								<div class="12u">
+									<ul class="buttons">
+										<li><input type="submit" class="special" value="Send Message" /></li>
+									</ul>
+								</div>
+							</div>
+							<input type="hidden" name="_next" value="{{ .Site.BaseUrl }}thanks/" />
+							<input type="text" name="_gotcha" style="display:none" />
+						</form>
+					</div>
+				</section>
+			</div>
+		</div>
+		{{ if isset .Params "right-sidebar" }}{{ partial "sidebar.html" . }}{{end}}
+</article>
+{{ partial "related-posts.html" . }}
+{{ partial "foot.html" . }}

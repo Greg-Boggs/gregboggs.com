@@ -1,0 +1,32 @@
+<!-- Two -->
+<section class="wrapper style1 container special">
+	<div class="row">
+		{{ $baseurl := .Site.BaseUrl }}
+		<div class="related-posts">
+			<ul>
+				{{ $page_link := .Permalink }}
+				{{ $tags := .Params.tags }}
+				{{ range .Site.Recent }}
+				{{ $page := . }}
+				{{ $has_common_tags := intersect $tags .Params.tags | len | lt 0 }}
+					{{ if and $has_common_tags (ne $page_link $page.Permalink) }}
+						<div class="4u 12u(narrower)">
+							<section>
+								{{ with .Params.image }}<a href="$page.Permalink" class="image featured"><img src="/images/{{ . }}" alt="" /></a>{{end}}
+								<header>
+									<h3>{{ .Title }}</h3>
+								</header>
+								<p>{{ .Summary }}</p>
+								<footer>
+									<ul class="buttons">
+										<li><a href="{{ $page.Permalink }}" class="button small">{{ $page.Title }}</a></li>
+									</ul>
+								</footer>
+							</section>
+						</div>
+					{{ end }}
+				{{ end }}
+			</ul>
+		</div>
+	</div>
+</section>

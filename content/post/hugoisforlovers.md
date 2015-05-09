@@ -13,8 +13,7 @@ categories = [
     "golang",
 ]
 menu = "top"
-theme = "right-sidebar"
-right-sidebar = "true"
+theme = "no-sidebar"
 icon = "fa-tablet"
 image = "pic03.jpg"
 +++
