@@ -4,7 +4,7 @@
 <!-- Main -->
 <article id="main">
 	<header class="special container">
-		<span class="icon {{ .Params.icon }}"></span>
+		{{ with .Params.icon }}<span class="icon {{ . }}"></span>{{ end }}
 		<h2>{{ .Title }}</h2>
 		<p>{{ .Params.subtitle }}</p>
 	</header>
@@ -12,10 +12,10 @@
 	<!-- One -->
 	<section class="wrapper style4 container">
 		<div class="row 150%">
-			{{ if isset .Params "left-sidebar" }}{{ partial "sidebar.html" . }}{{end}}
+			{{ if eq .Params.theme "left-sidebar" }}{{ partial "sidebar.html" . }}{{end}}
 
 			<!-- Content -->
-			<div class="{{ if isset .Params "no-sidebar" }}12{{else}}8{{end}}u 12u(narrower)">
+			<div class="{{ if eq .Params.theme "left-sidebar" }}12{{else}}8{{end}}u 12u(narrower)">
 			<div class="content">
 				<section class="post-meta">
 					{{ .Date.Format "Jan 2, 2006" }} &middot; {{ .ReadingTime }} minute read
@@ -31,7 +31,7 @@
 				</section>
 			</div>
 		</div>
-		{{ if isset .Params "right-sidebar" }}{{ partial "sidebar.html" . }}{{end}}
+		{{ if eq .Params.theme "left-sidebar" }}{{ partial "sidebar.html" . }}{{end}}
 </article>
 {{ partial "related-posts.html" . }}
 {{ partial "foot.html" . }}
