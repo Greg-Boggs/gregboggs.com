@@ -14,8 +14,3 @@ no-sidebar: true
 icon: fa-envelope
 image: pic03.jpg
 ---
-
-
-## Introduction
-
-This tutorial will show you how to create a simple theme in Hugo. I 
