@@ -12,10 +12,10 @@
 	<!-- One -->
 	<section class="wrapper style4 container">
 		<div class="row 150%">
-			{{ if isset .Params "left-sidebar" }}{{ partial "sidebar.html" . }}{{end}}
+			{{ if eq .Params.theme "left-sidebar" }}{{ partial "sidebar.html" . }}{{end}}
 
 			<!-- Content -->
-			<div class="{{ if isset .Params "no-sidebar" }}12{{else}}8{{end}}u 12u(narrower)">
+			<div class="{{ if isset .Params "theme" }}12{{else}}8{{end}}u 12u(narrower)">
 
 			<div class="content">
 
@@ -61,7 +61,7 @@
 				</section>
 			</div>
 		</div>
-		{{ if isset .Params "right-sidebar" }}{{ partial "sidebar.html" . }}{{end}}
+		{{ if eq .Params.theme "right-sidebar" }}{{ partial "sidebar.html" . }}{{end}}
 </article>
 {{ partial "related-posts.html" . }}
 {{ partial "foot.html" . }}
