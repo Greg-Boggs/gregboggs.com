@@ -4,7 +4,8 @@ uglyurls = false
 paginate = 10
 
 [permalinks]
-  post = "/:title"
+  blog = "/:slug"
+  form = "/:slug"
 
 [params]
   Author = "Greg Boggs"

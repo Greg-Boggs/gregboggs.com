@@ -1,10 +1,10 @@
 ---
 id: 523
-title: Telelanguage
+title: Telelanguage Website
 author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=523
-permalink: /telelanguage/
+url: /telelanguage/
 date: 2013-01-19
 categories:
   - Drupal
