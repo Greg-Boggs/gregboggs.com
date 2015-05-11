@@ -5,6 +5,7 @@ author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=342
 permalink: /php-blowfish-random-salted-passwords/
+date: 2011-07-26
 categories:
   - Blog
 tags:

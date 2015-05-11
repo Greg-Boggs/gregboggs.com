@@ -5,6 +5,7 @@ author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=518
 permalink: /how-to-watch-netflix-on-ubuntu-linux/
+date: 2012-11-30
 categories:
   - Blog
 ---

@@ -5,6 +5,7 @@ author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=724
 permalink: /mysqldump-and-mysqlmariadb-import-of-microsoft-word-special-characters-windows-1251-latin1/
+date: 2013-09-12
 categories:
   - Blog
 ---

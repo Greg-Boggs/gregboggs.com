@@ -5,6 +5,7 @@ author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=236
 permalink: /ubuntu-unable-to-mount-windows-share/
+date: 2010-10-24
 categories:
   - Blog
 tags:

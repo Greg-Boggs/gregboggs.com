@@ -5,6 +5,7 @@ author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=465
 permalink: /drupal-security-updates-with-drush/
+date: 2012-01-31
 categories:
   - Blog
 ---

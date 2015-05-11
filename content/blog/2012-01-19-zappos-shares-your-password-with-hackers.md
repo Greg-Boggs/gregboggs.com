@@ -5,6 +5,7 @@ author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=444
 permalink: /zappos-shares-your-password-with-hackers/
+date: 2012-01-19
 categories:
   - Blog
 ---

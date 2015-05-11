@@ -5,6 +5,7 @@ author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=260
 permalink: /upgrading-to-10-10-not-perfect/
+date: 2010-11-07
 categories:
   - Blog
 tags:

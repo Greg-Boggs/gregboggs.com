@@ -5,6 +5,7 @@ author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=281
 permalink: /free-geeks-receiving/
+date: 2010-11-20
 categories:
   - Blog
 tags:

@@ -5,6 +5,7 @@ author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=239
 permalink: /hash-sum-mismatch/
+date: 2010-10-24
 categories:
   - Blog
 tags:

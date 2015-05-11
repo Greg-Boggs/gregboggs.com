@@ -5,6 +5,7 @@ author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=184
 permalink: /remove-category-from-wordpress-urls/
+date: 2010-10-08
 categories:
   - Blog
 tags:

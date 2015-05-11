@@ -7,6 +7,7 @@ layout: post
 guid: http://www.gregboggs.com/wordpress/?p=1
 permalink: /john-robbins/
 LinkTitle: John Robbins
+date: 2010-09-29
 categories:
   - Programming
   - SEO

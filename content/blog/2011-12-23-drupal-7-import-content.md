@@ -5,6 +5,7 @@ author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=425
 permalink: /drupal-7-import-content/
+date: 2011-12-23
 categories:
   - Blog
 ---

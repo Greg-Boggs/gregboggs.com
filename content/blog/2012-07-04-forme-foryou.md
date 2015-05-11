@@ -5,6 +5,7 @@ author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=632
 permalink: /forme-foryou/
+date: 2012-07-04
 categories:
   - Frontend
   - WordPress

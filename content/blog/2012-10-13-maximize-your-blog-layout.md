@@ -5,6 +5,7 @@ author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=513
 permalink: /maximize-your-blog-layout/
+date: 2012-10-13
 categories:
   - Blog
 ---

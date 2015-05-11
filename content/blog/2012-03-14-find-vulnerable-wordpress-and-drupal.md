@@ -5,6 +5,7 @@ author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=484
 permalink: /find-vulnerable-wordpress-and-drupal/
+date: 2012-03-14
 categories:
   - Blog
 ---

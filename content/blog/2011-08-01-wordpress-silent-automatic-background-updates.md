@@ -5,6 +5,7 @@ author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=370
 permalink: /wordpress-silent-automatic-background-updates/
+date: 2011-08-01
 categories:
   - Blog
 tags:

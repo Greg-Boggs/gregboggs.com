@@ -5,6 +5,7 @@ author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=505
 permalink: /drupal-scrum-tips/
+date: 2012-06-26
 categories:
   - Blog
 ---

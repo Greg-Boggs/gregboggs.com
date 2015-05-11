@@ -5,6 +5,7 @@ author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=706
 permalink: /drupal-7-ajax-forms/
+date: 2013-08-27
 categories:
   - Blog
 ---

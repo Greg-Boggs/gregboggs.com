@@ -5,6 +5,7 @@ author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=229
 permalink: /ask-ubuntu-is-an-internet-black-hole/
+date: 2010-10-15
 categories:
   - Blog
 tags:

@@ -5,6 +5,7 @@ author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=256
 permalink: /netopia-3000-att-dsl-modem-qwest/
+date: 2010-11-03
 categories:
   - Blog
 tags:

@@ -5,6 +5,7 @@ author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=453
 permalink: /decode-your-wordpress-content-to-utf-8/
+date: 2012-01-28
 categories:
   - Blog
 ---

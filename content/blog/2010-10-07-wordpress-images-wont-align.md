@@ -5,6 +5,7 @@ author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=173
 permalink: /wordpress-images-wont-align/
+date: 2010-10-07
 categories:
   - Blog
 tags:
