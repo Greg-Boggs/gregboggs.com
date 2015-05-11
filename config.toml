@@ -23,6 +23,10 @@ paginate = 10
 [Indexes]
   categories = "categories"
 
+[[menu.top]]
+    name = "Blog"
+    url = "/blog/"
+    
 [[menu.blog]]
     name = "Scan WP"
     url = "http://www.scanwp.com"
