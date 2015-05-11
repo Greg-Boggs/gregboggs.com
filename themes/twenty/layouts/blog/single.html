@@ -15,7 +15,7 @@
 			{{ if eq .Params.theme "left-sidebar" }}{{ partial "sidebar.html" . }}{{end}}
 
 			<!-- Content -->
-			<div class="{{ if eq .Params.theme "left-sidebar" }}12{{else}}8{{end}}u 12u(narrower)">
+			<div class="{{ if eq .Params.theme "no-sidebar" }}12{{else}}8{{end}}u 12u(narrower)">
 			<div class="content">
 				<section class="post-meta">
 					{{ .Date.Format "Jan 2, 2006" }} &middot; {{ .ReadingTime }} minute read
