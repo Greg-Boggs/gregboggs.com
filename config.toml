@@ -22,3 +22,16 @@ paginate = 10
 
 [Indexes]
   categories = "categories"
+
+[[menu.blog]]
+    name = "Scan WP"
+    url = "http://www.scanwp.com"
+[[menu.blog]]
+    name = "CSS Complexity"
+    url = "http://css.gregboggs.com"
+[[menu.blog]]
+    name = "Hugo Starter Theme"
+    url = "https://github.com/Greg-Boggs/starter"
+[[menu.blog]]
+    name = "Wesnoth Gaming Ladder"
+    url = "http://sourceforge.net/projects/gamingladder/"

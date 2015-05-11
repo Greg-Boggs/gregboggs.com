@@ -9,6 +9,7 @@ categories:
   - Blog
 tags:
   - Free Geek
+menu: featured
 ---
 Free Geek is a [Portland computer reuse][1] and [recycling][2] non-profit organization. Free Geek takes in [almost all e-waste][3] and either reuses it or responsibly recycles it. They are an amazing organization staffed by a huge volunteer force and run as a consensus-based organization. Every volunteer gets a free computer after only 24 hours of work. So, they get hundreds of volunteers. They take in anyone regardless of skill or ability and they provide training, friendly oversight, and lots of encouragement. They even teach you free classes before you leave home with your Ubuntu computer. Yes, Free Geek only sells computers with the Ubuntu [Free][4] operating system on them!
 
