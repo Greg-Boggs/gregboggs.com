@@ -4,7 +4,7 @@ title: 'Upgrading to 10.10 wasn&#8217;t a perfect 10.'
 author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=260
-permalink: /upgrading-to-10-10-not-perfect/
+url: /upgrading-to-10-10-not-perfect/
 date: 2010-11-07
 categories:
   - Blog

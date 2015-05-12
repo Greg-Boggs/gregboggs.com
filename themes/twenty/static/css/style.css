@@ -1089,3 +1089,8 @@
 			display: inline-block;
 			width: 5em;
 		}
+
+.pagination li {
+	display: inline;
+    padding: 0 10px;
+}

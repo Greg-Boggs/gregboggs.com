@@ -4,7 +4,7 @@ title: 'Best WordPress Plugins I&#8217;m Excited About'
 author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=205
-permalink: /best-wordpress-plugins-im-excited-about/
+url: /best-wordpress-plugins-im-excited-about/
 date: 2010-10-13
 categories:
   - Blog

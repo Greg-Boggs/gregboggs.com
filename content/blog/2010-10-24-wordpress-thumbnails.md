@@ -4,7 +4,7 @@ title: WordPress Thumbnails
 author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=247
-permalink: /wordpress-thumbnails/
+url: /wordpress-thumbnails/
 date: 2010-10-24
 categories:
   - Blog

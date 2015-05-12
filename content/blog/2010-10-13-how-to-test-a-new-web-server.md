@@ -4,7 +4,7 @@ title: How to Test a New Web Server?
 author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=192
-permalink: /how-to-test-a-new-web-server/
+url: /how-to-test-a-new-web-server/
 date: 2010-10-13
 categories:
   - Blog

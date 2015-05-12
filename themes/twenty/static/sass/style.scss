@@ -1013,3 +1013,8 @@ $pattern-background-size: 25em;
 		.indent-4 { display: inline-block; width: 4em; }
 		.indent-5 { display: inline-block; width: 5em; }
 	}
+
+.pagination li {
+  display: inline;
+  padding: 0 10px;
+}

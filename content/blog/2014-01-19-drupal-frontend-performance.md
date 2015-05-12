@@ -4,7 +4,7 @@ title: Improving Drupal Frontend Performance
 author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=750
-permalink: /drupal-frontend-performance/
+url: /drupal-frontend-performance/
 date: 2014-01-19
 categories:
   - Blog

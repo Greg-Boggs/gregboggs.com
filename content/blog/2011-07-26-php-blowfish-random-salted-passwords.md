@@ -4,7 +4,7 @@ title: PHP Hash (bcrypt) Passwords with Random Salt
 author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=342
-permalink: /php-blowfish-random-salted-passwords/
+url: /php-blowfish-random-salted-passwords/
 date: 2011-07-26
 categories:
   - Blog

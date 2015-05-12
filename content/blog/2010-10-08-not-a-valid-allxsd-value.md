@@ -4,7 +4,7 @@ title: Not a valid AllXsd value
 author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=180
-permalink: /not-a-valid-allxsd-value/
+url: /not-a-valid-allxsd-value/
 date: 2010-10-08
 categories:
   - Blog

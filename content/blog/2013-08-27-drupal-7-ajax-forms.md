@@ -4,7 +4,7 @@ title: Drupal 7 AJAX Forms
 author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=706
-permalink: /drupal-7-ajax-forms/
+url: /drupal-7-ajax-forms/
 date: 2013-08-27
 categories:
   - Blog

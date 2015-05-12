@@ -4,7 +4,7 @@ title: Portland State University
 author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=642
-permalink: /portland-state-university/
+url: /portland-state-university/
 date: 2013-07-05
 categories:
   - Design

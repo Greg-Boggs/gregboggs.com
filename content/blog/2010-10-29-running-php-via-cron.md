@@ -4,7 +4,7 @@ title: Running PHP via Cron
 author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=249
-permalink: /running-php-via-cron/
+url: /running-php-via-cron/
 date: 2010-10-29
 categories:
   - Blog

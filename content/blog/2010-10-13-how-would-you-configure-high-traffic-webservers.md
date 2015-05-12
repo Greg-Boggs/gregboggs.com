@@ -4,7 +4,7 @@ title: How Would You Configure High Traffic Webservers?
 author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=187
-permalink: /how-would-you-configure-high-traffic-webservers/
+url: /how-would-you-configure-high-traffic-webservers/
 date: 2010-10-13
 categories:
   - Blog

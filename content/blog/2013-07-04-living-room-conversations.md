@@ -4,7 +4,7 @@ title: Living Room Conversations
 author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=620
-permalink: /living-room-conversations/
+url: /living-room-conversations/
 date: 2013-07-04
 categories:
   - Programming

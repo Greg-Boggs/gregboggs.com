@@ -4,7 +4,7 @@ title: Remove category from WordPress URLs
 author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=184
-permalink: /remove-category-from-wordpress-urls/
+url: /remove-category-from-wordpress-urls/
 date: 2010-10-08
 categories:
   - Blog

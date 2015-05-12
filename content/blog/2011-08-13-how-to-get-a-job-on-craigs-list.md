@@ -4,7 +4,7 @@ title: How to get a Job on Craigslist
 author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=389
-permalink: /how-to-get-a-job-on-craigs-list/
+url: /how-to-get-a-job-on-craigs-list/
 date: 2011-08-13
 categories:
   - Blog

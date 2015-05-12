@@ -4,7 +4,7 @@ title: 'Free Geek Volunteer &#8211; Day 1 &#8211; Receiving'
 author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=281
-permalink: /free-geeks-receiving/
+url: /free-geeks-receiving/
 date: 2010-11-20
 categories:
   - Blog

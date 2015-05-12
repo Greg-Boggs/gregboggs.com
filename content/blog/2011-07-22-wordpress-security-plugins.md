@@ -4,7 +4,7 @@ title: WordPress Security Plugins
 author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=330
-permalink: /wordpress-security-plugins/
+url: /wordpress-security-plugins/
 date: 2011-07-22
 categories:
   - Blog

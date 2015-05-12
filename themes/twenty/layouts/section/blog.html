@@ -17,20 +17,22 @@
 								<h3 class="post-title">
 									<a href="{{ .Permalink }}">{{ .Title }}</a>
 								</h3>
-								<div class="post-meta">
-									{{ .Date.Format "Jan 2, 2006" }} &middot; {{ .ReadingTime }} minute read &middot; {{ .FuzzyWordCount }} words
+								<p class="post-meta">
+									{{ .Date.Format "Jan 2, 2006" }} &middot; {{ .ReadingTime }} minute read &middot; {{ .FuzzyWordCount }} words &middot; In
 									{{ if isset .Params "categories" }}
 										{{ $baseUrl := .Site.BaseUrl }}
 										{{ range .Params.categories }}
 											<a class="label" href="{{ $baseUrl }}/categories/{{ . | urlize }}">{{ . }}</a>
 										{{ end }}
 									{{ end }}
-								</div>
+								</p>
 							</header>
-							<p class="summary">{{ .Summary }}</p>
-							<footer>
-								<a class="read-more" href="{{ .Permalink }}">Read On &rarr;</a>
-							</footer>
+							<section class="summary">
+								<p>{{ .Summary }}</p>
+							</section>
+							<p>
+								<a class="read-more button" href="{{ .Permalink }}">Read On &rarr;</a>
+							</p>
 						</article>
 					{{ end }}
 					<footer>

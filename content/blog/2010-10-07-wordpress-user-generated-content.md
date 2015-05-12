@@ -4,7 +4,7 @@ title: WordPress User Generated Content
 author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=151
-permalink: /wordpress-user-generated-content/
+url: /wordpress-user-generated-content/
 date: 2010-10-07
 categories:
   - Blog

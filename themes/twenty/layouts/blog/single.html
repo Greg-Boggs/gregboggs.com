@@ -16,7 +16,7 @@
 
 			<!-- Content -->
 			<div class="{{ if isset .Params "theme" }}8{{else}}12{{end}}u 12u(narrower)">
-				<section class="post-meta">
+				<p class="post-meta">
 					{{ .Date.Format "Jan 2, 2006" }} &middot; {{ .ReadingTime }} minute read
 					{{ if isset .Params "categories" }}
 					{{ $baseUrl := .Site.BaseUrl }}
@@ -24,7 +24,7 @@
 							<a class="label" href="{{ $baseUrl }}/categories/{{ . | urlize }}">{{ . }}</a>
 						{{ end }}
 					{{ end }}
-				</section>
+				</p>
 				<section>
 					{{ .Content }}
 				</section>

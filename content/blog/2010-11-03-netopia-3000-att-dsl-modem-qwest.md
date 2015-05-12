@@ -4,7 +4,7 @@ title: Netopia 3000 for Qwest DSL
 author: greg
 layout: post
 guid: http://www.gregboggs.com/?p=256
-permalink: /netopia-3000-att-dsl-modem-qwest/
+url: /netopia-3000-att-dsl-modem-qwest/
 date: 2010-11-03
 categories:
   - Blog
