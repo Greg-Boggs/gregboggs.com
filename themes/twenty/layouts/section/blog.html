@@ -1,11 +1,6 @@
 {{ partial "head.html" . }}
 <!-- Main -->
 <article id="main">
-	<header class="special container">
-		<span class="icon fa-file-text"></span>
-		<h2>Blog</h2>
-		<p>Subtitle for Blog</p>
-	</header>
 	<section class="wrapper style4 container">
 		<div class="row 150%">
 			<div class="8u 12u(narrower)">
@@ -17,7 +12,7 @@
 								<h3 class="post-title">
 									<a href="{{ .Permalink }}">{{ .Title }}</a>
 								</h3>
-								<p class="post-meta">
+								<span class="post-meta">
 									{{ .Date.Format "Jan 2, 2006" }} &middot; {{ .ReadingTime }} minute read &middot; {{ .FuzzyWordCount }} words &middot; In
 									{{ if isset .Params "categories" }}
 										{{ $baseUrl := .Site.BaseUrl }}
@@ -25,7 +20,7 @@
 											<a class="label" href="{{ $baseUrl }}/categories/{{ . | urlize }}">{{ . }}</a>
 										{{ end }}
 									{{ end }}
-								</p>
+								</span>
 							</header>
 							<section class="summary">
 								<p>{{ .Summary }}</p>
