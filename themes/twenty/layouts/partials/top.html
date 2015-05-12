@@ -6,7 +6,7 @@
 	<nav id="nav">
         <!-- top menu start-->
         <ul>
-            <li class="current"><a href="{{ .Site.BaseUrl }}">Welcome</a></li>
+            <li><a href="{{ .Site.BaseUrl }}">Welcome</a></li>
             {{ $currentNode := . }}
             {{ range .Site.Menus.top }}
                 {{ if .HasChildren }}
@@ -26,7 +26,7 @@
                     </li>
                 {{end}}
             {{end}}
-            <li><a href="#" class="button special">Sign Up</a></li>
+            <li><a href="/contact-me/" class="button special">Contact Me</a></li>
         </ul>
         <!-- top menu end-->
 	</nav>
