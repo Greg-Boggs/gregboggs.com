@@ -1,0 +1,31 @@
+<!-- Sidebar -->
+<div class="4u 12u(narrower)">
+	<div class="sidebar">
+		<section>
+			<h3>Featured</h3>
+			<nav class="blog">
+				<ul class="links navlist">
+					{{ range .Site.Menus.featured }}
+					  <li><a href="{{ .Url }}">{{ .Pre }}{{ .Name | safeHtml }}</a></li>
+					{{end}}
+				</ul>
+		</section>
+		<section>
+			<h3>Recent</h3>
+			<ul>
+				{{ range first 5 (where .Data.Pages "Section" "blog") }}
+				  <li><a href="{{ .RelPermalink }}">{{ .Title | safeHtml }}</a></li>
+				{{ end }}
+			</ul>
+		</section>
+		<section>
+			<h3>Projects</h3>
+			<nav class="blog">
+				<ul class="links navlist">
+					{{ range .Site.Menus.blog }}
+					  <li><a href="{{ .Url }}">{{ .Pre }}{{ .Name }}</a></li>
+					{{end}}
+				</ul>
+		</section>
+	</div>
+</div>
