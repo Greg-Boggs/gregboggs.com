@@ -12,7 +12,7 @@ $pattern-background-size: 10em;
 		min-width: 320px;
 	}
 
-	h2 {
+	h1, h2 {
 		font-size: 1.25em;
 		letter-spacing: 0.1em;
 	}
@@ -145,7 +145,7 @@ $pattern-background-size: 10em;
 			padding: 0 1.5em;
 
 			header {
-				h2 {
+				h1, h2 {
 					font-size: 1.5em;
 				}
 			}

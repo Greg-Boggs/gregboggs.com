@@ -10,7 +10,7 @@
 		min-width: 320px;
 	}
 
-	h2 {
+	h1, h2 {
 		font-size: 1.25em;
 		letter-spacing: 0.1em;
 	}
@@ -131,7 +131,7 @@
 			display: block;
 			padding: 0 1.5em;
 		}
-
+            #banner .inner header h1,
 			#banner .inner header h2 {
 				font-size: 1.5em;
 			}

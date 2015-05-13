@@ -58,7 +58,7 @@
 		margin: 0 0 2em 0;
 	}
 
-	h1, h2, h3, h4, h5, h6 {
+	h1, h2, h3, h4, h5, h6, .logo {
 		color: inherit;
 		font-weight: 300;
 		line-height: 1.75em;
@@ -66,13 +66,13 @@
 		text-transform: uppercase;
 	}
 
-		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, .logo a {
 			color: inherit;
 			text-decoration: none;
 			border: 0;
 		}
 
-	h2 {
+	h1, h2 {
 		font-size: 1.5em;
 		letter-spacing: 0.1em;
 	}
@@ -141,11 +141,11 @@
 		header.special:after {
 			right: 0;
 		}
-
+        header.special h1,
 		header.special h2 {
 			margin-bottom: 0;
 		}
-
+        header.special h2 + p,
 		header.special h2 + p {
 			margin-bottom: 0;
 			padding-top: 1.5em;
@@ -627,12 +627,12 @@
 		z-index: 10000;
 	}
 
-		#header h1 {
+		#header .logo {
 			font-weight: 900;
 			margin: 0;
 		}
 
-			#header h1 span {
+			#header .logo span {
 				font-weight: 300;
 			}
 
@@ -827,7 +827,7 @@
 				margin: 0 0 2em 0;
 				padding: 3px 0 3px 0;
 			}
-
+                #banner .inner header h1,
 				#banner .inner header h2 {
 					border-bottom: solid 2px;
 					border-top: solid 2px;
@@ -1102,4 +1102,13 @@
 
 .next {
 	float:right;
+}
+
+.post-meta {
+    font-style: italic;
+    margin-bottom: 2.2em;
+}
+
+.sidebar li {
+    padding-bottom: 10px;
 }

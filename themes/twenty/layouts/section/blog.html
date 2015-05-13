@@ -9,9 +9,9 @@
 					{{ range $paginator.Pages }}
 						<article class="post">
 							<header>
-								<h3 class="post-title">
+								<h2 class="post-title">
 									<a href="{{ .Permalink }}">{{ .Title }}</a>
-								</h3>
+								</h2>
 								<span class="post-meta">
 									{{ .Date.Format "Jan 2, 2006" }} &middot; {{ .ReadingTime }} minute read &middot; {{ .FuzzyWordCount }} words &middot; In
 									{{ if isset .Params "categories" }}

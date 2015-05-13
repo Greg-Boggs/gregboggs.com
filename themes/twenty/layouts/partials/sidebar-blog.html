@@ -6,7 +6,7 @@
 			<nav class="blog">
 				<ul class="links navlist">
 					{{ range .Site.Menus.featured }}
-					  <li><a href="{{ .Url }}">{{ .Pre }}{{ .Name | safeHtml }}</a></li>
+					  <li><span class="icon fa-angle-right"> <a href="{{ .Url }}">{{ .Pre }}{{ .Name | safeHtml }}</a></span></li>
 					{{end}}
 				</ul>
 		</section>
@@ -14,7 +14,7 @@
 			<h3>Recent</h3>
 			<ul>
 				{{ range first 5 (where .Data.Pages "Section" "blog") }}
-				  <li><a href="{{ .RelPermalink }}">{{ .Title | safeHtml }}</a></li>
+				  <li><span class="icon fa-angle-right"> <a href="{{ .RelPermalink }}">{{ .Title | safeHtml }}</a></span></li>
 				{{ end }}
 			</ul>
 		</section>
@@ -23,7 +23,7 @@
 			<nav class="blog">
 				<ul class="links navlist">
 					{{ range .Site.Menus.blog }}
-					  <li><a href="{{ .Url }}">{{ .Pre }}{{ .Name }}</a></li>
+					  <li><span class="icon fa-angle-right"> <a href="{{ .Url }}">{{ .Pre }}{{ .Name }}</a></span></li>
 					{{end}}
 				</ul>
 		</section>

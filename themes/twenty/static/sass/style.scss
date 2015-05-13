@@ -52,7 +52,7 @@ $pattern-background-size: 25em;
 		margin: 0 0 2em 0;
 	}
 
-	h1, h2, h3, h4, h5, h6 {
+	h1, h2, h3, h4, h5, h6, .logo {
 		color: inherit;
 		font-weight: 300;	
 		line-height: 1.75em;
@@ -66,7 +66,7 @@ $pattern-background-size: 25em;
 		}
 	}
 
-	h2 {
+	h1, h2 {
 		font-size: 1.5em;
 		letter-spacing: 0.1em;
 	}
@@ -598,7 +598,7 @@ $pattern-background-size: 25em;
 		width: 100%;
 		z-index: 10000;
 		
-		h1 {
+		.logo {
 			font-weight: 900;
 			margin: 0;
 			
@@ -1025,5 +1025,14 @@ $pattern-background-size: 25em;
 }
 
 .next {
-  float:right;
+  float: right;
+}
+
+.post-meta {
+  font-style: italic;
+  margin-bottom: 2.2em;
+}
+
+.sidebar li {
+  padding-bottom: 10px;
 }
