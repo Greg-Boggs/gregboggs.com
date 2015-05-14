@@ -12,12 +12,12 @@
 						<section>
 							{{ with .Params.image }}<a href="$page.Permalink" class="image featured"><img src="/images/{{ . }}" alt="" /></a>{{end}}
 							<header>
-								<h3>{{ .Title }}</h3>
+								<h3>{{ .Title | safeHtml }}</h3>
 							</header>
 							<p>{{ .Summary }}</p>
 							<footer>
 								<ul class="buttons">
-									<li><a href="{{ $page.Permalink }}" class="button small">{{ $page.LinkTitle }}</a></li>
+									<li><a href="{{ $page.Permalink }}" class="button small">Read More</a></li>
 								</ul>
 							</footer>
 						</section>

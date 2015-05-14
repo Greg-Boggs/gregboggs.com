@@ -10,7 +10,6 @@
 			<!-- Content -->
 			<div class="{{ if isset .Params "theme" }}8{{else}}12{{end}}u 12u(narrower)">
 				<header>
-					{{ with .Params.icon }}<span class="icon {{ . }}"></span>{{ end }}
 					<h1>{{ .Title }}</h1>
 					<p>{{ .Params.subtitle }}</p>
 				</header>
@@ -27,13 +26,13 @@
 					{{ .Content }}
 				</section>
 			</div>
-		{{ if eq .Params.theme "right-sidebar" }}{{ partial "sidebar.html" . }}{{end}}
+		{{ if eq .Params.theme "right-sidebar" }}{{ partial "sidebar-blog.html" . }}{{end}}
 		</div>
 		{{ if .Prev }}
-		<a class="prev" href="{{ .Prev.Permalink }}"><span class="icon fa-angle-left"> {{ .Prev.Title }}</span></a>
+		<a class="prev" href="{{ .Prev.Permalink }}"><span class="icon fa-angle-left"> {{ .Prev.Title | safeHtml }}</span></a>
 		{{ end }}
 		{{ if .Next }}
-		<a class="next" href="{{ .Next.Permalink }}">{{ .Next.Title }} <span class="icon fa-angle-right"></span></a>
+		<a class="next" href="{{ .Next.Permalink }}">{{ .Next.Title | safeHtml}} <span class="icon fa-angle-right"></span></a>
 		{{ end }}
 	</section>
 </article>

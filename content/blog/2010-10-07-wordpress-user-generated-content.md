@@ -6,6 +6,7 @@ layout: post
 guid: http://www.gregboggs.com/?p=151
 url: /wordpress-user-generated-content/
 date: 2010-10-07
+theme: right-sidebar
 categories:
   - Blog
 tags:

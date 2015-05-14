@@ -6,8 +6,17 @@
 	<nav id="nav">
         <!-- top menu start-->
         <ul>
-            <li><a href="{{ .Site.BaseUrl }}">Home</a></li>
+					{{ $title := (.Title | title ) }}
+					{{ $siteTitle := (.Site.Title) }}
+					{{ if eq $siteTitle $title }}
+						<li><a class="scrolly" href="#banner">Home</a></li>
+						<li><a class="scrolly" href="#main">About</a></li>
 						<li><a class="scrolly" href="#work">Work</a></li>
+					{{else}}
+						<li><a href="{{ .Site.BaseUrl }}">Home</a></li>
+					<li><a class="scrolly" href="{{ .Site.BaseUrl }}#main">About</a></li>
+						<li><a href="{{ .Site.BaseUrl }}#work">Work</a></li>
+					{{end}}
             {{ $currentNode := . }}
             {{ range .Site.Menus.top }}
                 {{ if .HasChildren }}

@@ -1,9 +1,7 @@
 +++
 title = "Thanks"
-date = "2014-04-09"
-theme = "no-sidebar"
-no-sidebar = "true"
-icon = "fa-tablet"
+date = "2010-04-09"
+theme = "right-sidebar"
 +++
 
 Hugo is a static site engine written in Go.

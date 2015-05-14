@@ -13,7 +13,7 @@
 		<section>
 			<h3>Recent</h3>
 			<ul>
-				{{ range first 5 (where .Data.Pages "Section" "blog") }}
+				{{ range first 5 .Site.Recent }}
 				  <li><span class="icon fa-angle-right"> <a href="{{ .RelPermalink }}">{{ .Title | safeHtml }}</a></span></li>
 				{{ end }}
 			</ul>
