@@ -2,7 +2,7 @@
 id: 153
 title: Top 10 WordPress Plugin Lists
 author: greg
-layout: post
+
 guid: http://www.gregboggs.com/?p=153
 url: /top-10-wordpress-plugin-lists/
 date: 2010-10-07

@@ -2,7 +2,7 @@
 id: 187
 title: How Would You Configure High Traffic Webservers?
 author: greg
-layout: post
+
 guid: http://www.gregboggs.com/?p=187
 url: /how-would-you-configure-high-traffic-webservers/
 date: 2010-10-13

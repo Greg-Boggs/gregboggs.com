@@ -2,7 +2,7 @@
 id: 425
 title: Drupal 7 Import content with custom fields, images, and taxonomy
 author: greg
-layout: post
+
 guid: http://www.gregboggs.com/?p=425
 url: /drupal-7-import-content/
 date: 2011-12-23

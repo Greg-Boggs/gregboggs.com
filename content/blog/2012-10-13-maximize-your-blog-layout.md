@@ -2,7 +2,7 @@
 id: 513
 title: Maximize your blog layout
 author: greg
-layout: post
+
 guid: http://www.gregboggs.com/?p=513
 url: /maximize-your-blog-layout/
 date: 2012-10-13

@@ -2,7 +2,7 @@
 id: 239
 title: Ubuntu Hash Sum mismatch
 author: greg
-layout: post
+
 guid: http://www.gregboggs.com/?p=239
 url: /hash-sum-mismatch/
 date: 2010-10-24

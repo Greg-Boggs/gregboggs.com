@@ -2,7 +2,7 @@
 id: 484
 title: Find Vulnerable WordPress and Drupal
 author: greg
-layout: post
+
 guid: http://www.gregboggs.com/?p=484
 url: /find-vulnerable-wordpress-and-drupal/
 date: 2012-03-14

@@ -2,7 +2,7 @@
 id: 505
 title: Drupal Scrum Tips
 author: greg
-layout: post
+
 guid: http://www.gregboggs.com/?p=505
 url: /drupal-scrum-tips/
 date: 2012-06-26

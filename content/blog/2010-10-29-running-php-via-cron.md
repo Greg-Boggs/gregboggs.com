@@ -2,7 +2,7 @@
 id: 249
 title: Running PHP via Cron
 author: greg
-layout: post
+
 guid: http://www.gregboggs.com/?p=249
 url: /running-php-via-cron/
 date: 2010-10-29

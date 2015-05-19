@@ -2,7 +2,7 @@
 id: 330
 title: WordPress Security Plugins
 author: greg
-layout: post
+
 guid: http://www.gregboggs.com/?p=330
 url: /wordpress-security-plugins/
 date: 2011-07-22

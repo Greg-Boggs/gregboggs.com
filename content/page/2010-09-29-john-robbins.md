@@ -3,7 +3,7 @@ id: 308
 title: John Robbins
 author: greg
 excerpt: "Greg has helped us to generate more than 5,000 unique visitors in just one day, and to generate more than 4,963 external links promoting our site."
-layout: post
+
 guid: http://www.gregboggs.com/wordpress/?p=1
 url: /john-robbins/
 LinkTitle: John Robbins

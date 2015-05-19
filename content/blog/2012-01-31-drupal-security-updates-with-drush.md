@@ -2,7 +2,7 @@
 id: 465
 title: Drupal Security Updates with Drush
 author: greg
-layout: post
+
 guid: http://www.gregboggs.com/?p=465
 url: /drupal-security-updates-with-drush/
 date: 2012-01-31

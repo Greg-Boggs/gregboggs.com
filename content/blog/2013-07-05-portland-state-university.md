@@ -2,7 +2,7 @@
 id: 642
 title: Portland State University
 author: greg
-layout: post
+
 guid: http://www.gregboggs.com/?p=642
 url: /portland-state-university/
 date: 2013-07-05

@@ -2,7 +2,7 @@
 id: 766
 title: 'Join me at the Devsigner conference in Portland this May: designers and developers join forces!'
 author: greg
-layout: post
+
 guid: http://www.gregboggs.com/?p=766
 url: /join-me-at-the-devsigner-conference-in-portland-this-may-designers-and-developers-join-forces/
 date: 2014-05-01

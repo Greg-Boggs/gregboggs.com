@@ -2,7 +2,7 @@
 id: 706
 title: Drupal 7 AJAX Forms
 author: greg
-layout: post
+
 guid: http://www.gregboggs.com/?p=706
 url: /drupal-7-ajax-forms/
 date: 2013-08-27

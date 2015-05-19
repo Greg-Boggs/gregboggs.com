@@ -2,7 +2,7 @@
 id: 151
 title: WordPress User Generated Content
 author: greg
-layout: post
+
 guid: http://www.gregboggs.com/?p=151
 url: /wordpress-user-generated-content/
 date: 2010-10-07

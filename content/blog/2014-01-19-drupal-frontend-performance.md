@@ -2,7 +2,7 @@
 id: 750
 title: Improving Drupal Frontend Performance
 author: greg
-layout: post
+
 guid: http://www.gregboggs.com/?p=750
 url: /drupal-frontend-performance/
 date: 2014-01-19

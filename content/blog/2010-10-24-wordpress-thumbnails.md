@@ -2,7 +2,7 @@
 id: 247
 title: WordPress Thumbnails
 author: greg
-layout: post
+
 guid: http://www.gregboggs.com/?p=247
 url: /wordpress-thumbnails/
 date: 2010-10-24

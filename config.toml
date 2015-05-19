@@ -6,6 +6,7 @@ paginate = 10
 [permalinks]
   blog = "/:slug"
   form = "/:slug"
+  page = "/:slug"
 
 [params]
   Author = "Greg Boggs"

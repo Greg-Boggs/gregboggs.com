@@ -2,7 +2,7 @@
 id: 281
 title: 'Free Geek Volunteer &#8211; Day 1 &#8211; Receiving'
 author: greg
-layout: post
+
 guid: http://www.gregboggs.com/?p=281
 url: /free-geeks-receiving/
 date: 2010-11-20

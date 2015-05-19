@@ -2,7 +2,7 @@
 id: 523
 title: Telelanguage Website
 author: greg
-layout: post
+
 guid: http://www.gregboggs.com/?p=523
 url: /telelanguage/
 date: 2013-01-19

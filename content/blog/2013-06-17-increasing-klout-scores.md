@@ -2,7 +2,7 @@
 id: 561
 title: Increasing Klout Score by 30 Points
 author: greg
-layout: post
+
 guid: http://www.gregboggs.com/?p=561
 url: /increasing-klout-scores/
 date: 2013-06-17
