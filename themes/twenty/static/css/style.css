@@ -1112,3 +1112,7 @@
 .sidebar li {
     padding-bottom: 10px;
 }
+
+.related img {
+    max-width: 100%
+}
