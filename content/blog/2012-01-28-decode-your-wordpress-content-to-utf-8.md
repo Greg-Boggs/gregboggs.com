@@ -1,7 +1,7 @@
 ---
 id: 453
 title: Decode your WordPress content to UTF-8
-author: greg
+author: Greg Boggs
 
 guid: http://www.gregboggs.com/?p=453
 url: /decode-your-wordpress-content-to-utf-8/

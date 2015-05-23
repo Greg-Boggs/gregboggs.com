@@ -1,7 +1,7 @@
 ---
 id: 561
 title: Increasing Klout Score by 30 Points
-author: greg
+author: Greg Boggs
 
 guid: http://www.gregboggs.com/?p=561
 url: /increasing-klout-scores/

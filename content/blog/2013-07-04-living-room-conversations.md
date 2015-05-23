@@ -1,7 +1,7 @@
 ---
 id: 620
 title: Living Room Conversations
-author: greg
+author: Greg Boggs
 
 guid: http://www.gregboggs.com/?p=620
 url: /living-room-conversations/

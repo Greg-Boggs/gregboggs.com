@@ -1,7 +1,7 @@
 ---
 id: 330
 title: WordPress Security Plugins
-author: greg
+author: Greg Boggs
 
 guid: http://www.gregboggs.com/?p=330
 url: /wordpress-security-plugins/

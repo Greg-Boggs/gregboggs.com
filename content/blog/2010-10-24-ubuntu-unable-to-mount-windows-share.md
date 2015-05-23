@@ -1,7 +1,7 @@
 ---
 id: 236
 title: Ubuntu unable to mount windows share
-author: greg
+author: Greg Boggs
 
 guid: http://www.gregboggs.com/?p=236
 url: /ubuntu-unable-to-mount-windows-share/

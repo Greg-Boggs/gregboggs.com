@@ -1,7 +1,7 @@
 ---
 id: 192
 title: How to Test a New Web Server?
-author: greg
+author: Greg Boggs
 
 guid: http://www.gregboggs.com/?p=192
 url: /how-to-test-a-new-web-server/

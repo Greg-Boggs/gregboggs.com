@@ -1,7 +1,7 @@
 ---
 id: 523
 title: Telelanguage Website
-author: greg
+author: Greg Boggs
 
 guid: http://www.gregboggs.com/?p=523
 url: /telelanguage/

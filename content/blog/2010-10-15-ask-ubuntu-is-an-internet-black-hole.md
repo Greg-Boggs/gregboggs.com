@@ -1,7 +1,7 @@
 ---
 id: 229
 title: Ask Ubuntu is an Internet Black Hole
-author: greg
+author: Greg Boggs
 
 guid: http://www.gregboggs.com/?p=229
 url: /ask-ubuntu-is-an-internet-black-hole/

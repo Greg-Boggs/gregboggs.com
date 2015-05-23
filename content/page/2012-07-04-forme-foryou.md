@@ -1,7 +1,7 @@
 ---
 id: 632
 title: For Me, For You
-author: greg
+author: Greg Boggs
 
 guid: http://www.gregboggs.com/?p=632
 url: /forme-foryou/

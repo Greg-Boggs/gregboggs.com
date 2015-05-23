@@ -1,7 +1,7 @@
 ---
 id: 247
 title: WordPress Thumbnails
-author: greg
+author: Greg Boggs
 
 guid: http://www.gregboggs.com/?p=247
 url: /wordpress-thumbnails/

@@ -1,7 +1,7 @@
 ---
 id: 151
 title: WordPress User Generated Content
-author: greg
+author: Greg Boggs
 
 guid: http://www.gregboggs.com/?p=151
 url: /wordpress-user-generated-content/

@@ -1,7 +1,7 @@
 ---
 id: 642
 title: Portland State University
-author: greg
+author: Greg Boggs
 
 guid: http://www.gregboggs.com/?p=642
 url: /portland-state-university/

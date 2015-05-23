@@ -1,7 +1,7 @@
 ---
 id: 680
 title: Portland Drupal Group Gets a little Awesome
-author: greg
+author: Greg Boggs
 
 guid: http://www.gregboggs.com/?p=680
 url: /portland-drupal-group-gets-a-little-awesome/

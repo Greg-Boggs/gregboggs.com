@@ -1,7 +1,7 @@
 ---
 id: 173
 title: 'WordPress Images Won&#8217;t Align'
-author: greg
+author: Greg Boggs
 
 guid: http://www.gregboggs.com/?p=173
 url: /wordpress-images-wont-align/

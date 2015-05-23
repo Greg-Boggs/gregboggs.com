@@ -1,7 +1,7 @@
 ---
 id: 444
 title: Zappos shares your password with hackers
-author: greg
+author: Greg Boggs
 
 guid: http://www.gregboggs.com/?p=444
 url: /zappos-shares-your-password-with-hackers/

@@ -1,7 +1,7 @@
 ---
 id: 724
 title: Mysqldump and mySQL/Mariadb import of Microsoft Word Special Characters Windows 1251 (Latin1)
-author: greg
+author: Greg Boggs
 
 guid: http://www.gregboggs.com/?p=724
 url: /mysqldump-and-mysqlmariadb-import-of-microsoft-word-special-characters-windows-1251-latin1/

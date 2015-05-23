@@ -1,7 +1,7 @@
 ---
 id: 389
 title: How to get a Job on Craigslist
-author: greg
+author: Greg Boggs
 
 guid: http://www.gregboggs.com/?p=389
 url: /how-to-get-a-job-on-craigs-list/

@@ -1,7 +1,7 @@
 ---
 id: 370
 title: WordPress Silent Automatic Background Updates
-author: greg
+author: Greg Boggs
 
 guid: http://www.gregboggs.com/?p=370
 url: /wordpress-silent-automatic-background-updates/

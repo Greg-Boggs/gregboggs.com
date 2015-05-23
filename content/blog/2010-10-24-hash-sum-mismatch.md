@@ -1,7 +1,7 @@
 ---
 id: 239
 title: Ubuntu Hash Sum mismatch
-author: greg
+author: Greg Boggs
 
 guid: http://www.gregboggs.com/?p=239
 url: /hash-sum-mismatch/

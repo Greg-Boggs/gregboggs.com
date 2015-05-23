@@ -1,7 +1,7 @@
 ---
 id: 256
 title: Netopia 3000 for Qwest DSL
-author: greg
+author: Greg Boggs
 
 guid: http://www.gregboggs.com/?p=256
 url: /netopia-3000-att-dsl-modem-qwest/

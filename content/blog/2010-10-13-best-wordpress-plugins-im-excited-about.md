@@ -1,7 +1,7 @@
 ---
 id: 205
 title: 'Best WordPress Plugins I&#8217;m Excited About'
-author: greg
+author: Greg Boggs
 
 guid: http://www.gregboggs.com/?p=205
 url: /best-wordpress-plugins-im-excited-about/

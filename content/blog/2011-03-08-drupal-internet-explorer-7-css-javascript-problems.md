@@ -1,7 +1,7 @@
 ---
 id: 310
 title: Drupal Internet Explorer 7 CSS Problems
-author: greg
+author: Greg Boggs
 
 guid: http://www.gregboggs.com/?p=310
 url: /drupal-internet-explorer-7-css-javascript-problems/

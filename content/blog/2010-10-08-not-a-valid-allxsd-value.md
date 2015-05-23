@@ -1,7 +1,7 @@
 ---
 id: 180
 title: Not a valid AllXsd value
-author: greg
+author: Greg Boggs
 
 guid: http://www.gregboggs.com/?p=180
 url: /not-a-valid-allxsd-value/

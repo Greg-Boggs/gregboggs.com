@@ -1,7 +1,7 @@
 ---
 id: 184
 title: Remove category from WordPress URLs
-author: greg
+author: Greg Boggs
 
 guid: http://www.gregboggs.com/?p=184
 url: /remove-category-from-wordpress-urls/

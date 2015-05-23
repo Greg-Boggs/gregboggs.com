@@ -1,7 +1,7 @@
 ---
 id: 325
 title: Who Does Google Think I Am?
-author: greg
+author: Greg Boggs
 
 guid: http://www.gregboggs.com/?p=325
 url: /who-does-google-think-you-are/
