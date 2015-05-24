@@ -10,7 +10,7 @@
 					{{ $siteTitle := (.Site.Title) }}
 					{{ if eq $siteTitle $title }}
 						<li><a class="scrolly" href="#banner">Home</a></li>
-						<li><a class="scrolly" href="#main">About</a></li>
+						<li><a class="scrolly" href="/about-greg-boggs/">About</a></li>
 						<li><a class="scrolly" href="#work">Work</a></li>
 					{{else}}
 						<li><a href="{{ .Site.BaseUrl }}">Home</a></li>
@@ -36,7 +36,7 @@
                     </li>
                 {{end}}
             {{end}}
-            <li><a href="/contact-me/" class="button special">Contact Me</a></li>
+            <li><a href="/contact-me/" class="button special">Hire Me</a></li>
         </ul>
         <!-- top menu end-->
 	</nav>
