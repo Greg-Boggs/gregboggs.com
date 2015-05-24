@@ -11,10 +11,10 @@ tags:
   - TNG
 ---
 <img src="/portfolio/intel-finance_1.jpg" alt="Intel Finance Website" />
-This world-class knowledge management platform is used by <strong>multiple Intel departments</strong> to provide search, subscriptions,
-and more<!--more-->. Finance takes advantage of the powerful features built into this Drupal-based knowledge center platform, 
-including powerful filterable search, content subscriptions. Further, Finance takes the tool to the next level by adding 
-private groups and an coworker recommendation system.
+This world-class knowledge management platform is used by <strong>multiple Intel departments</strong> to provide search,
+subscriptions, and more<!--more-->. Finance takes advantage of the powerful features built into this Drupal-based knowledge
+center platform, including powerful filterable search, content subscriptions. Further, Finance advances the tool by adding
+private groups, secure content, and a coworker recommendation system.
 
 Key features:
 
