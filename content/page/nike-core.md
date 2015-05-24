@@ -5,7 +5,7 @@ url: /nike-core/
 date: 2013-12-01
 categories:
   - Drupal
-  - Frontend
+  - Responsive
   - Programming
 tags:
   - TNG
@@ -22,7 +22,10 @@ the project, I lead the implementation many complex features such as:
   * 3 second page load despite each page being unique per user
 
 See the future of training at Nike:
+
 <img alt="Nike Core Website" src="/portfolio/nike-core_2.jpg" />
+
 <img alt="Nike Core Website" src="/portfolio/nike-core_4.jpg" />
+
 <img alt="Nike Core Website" src="/portfolio/nike-core_3.jpg" />
 

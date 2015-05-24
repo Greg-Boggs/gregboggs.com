@@ -21,7 +21,10 @@
 			{{ if eq .Params.theme "right-sidebar" }}{{ partial "sidebar.html" . }}{{end}}
 		</div>
 	</section>
-  {{ partial "prev-next.html" . }}
 </article>
-{{ partial "related-posts.html" . }}
+{{ partial "cta.html" . }}
+<section class="wrapper container">
+	<h2>Related Work</h2>
+	{{ partial "related-posts.html" . }}
+</section>
 {{ partial "foot.html" . }}

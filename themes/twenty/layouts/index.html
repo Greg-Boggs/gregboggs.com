@@ -114,11 +114,12 @@
 			<div class="row">
 				<div class="6u 12u(narrower)">
 					<section>
-						<a href="#" class="image featured"><img src="/portfolio/hitachi_thumb.jpg" alt="" /></a>
+						<a href="/hitachi-hta/" class="image featured"><img src="/portfolio/hitachi_thumb.jpg" alt="" /></a>
 						<header>
-							<h3>Hitachi High Technologies America</h3>
+							<h3><a href="/hitachi-hta/">Hitachi High Technologies America</a></h3>
 						</header>
-						<p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
+						<p>With 8 divisions under a single Drupal site, Hitachi needed a robust contact form system.
+							As <strong>lead developer</strong> I implemented user tracking and marketing intelligence <strong>synced to Salesforce.</strong></p>
 					</section>
 				</div>
 				<div class="6u 12u(narrower)">
@@ -126,10 +127,10 @@
 					<section>
 						<a href="/nike-core/" class="image featured"><img src="/portfolio/nike-core_thumb.jpg" alt="" /></a>
 						<header>
-							<a href="/nike-core/"><h3>Nike - Manager Core</h3></a>
+							<h3><a href="/nike-core/">Nike - Manager Core</a></h3>
 						</header>
 						<p>Manager Core is a <strong>fully responsive</strong> learning management system that integrates with Moodle
-							to provide in-store training for Nike managers through smart phones, tablets and desktops.</p>
+							to provide in-store training for Nike managers on smart phones, tablets and desktops.</p>
 					</section>
 				</div>
 			</div>
@@ -138,7 +139,7 @@
 					<section>
 						<a href="#" class="image featured"><img src="/portfolio/sutterhome_1.jpg" alt="" /></a>
 						<header>
-							<h3>Sutter Home Wines</h3>
+							<h3><a href="/sutter-home-wines/">Sutter Home Wines</a></h3>
 						</header>
 						<p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
 					</section>
@@ -160,18 +161,5 @@
 			</footer>
 		</section>
 </article>
-
-<!-- CTA -->
-	<section id="cta">
-		<header>
-			<h2>Ready to do <strong>something</strong>?</h2>
-			<p>Let's make a great website together.</p>
-		</header>
-		<footer>
-			<ul class="buttons">
-				<li><a href="contact-me" class="button special ">Hire Me</a></li>
-				<li><a href="/work/" class="button scrollr">View More Work</a></li>
-			</ul>
-		</footer>
-	</section>
+{{ partial "cta.html" . }}
 {{ partial "foot.html" . }}
