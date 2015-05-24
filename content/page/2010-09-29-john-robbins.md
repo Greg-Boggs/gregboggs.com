@@ -3,24 +3,17 @@ id: 308
 title: John Robbins
 author: Greg Boggs
 excerpt: "Greg has helped us to generate more than 5,000 unique visitors in just one day, and to generate more than 4,963 external links promoting our site."
-
+theme: right-sidebar
 guid: http://www.gregboggs.com/wordpress/?p=1
 url: /john-robbins/
 LinkTitle: John Robbins
 date: 2010-09-29
 categories:
-  - Programming
-  - SEO
-  - WordPress
-tags:
-  - Content Management
-  - Link Building
-  - Programming
-  - SEO
+  - freelance
 ---
-<img class="alignleft size-medium wp-image-19" title="johnrobbins2" alt="" src="/wp-content/uploads/2010/09/johnrobbins2-600x413.jpg" width="400" height="275" />
+John Robbins is a best-selling author, social activist, and humanitarian. His work, &#8220;Diet for a New America&#8221; is one of the<!--more--> seminal works on the value of a plant-based diet.
 
-John Robbins is a best-selling author, social activist, and humanitarian. His work, &#8220;Diet for a New America&#8221; is one of the seminal works on the value of a plant-based diet.
+<img class="alignleft size-medium wp-image-19" title="johnrobbins2" alt="" src="/wp-content/uploads/2010/09/johnrobbins2-600x413.jpg" width="400" height="275" />
 
 Volunteering my time for John was a truly rewarding experience. As a best-selling author, his website attracts large numbers of links from national news papers, leading websites, and social networks. I took a design originally created by The Spider, a design firm in San Francisco, and turned it into a powerful Word Press template that allows John and his son Ocean editorial control over every aspect of their website.
 

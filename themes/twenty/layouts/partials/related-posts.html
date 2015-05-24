@@ -1,18 +1,17 @@
-<!-- Two -->
-<section class="wrapper style1 container special related">
-	<div class="row">
-		{{ $baseurl := .Site.BaseUrl }}
-			{{ $page_link := .Permalink }}
-			{{ $tags := .Params.tags }}
-			{{ range .Site.Recent }}
-			{{ $page := . }}
-			{{ $has_common_tags := intersect $tags .Params.tags | len | lt 0 }}
-				{{ if and $has_common_tags (ne $page_link $page.Permalink) }}
+{{ $baseurl := .Site.BaseUrl }}
+	{{ $page_link := .Permalink }}
+	{{ $tags := .Params.tags }}
+	{{ range .Site.Recent }}
+	{{ $page := . }}
+	{{ $has_common_tags := intersect $tags .Params.tags | len | lt 0 }}
+		{{ if and $has_common_tags (ne $page_link $page.Permalink) }}
+			<section class="wrapper style1 container special related">
+				<div class="row">
 					<div class="4u 12u(narrower)">
 						<section>
 							{{ with .Params.image }}<a href="$page.Permalink" class="image featured"><img src="/images/{{ . }}" alt="" /></a>{{end}}
 							<header>
-								<h3>{{ .Title | safeHtml }}</h3>
+								<h3><a href="{{ $page.Permalink }}">{{ .Title | safeHtml }}</a></h3>
 							</header>
 							<p>{{ .Summary }}</p>
 							<footer>
@@ -22,7 +21,7 @@
 							</footer>
 						</section>
 					</div>
-				{{ end }}
-			{{ end }}
-	</div>
-</section>
+				</div>
+			</section>
+	{{ end }}
+{{ end }}

@@ -2,15 +2,14 @@
 id: 632
 title: For Me, For You
 author: Greg Boggs
-
+theme: right-sidebar
 guid: http://www.gregboggs.com/?p=632
 url: /forme-foryou/
 date: 2012-07-04
 categories:
-  - Frontend
-  - WordPress
+  - freelance
 ---
-Every so often I get the chance to work with amazingly talented professionals. In 2012, I had the challenge of modifying a WordPress theme for an extremely talented designer, Kate Miss. Kate&#8217;s designs are clean and beautiful which made her theme a pleasure to work on.
+Every so often I get the chance to work with amazingly talented professionals. I had the challenge of modifying a theme <!--more--> theme for a creative director, Kate Miss. Kate's designs are clean and beautiful which made her theme a pleasure to work on.
 
 <img class="size-full wp-image-634 alignright" alt="For me, For you logo" src="http://www.gregboggs.com/wp-content/uploads/2012/07/forme-foryou-header-2012.gif" width="250" height="250" />
 

@@ -2,15 +2,15 @@
 <div class="4u 12u(narrower)">
 	<div class="sidebar">
 		{{ $page_link := .Permalink }}
-		{{ $tags := .Params.tags }}
+		{{ $tags := .Params.categories }}
 		{{ range .Site.Recent }}
 			{{ $page := . }}
-			{{ $has_common_tags := intersect $tags .Params.tags | len | lt 0 }}
+			{{ $has_common_tags := intersect $tags .Params.categories | len | lt 0 }}
 			{{ if and $has_common_tags (ne $page_link $page.Permalink) }}
 			<section>
 				{{ with .Params.image }}<a href="{{ $page.Permalink }}" class="image featured"><img src="/images/{{ . }}" alt="" /></a>{{end}}
 				<header>
-					<h3>{{ .Title | safeHtml }}</h3>
+					<h3><a href="{{ $page.Permalink }}">{{ .Title | safeHtml }}</a></h3>
 				</header>
 				<p>{{ .Summary }}</p>
 				<footer>
