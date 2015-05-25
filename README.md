@@ -32,7 +32,7 @@ In other words:
 
 Enjoy!
 
-h1. Content License
+## Content License
 
 The content of my blog in the the following folder is creative commons attribution 3.0.
 
