@@ -7,7 +7,7 @@ guid: http://www.gregboggs.com/?p=523
 url: /telelanguage/
 date: 2013-01-19
 categories:
-  - freelance
+  - freelance2
 ---
 
 Telelanguage had been working on their website for more than 2 years when I found their call for a Drupal developer.<!--more--> 

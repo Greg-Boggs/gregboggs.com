@@ -10,8 +10,9 @@ categories:
   - Blog
 tags:
   - SEO
+menu: featured
 ---
-Google keeps track of everything you search for and every website that you visit from Google. They also keep track of every website you visit that has Google Analytics on it. Yes, that&#8217;s pretty much every site on the Internet including, this one. Well, now you can check a link from Google and **[find out][1]** who Google thinks you are. They also let you give them free advertising data, or the chance to corrupt their data about you.
+Google keeps track of everything you search for and every website that you visit from Google. They also keep track of every website you visit that has Google Analytics on it. Yes, that's pretty much every site on the Internet including, this one. Well, now you can check a link from Google and **[find out][1]** who Google thinks you are. They also let you give them free advertising data, or the chance to corrupt their data about you.
 
 **Update:** Google now thinks I am female. Perhaps because [equality for women][2] in open-source (and elsewhere) is important to me.
 
@@ -28,7 +29,7 @@ Google <del>thinks</del> knows I am:
   * File Sharing and Hosting
   * Chat and Forum Providers
 
-I&#8217;m also between 25-34 and male.
+I'm also between 25-34 and male.
 
 So, who does Google think You are?
 

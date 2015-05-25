@@ -15,7 +15,7 @@ tags:
 ---
 An amazing start-up that I provide consulting for recently used WordPress to build user-generated [consumer complaints][1] feature. The idea behind ConsumerBell is to empower consumers by grouping their complaints together and giving them leverage. For ConsumerBell to work, they need complaints! So, they built a beautiful feature for users to submit and publish their complaints.
 
-There are several ways to publish moderated user-generated content in WordPress. ConsumerBell built a custom plugin, but I&#8217;ve found some other interesting ways to solve the problem of generating user created content **without programming**. For example, WordPress includes comments which can be used to create simple content. However, comments have many drawbacks because a comment doesn&#8217;t create a new post inside WordPress. So, all your user content is confined to a single page of your site. After some digging I&#8217;ve turned up several other methods to generate moderated content.
+There are several ways to publish moderated user-generated content in WordPress. ConsumerBell built a custom plugin, but I've found some other interesting ways to solve the problem of generating user created content **without programming**. For example, WordPress includes comments which can be used to create simple content. However, comments have many drawbacks because a comment doesn't create a new post inside WordPress. So, all your user content is confined to a single page of your site. After some digging I've turned up several other methods to generate moderated content.
 
 The three methods I found were using:
 
@@ -25,7 +25,7 @@ The three methods I found were using:
 
 ### E-Mail Posting and a Contact Form
 
-The most [innovative solution][2] to the problem is to use built in post by e-mail and a simple contact form. The basic idea is to set up any [WordPress contact form][3], and configure it to send &#8220;contact&#8221; emails directly to WordPress&#8217; built in post by e-mail functions. Once the two features are set up, a little work on your theme, and you&#8217;re capturing product reviews, customer complaints, or user generated blog posts. When you configure [post by email][4], you should make sure to use an email address that does not match a registered users email. This will ensure that all new user generated content is not published automatically. It will be posted &#8220;pending review&#8221;. Lastly, if you need images in the content, check out [Postie][5].
+The most [innovative solution][2] to the problem is to use built in post by e-mail and a simple contact form. The basic idea is to set up any [WordPress contact form][3], and configure it to send &#8220;contact&#8221; emails directly to WordPress' built in post by e-mail functions. Once the two features are set up, a little work on your theme, and you're capturing product reviews, customer complaints, or user generated blog posts. When you configure [post by email][4], you should make sure to use an email address that does not match a registered users email. This will ensure that all new user generated content is not published automatically. It will be posted &#8220;pending review&#8221;. Lastly, if you need images in the content, check out [Postie][5].
 
 ### TDO Mini Forms
 
@@ -37,7 +37,7 @@ The last solution is Gravity Forms. These people give the appearance that their 
 
 ### My Solution
 
-When I need user-created content in WordPress, I&#8217;ll probably rely on a simple contact form because it requires no programming and I found TDO Mini Forms too complex.
+When I need user-created content in WordPress, I'll probably rely on a simple contact form because it requires no programming and I found TDO Mini Forms too complex.
 
  [1]: http://www.consumerbell.com
  [2]: http://millionclues.com/guest-posts/use-wordpress-to-create-user-generated-content-site/

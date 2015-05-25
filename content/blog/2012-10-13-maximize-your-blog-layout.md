@@ -9,11 +9,11 @@ date: 2012-10-13
 categories:
   - Blog
 ---
-It&#8217;s been many years since the blog become the standard layout of the web. However, many people still struggle with the basics of how to use the blog layout to maximize their content and reward readers. When a friend ask me what he should do to maximize his blog content, I  went and found a [couple][1] [of][2] [blogs][3] that [maximize][4] their layout to promote content.
+It's been many years since the blog become the standard layout of the web. However, many people still struggle with the basics of how to use the blog layout to maximize their content and reward readers. When a friend ask me what he should do to maximize his blog content, I  went and found a [couple][1] [of][2] [blogs][3] that [maximize][4] their layout to promote content.
 
 ## What is a Blog?
 
-In case you don&#8217;t know, a blog is a traditional website with no homepage. Instead of a home page, the website has a reverse chronological listing of content. And, that&#8217;s it! Many blogs also feature comments.  But, otherwise, there is no difference between a blog and a website other than the home page.
+In case you don't know, a blog is a traditional website with no homepage. Instead of a home page, the website has a reverse chronological listing of content. And, that's it! Many blogs also feature comments.  But, otherwise, there is no difference between a blog and a website other than the home page.
 
 ## Disadvantages of a Blog
 
@@ -21,7 +21,7 @@ The disadvantages of a blog are that your blog is only as good as your last post
 
 ## Advantages of a Blog
 
-It&#8217;s always easy to figure out where to post your most recent post. It always goes at the top of your home page. The best blogs use the sidebar (generally on the right) to feature evergreen content that rarely changes.
+It's always easy to figure out where to post your most recent post. It always goes at the top of your home page. The best blogs use the sidebar (generally on the right) to feature evergreen content that rarely changes.
 
 ## Layout Elements to Count On
 
@@ -33,9 +33,9 @@ The most effective layout elements for a blog are:
   4. About the author(s) with photos. Reading about you is as important as reading what you have to say. This can go below the post, in the sidebar, or near the top of each post.
   5. Social sharing, FB Like, follow buttons, and email sign up are key actions you want readers to take. Sharing buttons should be large an obvious.  If you think your social media buttons are too large&#8230; look over [Move On.org][5] again. Move on does it right.
   6. Your home page should load at least 10 posts if not more. The majority of your visitors will read everything on your front page before leaving.  They most often will not click any links to other pages of your site&#8230; so give them the goods and lots of them all on the home page.
-  7. Each blog post is a new opportunity to promote previous articles. When writing for a blog, you&#8217;ll be repeating key points many times. Every time you mention a topic you&#8217;ve written about before, link to it!
+  7. Each blog post is a new opportunity to promote previous articles. When writing for a blog, you'll be repeating key points many times. Every time you mention a topic you've written about before, link to it!
 
-As short as my list is, it&#8217;s extremely difficult to find a single blog that takes advantage of all of these layout elements. Got a better example of the perfect blog? [Send it over][6].
+As short as my list is, it's extremely difficult to find a single blog that takes advantage of all of these layout elements. Got a better example of the perfect blog? [Send it over][6].
 
  [1]: http://blog.penelopetrunk.com/
  [2]: http://front.moveon.org/

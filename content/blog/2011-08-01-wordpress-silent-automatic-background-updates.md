@@ -12,7 +12,7 @@ tags:
   - Security
   - WordPress
 ---
-WordPress automatic [silent updates][1] could mean and end to WordPress security problems and kill the need for [WordPress security plugins][2]. While this solution has it&#8217;s drawbacks that could cause your website to [white screen of death][3], silent updates have the potential to finally make WordPress a secure platform. This change, planned for November, would make my WP security scanners obsolete including my own [WordPress Security Scanner][4] because every website running WordPress will, in theory, be secure. While WordPress has many basic security flaws like account name harvesting, old versions and misplaced backup copies is by far the largest reason for hacked WordPress sites.
+WordPress automatic [silent updates][1] could mean and end to WordPress security problems and kill the need for [WordPress security plugins][2]. While this solution has it's drawbacks that could cause your website to [white screen of death][3], silent updates have the potential to finally make WordPress a secure platform. This change, planned for November, would make my WP security scanners obsolete including my own [WordPress Security Scanner][4] because every website running WordPress will, in theory, be secure. While WordPress has many basic security flaws like account name harvesting, old versions and misplaced backup copies is by far the largest reason for hacked WordPress sites.
 
 Given the potential silent updates have, I have to wonder, are WP Security experts going to be looking for a new line of work?
 

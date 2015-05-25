@@ -1,6 +1,6 @@
 ---
 id: 173
-title: 'WordPress Images Won&#8217;t Align'
+title: WordPress Images Won't Align
 author: Greg Boggs
 
 guid: http://www.gregboggs.com/?p=173
@@ -11,9 +11,9 @@ categories:
 tags:
   - WordPress
 ---
-WordPress relies on themes to allow users to align images and create captions. If your theme doesn&#8217;t support alignment or captions, you&#8217;ll find adding images to WordPress to be very frustrating.
+WordPress relies on themes to allow users to align images and create captions. If your theme doesn't support alignment or captions, you'll find adding images to WordPress to be very frustrating.
 
-WordPress[ provides documentation][1] to fix this problem, but it&#8217;s requires that you edit your theme&#8217;s CSS file:
+WordPress[ provides documentation][1] to fix this problem, but it's requires that you edit your theme's CSS file:
 
 > .aligncenter, div.aligncenter {  
 > display: block;  

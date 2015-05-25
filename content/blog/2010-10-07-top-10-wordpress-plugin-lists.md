@@ -23,14 +23,14 @@ The popularity of WordPress makes it an amazing tool for making successful websi
 
 ### Why Top 10 Lists are Important
 
-A company I consult for had downloaded an interesting search engine optimization plugin, but after looking through the plugin I realized the plugin purposefully removed their homepage from Google! The plugin did nothing to notify users of it&#8217;s disastrous behavior. Luckily, deleting the plugin fixed the problem quickly. When selecting WordPress plugins, it&#8217;s important to get recommendations. So, I&#8217;ve a list of lists by the leaders in WordPress development.
+A company I consult for had downloaded an interesting search engine optimization plugin, but after looking through the plugin I realized the plugin purposefully removed their homepage from Google! The plugin did nothing to notify users of it's disastrous behavior. Luckily, deleting the plugin fixed the problem quickly. When selecting WordPress plugins, it's important to get recommendations. So, I've a list of lists by the leaders in WordPress development.
 
 ### The Top Lists
 
-  1. Prelovac&#8217;s [10 hidden gems list][1] has some great plugins not on other lists
-  2. Seo Chick&#8217;s [top 10 list][2] covers a pretty standard set of plugins
-  3. Lorelle&#8217;s [mind blowing list][3] has way too many plugins, but it&#8217;s worth reading
-  4. Michael Gray&#8217;s [SEO plugins list][4] has more than just SEO plugins
+  1. Prelovac's [10 hidden gems list][1] has some great plugins not on other lists
+  2. Seo Chick's [top 10 list][2] covers a pretty standard set of plugins
+  3. Lorelle's [mind blowing list][3] has way too many plugins, but it's worth reading
+  4. Michael Gray's [SEO plugins list][4] has more than just SEO plugins
   5. WordPress.org has [most popular list][5] so you can follow the crowd
   6. Mashable posted a [SEO plugins list][6] that looks rather bland, but [automatic links][7] looks good
   7. Interesting [Ajax plugins list][8] that has some nifty plugins.
@@ -40,7 +40,7 @@ A company I consult for had downloaded an interesting search engine optimization
   * Akismet to block spam comments
   * All in One SEO Pack to fix my page titles
   * Contact Form 7 for my contact page
-  * Google Analyticator to add analytics, but I&#8217;m looking for a plugin that does &#8220;asynchronous&#8221; loading
+  * Google Analyticator to add analytics, but I'm looking for a plugin that does &#8220;asynchronous&#8221; loading
   * WordPress.com Stats so I can get a pretty graph of hits in real time
 
  [1]: http://www.prelovac.com/vladimir/top-10-wordpress-hidden-gems-plugins

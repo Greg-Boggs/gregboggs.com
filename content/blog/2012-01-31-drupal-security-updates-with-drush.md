@@ -11,7 +11,7 @@ categories:
 ---
 Since I get tired of hunting through forum threads for correct answers to common task. So, for the lucky souls to find this trick, here is how you run just the security updates to a Drupal install [with Drush][1] from the command line.
 
-`drush upc -u 1 --pipe | grep &#039;SECURITY-UPDATE&#039; | cut -d" " -f1 | xargs drush upc -u 1 -y`
+`drush upc -u 1 --pipe | grep 'SECURITY-UPDATE' | cut -d" " -f1 | xargs drush upc -u 1 -y`
 
 Found [here][2].
 

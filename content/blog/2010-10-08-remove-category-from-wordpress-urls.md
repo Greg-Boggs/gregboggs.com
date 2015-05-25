@@ -22,4 +22,4 @@ To accomplish this feat I had to:
   3. leave my destination URL blank
   4. install a plugin called decategorizer
 
-I still have to remember to categorize all my blog posts in the blog category, but I no longer have to remember to type /category/blog when sending someone my blog&#8217;s address. I can also safely switch themes and not have to worry that my blog posts will move.
+I still have to remember to categorize all my blog posts in the blog category, but I no longer have to remember to type /category/blog when sending someone my blog's address. I can also safely switch themes and not have to worry that my blog posts will move.

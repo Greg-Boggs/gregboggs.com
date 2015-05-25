@@ -11,7 +11,7 @@ categories:
 ---
 Have you ever had a client ask for everything to be red? Or perhaps it was auto playing audio on every page load? Well, check these awesome sites out.
 
-Portland is a Drupal epicenter. The Drupal community comes together strongly in many places around the world and [Portland&#8217;s Drupal User Group][1] is no exception. Once a month we gather for conference quality presentations about all sorts of advanced Drupal topics. Last night our fantastic host, Jason, Yee [(JYee)][2] did something different. He had us break into 7 teams with the goal of using 4 specific modules to produce a website that&#8217;s awesome in 1 hour. The competition was stiff. Everything from advanced working, feature-complete Drupal builds to sparkles that actually sparkled. I appologize now if any of these screen shots make your eyes water.
+Portland is a Drupal epicenter. The Drupal community comes together strongly in many places around the world and [Portland's Drupal User Group][1] is no exception. Once a month we gather for conference quality presentations about all sorts of advanced Drupal topics. Last night our fantastic host, Jason, Yee [(JYee)][2] did something different. He had us break into 7 teams with the goal of using 4 specific modules to produce a website that's awesome in 1 hour. The competition was stiff. Everything from advanced working, feature-complete Drupal builds to sparkles that actually sparkled. I appologize now if any of these screen shots make your eyes water.
 
 [Tweet with us at #pdxdug.][3]
 
@@ -65,7 +65,7 @@ alt/bonus module: rules
 modules: field collection, message, nodequeue  
 alt/bonus module: privatemessage
 
-Special thanks to O&#8217;Rielly, Drupalize.me, and Lullabot for sponsorship that included beer, pizza, coffee cards and an OScon pass! My group ended up winning, but all the sites are awesome. So, I&#8217;ll leave it up to you to guess which one was ours.
+Special thanks to O'Rielly, Drupalize.me, and Lullabot for sponsorship that included beer, pizza, coffee cards and an OScon pass! My group ended up winning, but all the sites are awesome. So, I'll leave it up to you to guess which one was ours.
 
  [1]: https://groups.drupal.org/portland
  [2]: https://drupal.org/user/712186

@@ -11,12 +11,12 @@ categories:
 tags:
   - Ubuntu
 ---
-I haven&#8217;t been able to get my Ubuntu laptop on Windows network for years. This is the best walk through I&#8217;ve found. Unfortunately, my apt-get is broken&#8230; so I couldn&#8217;t do apt-get install win-bind. But, one of the other steps solved the problem.
+I haven't been able to get my Ubuntu laptop on Windows network for years. This is the best walk through I've found. Unfortunately, my apt-get is broken&#8230; so I couldn't do apt-get install win-bind. But, one of the other steps solved the problem.
 
 smbtree returns:  
 cli\_start\_connection: failed to connect to JANES<20> (0.0.0.0). Error NT\_STATUS\_UNSUCCESSFUL
 
-Walk through that hasn&#8217;t resolved the problem yet:
+Walk through that hasn't resolved the problem yet:
 
 http://ubuntuforums.org/showthread.php?t=1169149
 

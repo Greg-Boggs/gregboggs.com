@@ -1116,3 +1116,7 @@
 .related img {
     max-width: 100%
 }
+
+.sidebar {
+	padding-top: 66px;
+}
