@@ -4,7 +4,7 @@
 <section id="banner">
 	<div class="inner">
 		<header>
-			<h2>{{ .Title }}</h2>
+			<h2>{{ .Site.Params.Author }}</h2>
 		</header>
 		{{ with .Site.Params.intro | markdownify }}<p class="lead">{{ . }}</p>{{ end }}
 		<footer>

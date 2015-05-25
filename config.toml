@@ -1,7 +1,8 @@
-baseurl = "http://localhost"
-title = "Greg Boggs"
+baseurl = "http://www.gregboggs.com"
+title = "Portland Drupal Developer"
 uglyurls = false
 paginate = 10
+Author = "Greg Boggs"
 
 [permalinks]
   blog = "/:slug"
@@ -11,7 +12,7 @@ paginate = 10
 [params]
   Author = "Greg Boggs"
   DateForm = "Jan 2, 2006"
-  googleAnalytics = "UA-xxxxxxx-x"
+  googleAnalytics = "UA-18809802-1"
   jquery = "2.1.4"
   SyntaxHighlightTheme = "solarized_dark.min.css"
   
