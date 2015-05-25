@@ -33,3 +33,17 @@ You should follow me on Twitter <a href="https://twitter.com/gregory_boggs" rel=
 
 # Contact Me
 E-mail: <a href="mailto:me (at) gregboggs.com">me (at) gregboggs.com</a>.
+
+# Credits
+	Reuse my Hugo theme on Github:
+		[GPL 3][1]
+
+	Design, HTML, and CSS:
+		Free for personal and commercial use under the CCA 3.0 license.
+                AJ (n33.co @n33co dribbble.com/n33) [http://html5up.net/twenty][2]|
+    
+    Built with Hugo [static site generator][3]
+    
+  [1]: https://github.com/Greg-Boggs/gregboggs.com
+  [2]: http://html5up.net/twenty
+  [3]: http://gohugo.io/
