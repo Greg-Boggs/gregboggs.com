@@ -14,7 +14,7 @@
 					<h1>{{ .Title }}</h1>
 				</header>
 				<p class="post-meta">
-					By Greg Boggs on {{ .Date.Format "Jan 2, 2006" }} &middot; {{ .ReadingTime }} minute read
+					By <a href="/about-greg-boggs/">Greg Boggs</a> on {{ .Date.Format "Jan 2, 2006" }} &middot; {{ .ReadingTime }} minute read
 					{{ if isset .Params "categories" }} in 
 					{{ $baseUrl := .Site.BaseUrl }}
 						{{ range .Params.categories }}
