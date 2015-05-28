@@ -1120,3 +1120,12 @@
 .sidebar {
 	padding-top: 66px;
 }
+
+.post ul {
+	list-style: disc;
+	padding-left: 1em;
+}
+
+.post ul li {
+	padding-left: 0.5em;
+}
