@@ -10,11 +10,9 @@ menu: featured
 
 Dries, the creator of Drupal recently started a conversation about WordPress vs. Drupal that's the first time I've read a [great discussion][1] about the pros and cons of each platform. John Eckman, the founder of one of the best WordPress agencies [responded well][2] on his blog.
 
-John's experiences with the two communities is seems similar to my own because I've also been an active participant in both communities. In fact, 3 years ago, I considered myself a WordPress expert. Over the past 3 years, I've become a Drupal expert. Unlike John, I find myself turning towards Drupal. I know I can build almost anything in WP. But, there are pros to each platform that leads me to choosing one over the other for specific projects.
+John's experiences with the two communities seems similar to my own because I've also been an active participant in both communities. In fact, 3 years ago, I considered myself a WordPress expert. Over the past 3 years, I've become a Drupal expert. Unlike John, I work for a [leading Drupal agency][3] which certainly affects my usage of the two platforms. I know I can build anything in WP. But, there are pros to each platform that leads me to choosing one or the other for specific projects.
 
-# Pros of WordPress and Drupal
-
-Here are my pros for WordPress for complex, enterprise websites:
+# Pros for WordPress
 
 * 1 click upgrades. This feature dramatically reduces the cost of ownership and my boredom.
 * Blazing fast performance. WordPress is amazingly fast.
@@ -25,7 +23,7 @@ Here are my pros for WordPress for complex, enterprise websites:
 * Out of the box editor experience that's the same on every site.
 * Easy to use Drag and Drop widget system for sidebar blocks.
 
-Here are my pros for Drupal:
+# Pros for Drupal
 
 * Massive contributed module community. It's not uncommon for 300 different module developers to have code in one of my Drupal builds.
 * Advanced search experiences with Solr.
@@ -38,3 +36,4 @@ Here are my pros for Drupal:
 
 [1]: http://buytaert.net/why-woonattic-is-big-news-for-small-businesses
 [2]: http://www.openparenthesis.org/2015/05/26/wordpress-community-drupal-community
+[3]: http://www.thenewgroup.com
