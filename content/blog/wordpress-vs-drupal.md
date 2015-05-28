@@ -15,6 +15,7 @@ John's experiences with the two communities is seems similar to my own because I
 # Pros of WordPress and Drupal
 
 Here are my pros for WordPress for complex, enterprise websites:
+
 1. 1 click upgrades. This feature dramatically reduces the cost of ownership and my boredom.
 2. Blazing fast performance. WordPress is amazingly fast.
 3. Commercial module support. The premium model for WordPress drives a lot of revenue for their ecosystem.
@@ -25,6 +26,7 @@ Here are my pros for WordPress for complex, enterprise websites:
 8. Easy to use Drag and Drop widget system for sidebar blocks.
 
 Here are my pros for Drupal:
+
 1. Massive contributed module community. It's not uncommon for 300 different module developers to have code in one of my Drupal builds.
 2. Advanced search experiences with Solr.
 3. Editorial multistate workflow moderation.
