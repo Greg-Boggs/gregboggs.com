@@ -25,7 +25,7 @@ John's experiences with the two communities seems similar to my own because I've
 
 # Pros for Drupal
 
-* Massive contributed module community. It's not uncommon for 300 different module developers to have code in one of my Drupal builds.
+* Massive contributed module community with many developers per module.
 * Advanced search experiences with Solr.
 * Editorial multistate workflow moderation.
 * Group based permissions on content where users can create, moderate, and join their own groups.
