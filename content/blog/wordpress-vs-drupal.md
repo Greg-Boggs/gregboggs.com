@@ -12,7 +12,7 @@ Dries, the creator of Drupal recently started a conversation about WordPress vs.
 
 John's experience with the two communities seems similar to my own because I've also been an active participant in both communities. In fact, 3 years ago, I considered myself a WordPress expert. Over the past 3 years, I've become a Drupal person because, unlike John, I work for a leading [Portland Drupal agency][3]. I know I can build anything in WordPress. But, there are pros to both platform that leads me to choosing one or the other for specific projects. The truth is, both platforms are amazing for making websites. 
 
-![WordPress logo][wordpress]
+![WordPress vs Drupal][wp-drupal]
 
 # Pros for WordPress
 
@@ -24,8 +24,6 @@ John's experience with the two communities seems similar to my own because I've 
 * The Loop. The WordPress loop makes it very easy to do certain things fast.
 * Out of the box editor experience that's the same on every site.
 * Easy to use Drag and Drop widget system for sidebar blocks.
-
-![Drupal logo][drupal]
 
 # Pros for Drupal
 
@@ -41,5 +39,4 @@ John's experience with the two communities seems similar to my own because I've 
 [1]: http://buytaert.net/why-woonattic-is-big-news-for-small-businesses
 [2]: http://www.openparenthesis.org/2015/05/26/wordpress-community-drupal-community
 [3]: http://www.thenewgroup.com
-[wordpress]: /blog/wordpress-logo-notext-rgb.png
-[drupal]: /blog/druplicon.large_.png
+[wp-drupal]: /blog/wp-drupal.png
