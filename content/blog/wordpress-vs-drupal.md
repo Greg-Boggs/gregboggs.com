@@ -7,12 +7,11 @@ categories:
   - Blog
 menu: featured
 ---
+![WordPress vs Drupal][wp-drupal]
 
 Dries, the creator of Drupal recently started a conversation about WordPress vs. Drupal. This is the first time I've read a [great discussion][1] about the pros and cons of each platform. John Eckman, the founder of one of the best WordPress agencies [responded well][2] on his blog.
 
 John's experience with the two communities seems similar to my own because I've also been an active participant in both communities. In fact, 3 years ago, I considered myself a WordPress expert. Over the past 3 years, I've become a Drupal person because, unlike John, I work for a leading [Portland Drupal agency][3]. I know I can build anything in WordPress. But, there are pros to both platform that leads me to choosing one or the other for specific projects. The truth is, both platforms are amazing for making websites. 
-
-![WordPress vs Drupal][wp-drupal]
 
 # Pros for WordPress
 
