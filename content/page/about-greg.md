@@ -2,7 +2,7 @@
 title: About Greg
 author: Greg Boggs
 url: /about-greg-boggs/
-date: 2015-05-22
+date: 2010-05-22
 
 ---
 <img style="float:left; margin-right: 15px; margin-top: 10px" title="Greg Boggs" src="http://farm4.static.flickr.com/3282/2876062127_8e4684fc58_m.jpg" alt="Greg Boggs" width="240" height="156">
