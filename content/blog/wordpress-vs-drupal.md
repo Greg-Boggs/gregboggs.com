@@ -12,7 +12,7 @@ Dries, the creator of Drupal recently started a conversation about WordPress vs.
 
 John's experiences with the two communities is seems similar to my own because I've also been an active participant in both communities. In fact, 3 years ago, I considered myself a WordPress expert. Over the past 3 years, I've become a Drupal expert. Unlike John, I find myself turning towards Drupal. I know I can build almost anything in WP. But, there are pros to each platform that leads me to choosing one over the other for specific projects.
 
-Pros of WordPress and Drupal
+# Pros of WordPress and Drupal
 
 Here are my pros for WordPress for complex, enterprise websites:
 1. 1 click upgrades. This feature dramatically reduces the cost of ownership and my boredom.
