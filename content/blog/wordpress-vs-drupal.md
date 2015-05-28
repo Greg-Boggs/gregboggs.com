@@ -16,25 +16,25 @@ John's experiences with the two communities is seems similar to my own because I
 
 Here are my pros for WordPress for complex, enterprise websites:
 
-1. 1 click upgrades. This feature dramatically reduces the cost of ownership and my boredom.
-2. Blazing fast performance. WordPress is amazingly fast.
-3. Commercial module support. The premium model for WordPress drives a lot of revenue for their ecosystem.
-4. Monolithic, Microsoft-like project structure. I can predict your WordPress database without even seeing it.
-5. Comment spam protection.
-6. The Loop. The WordPress loop makes it very easy to do certain things fast.
-7. Out of the box editor experience that's the same on every site.
-8. Easy to use Drag and Drop widget system for sidebar blocks.
+* 1 click upgrades. This feature dramatically reduces the cost of ownership and my boredom.
+* Blazing fast performance. WordPress is amazingly fast.
+* Commercial module support. The premium model for WordPress drives a lot of revenue for their ecosystem.
+* Monolithic, Microsoft-like project structure. I can predict your WordPress database without even seeing it.
+* Comment spam protection.
+* The Loop. The WordPress loop makes it very easy to do certain things fast.
+* Out of the box editor experience that's the same on every site.
+* Easy to use Drag and Drop widget system for sidebar blocks.
 
 Here are my pros for Drupal:
 
-1. Massive contributed module community. It's not uncommon for 300 different module developers to have code in one of my Drupal builds.
-2. Advanced search experiences with Solr.
-3. Editorial multistate workflow moderation.
-4. Group based permissions on content where users can create, moderate, and join their own groups.
-5. Data modeling and list creation is straight forward and expected.
-6. Responsive design support including completely adaptive AJAX driven pages.
-7. Easy issue queue support with a patch management workflow. If it's broken, I can snag the fix on D.O.
-8. Modular permissions and caching for logged in users in Core.
+* Massive contributed module community. It's not uncommon for 300 different module developers to have code in one of my Drupal builds.
+* Advanced search experiences with Solr.
+* Editorial multistate workflow moderation.
+* Group based permissions on content where users can create, moderate, and join their own groups.
+* Data modeling and list creation is straight forward and expected.
+* Responsive design support including completely adaptive AJAX driven pages.
+* Easy issue queue support with a patch management workflow. If it's broken, I can snag the fix on D.O.
+* Modular permissions and caching for logged in users in Core.
 
 [1]: http://buytaert.net/why-woonattic-is-big-news-for-small-businesses
 [2]: http://www.openparenthesis.org/2015/05/26/wordpress-community-drupal-community
