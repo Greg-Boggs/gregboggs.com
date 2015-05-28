@@ -8,14 +8,14 @@ categories:
 menu: featured
 ---
 
-Dries, the creator of Drupal recently started a conversation about WordPress vs. Drupal that's the first time I've read a [great discussion][1] about the pros and cons of each platform. John Eckman, the founder of one of the best WordPress agencies [responded well][2] on his blog.
+Dries, the creator of Drupal recently started a conversation about WordPress vs. Drupal. This is the first time I've read a [great discussion][1] about the pros and cons of each platform. John Eckman, the founder of one of the best WordPress agencies [responded well][2] on his blog.
 
-John's experiences with the two communities seems similar to my own because I've also been an active participant in both communities. In fact, 3 years ago, I considered myself a WordPress expert. Over the past 3 years, I've become a Drupal expert. Unlike John, I work for a leading [Portland Drupal agency][3] which certainly affects my usage of the two platforms. I know I can build anything in WP. But, there are pros to each platform that leads me to choosing one or the other for specific projects.
+John's experience with the two communities seems similar to my own because I've also been an active participant in both communities. In fact, 3 years ago, I considered myself a WordPress expert. Over the past 3 years, I've become a Drupal person because, unlike John, I work for a leading [Portland Drupal agency][3]. I know I can build anything in WordPress. But, there are pros to both platform that leads me to choosing one or the other for specific projects. The truth is, both platforms are amazing for making websites. 
 
 # Pros for WordPress
 
 * 1 click upgrades. This feature dramatically reduces the cost of ownership and my boredom.
-* Blazing fast performance. WordPress is amazingly fast.
+* Blazing fast performance on uncached pages.
 * Commercial module support. The premium model for WordPress drives a lot of revenue for their ecosystem.
 * Monolithic, Microsoft-like project structure. I can predict your WordPress database without even seeing it.
 * Comment spam protection.
