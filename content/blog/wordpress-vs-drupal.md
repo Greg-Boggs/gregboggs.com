@@ -41,5 +41,5 @@ John's experience with the two communities seems similar to my own because I've 
 [1]: http://buytaert.net/why-woonattic-is-big-news-for-small-businesses
 [2]: http://www.openparenthesis.org/2015/05/26/wordpress-community-drupal-community
 [3]: http://www.thenewgroup.com
-[wordpress]: /blog/wordpress-logo-notext-rgb.png
-[drupal]: /blog/druplicon.large_.png
+[wordpress]: /blog/wordpress-logo-notext-rgb.png =250x
+[drupal]: /blog/druplicon.large_.png =250x
