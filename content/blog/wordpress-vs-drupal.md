@@ -22,7 +22,7 @@ John's experience with the two communities seems similar to my own because I've 
 * Comment spam protection.
 * The Loop. The WordPress loop makes it very easy to do certain things fast.
 * Out of the box editor experience that's the same on every site.
-* Easy to use Drag and Drop widget system for sidebar blocks.
+* Easy to use drag and drop widget system for sidebar blocks.
 
 # Pros for Drupal
 
