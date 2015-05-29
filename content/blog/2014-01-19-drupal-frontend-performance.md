@@ -28,16 +28,15 @@ Load CSS at the top of head and JavaScript at the bottom of body. Putting all yo
 Preventing FOUT is a quick and easy win. FireFox and Internet Explorer both do a terrible job loading @font tags. These browsers cause the original unstyled text to flash, sometimes for a couple of seconds before the page is redrawn. This affect can even break your layouts on a page that uses thin custom fonts. All that's needed is adding a [bit of JavaScript][2] when you include custom fonts:  
 
 
-    &lt; script src="//ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"&gt; &lt; /script &gt;
-    &lt; script &gt;
+    <script src="//ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"&gt; &lt; /script>
+    <script>
     WebFont.load({
     google: {
     families: ['Droid Sans', 'Droid Serif']
     }
     });
-    &lt; /script &gt;
+    </script>
     
-
 ## Grunt to Compress, Minify and Optimize
 
 Grunt [automates your workflow][3] so that you never forget to put your SASS into production mode again. It allows to string together tools so you can combine, minify, and compress your static files, and optimize your images. You just type Grunt build and Grunt works it's magic. These tools can easily save you 500KB on a large project.
