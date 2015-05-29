@@ -28,7 +28,7 @@ Load CSS at the top of head and JavaScript at the bottom of body. Putting all yo
 Preventing FOUT is a quick and easy win. Firefox and Internet Explorer both do a terrible job loading @font tags. These browsers cause the original unstyled text to flash, sometimes for a couple of seconds before the page is redrawn. This affect can even break your layouts on a page that uses thin custom fonts. All that's needed is adding a [bit of JavaScript][2] when you include custom fonts:  
 
 
-    <script src="//ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"&gt; &lt; /script>
+    <script src="//ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script>
     <script>
     WebFont.load({
     google: {
