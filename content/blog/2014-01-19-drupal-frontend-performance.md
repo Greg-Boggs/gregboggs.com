@@ -10,7 +10,7 @@ categories:
   - Blog
 menu: featured
 ---
-Steve Sounder's is an [authority on web performance][1]. He writes about everything from front end performance to browser performance. As a front end developer, it's easy to get lost in tasks that don't matter. There's a saying in software development, &#8220;Don't optimize until you need to.&#8221; In frontend development, that doesn't apply because we don't write complex algorithims. But, it's important to make sure we focus our time and attention on the right stuff. So, what is the right stuff.
+Steve Sounder's is an [authority on web performance][1]. He writes about everything from front end performance to browser performance. As a front end developer, it's easy to get lost in tasks that don't matter. There's a saying in software development, "Don't optimize until you need to." In frontend development, that doesn't apply because we don't write complex algorithims. But, it's important to make sure we focus our time and attention on the right stuff. So, what is the right stuff.
 
 The best practices to focus on as a front end developer are the ones that have the most impact on site performance and user preception. To that end, here's 4 topics that you should put special effort into:
 
@@ -25,7 +25,7 @@ Load CSS at the top of head and JavaScript at the bottom of body. Putting all yo
 
 ## Prevent Flash of Unstyled Text
 
-Preventing FOUT is a quick and easy win. FireFox and Internet Explorer both do a terrible job loading @font tags. These browsers cause the original unstyled text to flash, sometimes for a couple of seconds before the page is redrawn. This affect can even break your layouts on a page that uses thin custom fonts. All that's needed is adding a [bit of JavaScript][2] when you include custom fonts:  
+Preventing FOUT is a quick and easy win. Firefox and Internet Explorer both do a terrible job loading @font tags. These browsers cause the original unstyled text to flash, sometimes for a couple of seconds before the page is redrawn. This affect can even break your layouts on a page that uses thin custom fonts. All that's needed is adding a [bit of JavaScript][2] when you include custom fonts:  
 
 
     <script src="//ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"&gt; &lt; /script>
