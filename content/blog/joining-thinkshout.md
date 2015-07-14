@@ -3,4 +3,4 @@ I'm excited to announce that I'm joining the [ThinkShout](http://thinkshout.com/
 
 I've worked with [some](http://www.homefirstscc.org/) [amazing](http://www.sanctuaryforest.org/) non-profit organizations, but this is the first time that it will be the focus of my day. Lastly, I've always been excited to contribute to open-source software, but I'm looking forward to being surrounded by developers whos contributions will encourage my own. 
 
-I'm familar with most the tools I'll be depending on, but I've got a lot to learn about Homebrew and Pantheon. Most especially, I'm looking forward to expanding my knowledge as I learn to work with my new team.
+I'm familar with most the tools I'll be depending on, but I've got a lot to learn about Homebrew and Pantheon. Most especially, I'm looking forward to expanding my knowledge as I learn to work with my new team. If you've been looking to work for mission-driven clients and join a team that appreciates the value of contribution, you should [drop me a line](http://gregboggs.com/contact-me/)!
