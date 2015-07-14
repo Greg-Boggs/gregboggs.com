@@ -1,5 +1,5 @@
 prose:
-  rooturl: 'content/post'
+  rooturl: ''
   media: 'static/images'
   ignore:
     - index.html
