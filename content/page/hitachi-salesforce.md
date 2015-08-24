@@ -10,6 +10,7 @@ tags:
   - TNG
 ---
 <img src="/portfolio/hitachi_1.jpg" alt="Hitachi Website" />
+
 Hitachi High Technologies is a diverse company with 8 divisions sharing a Drupal website. I tied user tracking information to 
 the **Salesforce API**<!--more--> where Salesforce handles routing the leads.  While the existing website met their product and organization needs,
 The global Hitachi team was having difficulty routing leads from the website to the correct person. So, as **lead developer**, I implemented 
