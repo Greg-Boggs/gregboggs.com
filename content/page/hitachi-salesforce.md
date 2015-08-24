@@ -32,4 +32,4 @@ Key features:
 
 Visit [Hitachi-hta.com »][1]
 
- [1]: http://www.hitachihta.com
+ [1]: http://hitachi-hta.com
