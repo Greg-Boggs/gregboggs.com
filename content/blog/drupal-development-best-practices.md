@@ -37,4 +37,4 @@ Instead of writing a massive "glue" module, break up functionality into reusable
 
 You can automatically check and repair your code for Drupal with [Code Sniffer](https://www.drupal.org/node/1419988)
 
-Up next, Theming Best Practices for Drupal 8. 
+Up next, controversial configuration practices for Drupal 8 that will improve your workflow. 
