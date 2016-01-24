@@ -6,7 +6,7 @@ url: /drupal-development-best-practices/
 categories:
   - Blog
 ---
-These core concepts apply to Drupal site builds, and often apply to the other major web framework from WordPress to Node projects. Many of these ideas are [documented on Drupal.org](https://www.drupal.org/best-practices) as well. I'm rewriting them here because I disagree with the documentation in several key areas.
+These core concepts apply to Drupal 8 site builds. However, many often apply to the other major web framework from WordPress to Node projects. Many of these ideas are [documented on Drupal.org](https://www.drupal.org/best-practices) as well. I'm rewriting them here because I disagree with the documentation in several key areas.
 
 # Use The Same Development Environment
 Everyone on your team should have exactly [the same development environment](http://www.drupalvm.com/). Using the same development environment ensures that the project runs exactly the same for each team member working on a project. You can do this with Vagrant, Ansible, or a Brew script.
