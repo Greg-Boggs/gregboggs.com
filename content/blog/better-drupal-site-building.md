@@ -7,9 +7,9 @@ categories:
   - Blog
 menu: featured
 ---
-Drupal Global Training Days [is coming up](https://assoc.drupal.org/global-training-day-portland-oregon-february-2016) on February 6th, and this will be the third time I've given an introduction to Drupal 8 for site builders. I spend the day simplifying Drupal for new developers. But, once you're beyond the basics of the interface, there are many different ways to accomplish a task in Drupal and Drupal 8 only adds to the choices. So, if you're a Drupal developer looking to craft easier to maintain, faster to build Drupal 8 sites, this short series is for you.
+Drupal Global Training Days [is coming up](https://assoc.drupal.org/global-training-day-portland-oregon-february-2016) on February 6th, and this will be the third time I've given an introduction to Drupal 8 for site builders. I spend the day simplifying Drupal for new developers. But once you're beyond the basics of the interface, there are many different ways to accomplish a task in Drupal and Drupal 8 only adds to the choices. So, if you're a Drupal developer looking to craft easier to maintain Drupal 8 sites, this series is for you.
 
-Over the years I've developed many strong opinions about the best way to Drupal. Some of my decisions aren't actually better than alternatives, but they are patterns I've memorized to make me more efficient so I can avoid getting stuck building sites. This series will cover the following topics: 
+Over the years I've developed many strong opinions about the best way to "drupal". Some of my decisions aren't actually better than alternatives, but they are patterns I've memorized to make my work more efficient so I can avoid getting stuck building sites. This series will cover the following topics: 
 
 * Better Drupal site building
 * Theming best practices
