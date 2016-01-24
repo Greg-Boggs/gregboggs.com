@@ -25,13 +25,13 @@ Your hosting company should be providing 2-3 sites for each production site auto
 ## Use Configuration Before Code
 Instead of hard coding a class or a snippet of logic into a theme, set these values in configuration and then apply the configuration with code. This allows your code to change in the future without being rewritten. This also leads us to choose high quality, well maintained modules to build our sites out of. Reusing code is one of the most basic steps in writing quality software because reusable code will have fewer bugs and more features.
 
+Instead of writing a massive "glue" module, break up functionality into reusable modules and use configuration to apply advanced functionality so that each module is more powerful and easier to modify without rewriting the code. 
+
 ## Avoid Too Many (Poor) Modules
 For those of us who work on large scale Drupal sites, we've learned that hundreds of modules can  work together to produce an amazing, large-scale software project. When building enterprise Drupal sites, it's more important to avoid using 1 poor module than it is to avoid 30 well built modules. This too many modules advice leads programmers to favor programming their own modules over reusing modules. However, avoiding contributed modules means you end up rewriting basic Drupal features in every new project.
 
 ### This includes your custom modules
 Drupal.org only talks about contributed modules, but this too many modules advice holds for custom modules as well. The more custom modules you write, the more work it takes to maintain and modify your website. Instead of writing a large collection of custom modules, or a single giant glue module, consider publishing your modules on Github. This will encourage you to create reusable code that has configuration needed to make them reusable and future proof.
-
-Instead of writing a massive "glue" module, break up functionality into reusable modules and use configuration to apply advanced functionality so that each module is more powerful and easier to modify without rewriting the code. 
 
 ## Follow Coding Standards
 
