@@ -12,7 +12,7 @@ These core concepts apply to Drupal 8 site builds. However, many often apply to 
 Everyone on your team should have exactly [the same development environment](http://www.drupalvm.com/). Using the same development environment ensures that the project runs exactly the same for each team member working on a project. You can do this with Vagrant, Ansible, or a Brew script.
 
 # Backups? Put The Database in Code With CMI
-Configuration Management in Drupal 8 allows you to quickly and easy store all database settings in code. Further, content should come from a single reusable source. We use Google Docs API, others use Profiler. The key is keep your test content in a shared, predictable place.
+Configuration Management in Drupal 8 allows you to quickly [store database settings in code](https://www.drupal.org/documentation/administer/config). Further, content should come from a single reusable source. We use Google Docs API, others use Profiler. The key is keep your test content in a shared, predictable place.
 
 Drupal.org recommends that you backup your files and database. Since all of your code is on Github, and your database is in your code, Backups only matter in production. After a project launches, your hosting company should be providing backups. If your host isn't taking care of this automatically for you, then switch to a web host like Pantheon, WP Engine, or Site Ground. Both provide automated backups. Site Ground gives you per file recovery while Pantheon focuses on CMS backups for code/files/database in an easy to restore tool.
 
