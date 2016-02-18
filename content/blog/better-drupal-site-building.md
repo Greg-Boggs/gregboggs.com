@@ -12,7 +12,7 @@ Drupal Global Training Days [is coming up](https://assoc.drupal.org/global-train
 Over the years I've developed many strong opinions about the best way to "drupal". Some of my decisions aren't actually better than alternatives, but they are patterns I've memorized to make my work more efficient so I can avoid getting stuck building sites. This series will cover the following topics: 
 
 * [Drupal Development Best Practices](/drupal-development-best-practices/)
-* Drupal Configuration Best Practices
+* [Drupal Configuration Best Practices](drupal-configuration-best-practices/)
 * Theming best practices
 * Editor Experience basics
 * Content modeling in Drupal
