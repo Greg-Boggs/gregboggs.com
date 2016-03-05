@@ -5,7 +5,7 @@ author: Greg Boggs
 
 guid: http://www.gregboggs.com/?p=505
 url: /drupal-scrum-tips/
-date: 2012-06-26
+date: 2012-06-26T11:43:59-08:00
 categories:
   - Drupal
 ---

@@ -5,7 +5,7 @@ author: Greg Boggs
 
 guid: http://www.gregboggs.com/?p=680
 url: /portland-drupal-group-gets-a-little-awesome/
-date: 2013-07-11
+date: 2013-07-11T11:43:59-08:00
 categories:
   - Drupal
 ---

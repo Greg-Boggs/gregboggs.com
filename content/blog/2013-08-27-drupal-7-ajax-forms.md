@@ -5,7 +5,7 @@ author: Greg Boggs
 
 guid: http://www.gregboggs.com/?p=706
 url: /drupal-7-ajax-forms/
-date: 2013-08-27
+date: 2013-08-27T11:43:59-08:00
 categories:
   - Drupal
 ---

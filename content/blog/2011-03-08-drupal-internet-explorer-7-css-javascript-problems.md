@@ -5,7 +5,7 @@ author: Greg Boggs
 
 guid: http://www.gregboggs.com/?p=310
 url: /drupal-internet-explorer-7-css-javascript-problems/
-date: 2011-03-08
+date: 2011-03-08T11:43:59-08:00
 categories:
   - Drupal
 ---

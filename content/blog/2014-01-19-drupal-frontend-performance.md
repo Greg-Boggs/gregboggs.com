@@ -5,7 +5,7 @@ author: Greg Boggs
 
 guid: http://www.gregboggs.com/?p=750
 url: /drupal-frontend-performance/
-date: 2014-01-19
+date: 2014-01-19T11:43:59-08:00
 categories:
   - Drupal
 menu: featured

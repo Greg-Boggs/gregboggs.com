@@ -5,7 +5,7 @@ author: Greg Boggs
 
 guid: http://www.gregboggs.com/?p=766
 url: /join-me-at-the-devsigner-conference-in-portland-this-may-designers-and-developers-join-forces/
-date: 2014-05-01
+date: 2014-05-01T11:43:59-08:00
 categories:
   - Drupal
 ---

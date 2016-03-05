@@ -5,7 +5,7 @@ author: Greg Boggs
 
 guid: http://www.gregboggs.com/?p=425
 url: /drupal-7-import-content/
-date: 2011-12-23
+date: 2011-12-23T11:43:59-08:00
 categories:
   - Drupal
 ---
