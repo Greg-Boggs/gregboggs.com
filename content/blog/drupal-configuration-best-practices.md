@@ -1,5 +1,5 @@
 ---
-date: "2016-02-18 2:00:00"
+date: "2016-02-18T11:43:59-08:00"
 title: "Drupal 8 Configuration Workflow Best Practices"
 author: Greg Boggs
 url: /drupal-configuration-best-practices/
