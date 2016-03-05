@@ -7,7 +7,7 @@ guid: http://www.gregboggs.com/?p=505
 url: /drupal-scrum-tips/
 date: 2012-06-26
 categories:
-  - Blog
+  - Drupal
 ---
 So, I'd like to stop using waterfall development for Drupal projects. The first step is to teach myself to be a good advocate for something different&#8230; Started way back in the early 90&#8242;s was a thing called scrum&#8230; It really is very different. Here are some resources that don't suck.
 

@@ -7,12 +7,7 @@ guid: http://www.gregboggs.com/?p=310
 url: /drupal-internet-explorer-7-css-javascript-problems/
 date: 2011-03-08
 categories:
-  - Blog
-tags:
-  - Content Management
   - Drupal
-  - Internet Explorer
-  - JavaScript
 ---
 Internet Explorer is often the bane of a web designer's existence. Creating a design in Firefox or Chrome is easy, if something is off, click &#8220;inspect element&#8221; and you can fix the problem inminutes. However, in Internet Explorer, there's no such tool. Well, I had an issue with JQuery not displaying correctly on a Drupal site in IE7. It worked perfect in 8, Firefox, and Chrome. The demos for all the plugins I was using worked perfectly in Internet Explorer 7, but when I loaded them on the Drupal site, they were hosed. I checked the code over, and over, and over again. I have my [reservations about Drupal][1]. I hate how it creates so many external files, and how many &#8220;Gotchas&#8221; it has. I knew this had to be one of those weird Drupal quarks.
 

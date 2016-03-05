@@ -4,7 +4,7 @@ title: "Joining ThinkShout"
 author: Greg Boggs
 url: /joining-thinkshout/
 categories:
-  - Blog
+  - Drupal
 menu: featured
 ---
 I'm excited to announce that I'm joining the [ThinkShout](http://thinkshout.com/) team as a senior software enginer. ThinkShout is a mission-driven team that delivers engaging work for some amazing non-profit organizations. ThinkShout caught my eye a couple years ago when they launched the [RedHen CRM platform](http://redhencrm.com/) for Drupal. I was impressed not only because RedHen is free and open source, but because Sean Larkin took the time to walk us through working with the CRM inside the Drupal platform. In fact, many of my Drupal projects have benefited from the Free software that ThinkShout built and maintains in the Drupal community.

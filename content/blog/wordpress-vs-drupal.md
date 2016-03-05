@@ -4,7 +4,7 @@ title: "Wordpress vs Drupal for Complex Sites"
 author: Greg Boggs
 url: /drupal-vs-wordpress/
 categories:
-  - Blog
+  - Drupal
 menu: featured
 ---
 ![WordPress vs Drupal][wp-drupal]

@@ -7,7 +7,7 @@ guid: http://www.gregboggs.com/?p=766
 url: /join-me-at-the-devsigner-conference-in-portland-this-may-designers-and-developers-join-forces/
 date: 2014-05-01
 categories:
-  - Blog
+  - Drupal
 ---
 <img title="Credit: Devsigner" alt="Portland: A great place for designers and developers to join forces" src="http://rootwork.org/sites/default/files/imagecache/blog_header/blog/devsignerslide1.jpg" width="576" height="225" />
 

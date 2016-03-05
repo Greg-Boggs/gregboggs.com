@@ -7,7 +7,7 @@ guid: http://www.gregboggs.com/?p=750
 url: /drupal-frontend-performance/
 date: 2014-01-19
 categories:
-  - Blog
+  - Drupal
 menu: featured
 ---
 Steve Sounder's is an [authority on web performance][1]. He writes about everything from front end performance to browser performance. As a front end developer, it's easy to get lost in tasks that don't matter. There's a saying in software development, "Don't optimize until you need to." In frontend development, that doesn't apply because we don't write complex algorithims. But, it's important to make sure we focus our time and attention on the right stuff. So, what is the right stuff.

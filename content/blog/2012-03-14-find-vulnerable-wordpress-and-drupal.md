@@ -7,7 +7,7 @@ guid: http://www.gregboggs.com/?p=484
 url: /find-vulnerable-wordpress-and-drupal/
 date: 2012-03-14
 categories:
-  - Blog
+  - Drupal
 ---
 ## Drupal:
 

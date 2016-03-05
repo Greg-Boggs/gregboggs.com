@@ -7,7 +7,7 @@ guid: http://www.gregboggs.com/?p=680
 url: /portland-drupal-group-gets-a-little-awesome/
 date: 2013-07-11
 categories:
-  - Blog
+  - Drupal
 ---
 Have you ever had a client ask for everything to be red? Or perhaps it was auto playing audio on every page load? Well, check these awesome sites out.
 

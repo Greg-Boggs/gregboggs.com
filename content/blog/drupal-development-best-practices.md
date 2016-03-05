@@ -4,7 +4,7 @@ title: "Drupal 8 Development Best Practices"
 author: Greg Boggs
 url: /drupal-development-best-practices/
 categories:
-  - Blog
+  - Drupal
 ---
 These core concepts apply to Drupal 8 site builds. However, many often apply to the other major web framework from WordPress to Node projects. Many of these ideas are [documented on Drupal.org](https://www.drupal.org/best-practices) as well. I'm rewriting them here because I disagree with the documentation in several key areas.
 
