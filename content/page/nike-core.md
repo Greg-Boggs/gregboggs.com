@@ -4,7 +4,6 @@ author: Greg Boggs
 url: /nike-core/
 date: 2013-12-01
 categories:
-  - Drupal
   - Responsive
   - Programming
 tags:

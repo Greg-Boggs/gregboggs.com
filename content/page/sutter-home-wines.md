@@ -4,7 +4,6 @@ author: Greg Boggs
 url: /sutter-home-wines/
 date: 2013-03-19
 categories:
-  - Drupal
   - Responsive
   - Programming
 tags:

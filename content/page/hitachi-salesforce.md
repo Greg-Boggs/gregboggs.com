@@ -4,7 +4,6 @@ author: Greg Boggs
 url: /hitachi-hta/
 date: 2013-11-19
 categories:
-  - Drupal
   - Programming
 tags:
   - TNG
