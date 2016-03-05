@@ -1,5 +1,5 @@
 ---
-date: "2016-01-20"
+date: "2016-01-20T11:43:59-08:00"
 title: "Drupal 8 Site Building Best Practices"
 author: Greg Boggs
 url: /drupal8-site-building-best-practices/
