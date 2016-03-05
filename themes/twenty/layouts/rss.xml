@@ -1,6 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>{{ .Title }} on {{ .Site.Title }} </title>
+    <atom:link href="http://www.gregboggs.com/index.xml" rel="self" type="application/rss+xml" />
+    <title>{{ .Title }} on {{ .Site.Title }} </title>
     <link>{{ .Permalink }}</link>
     <language>en-US</language>
     <author>Greg Boggs</author>
