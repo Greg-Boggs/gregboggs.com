@@ -4,7 +4,7 @@
     <title>{{ .Title }} on {{ .Site.Title }} </title>
     <link>{{ .Permalink }}</link>
     <language>en-US</language>
-    <rights>Copyright (c), Greg Boggs; all rights reserved.</rights>
+      <copyright>Copyright (c), Greg Boggs; all rights reserved.<copyright>
     <updated>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 MST" }}</updated>
     {{ range first 15 .Data.Pages }}
     <item>
