@@ -1,6 +1,6 @@
 ---
 date: "2016-03-04T11:36:49-08:00"
-title: "Drupal 8 Breadcrumbs - Adding the Current Page Title"
+title: "Drupal 8 Breadcrumbs - Add the Current Page"
 author: Greg Boggs
 url: /drupal8-breadcrumbs/
 categories:
@@ -12,6 +12,7 @@ Breadcrumbs are a pain point in Drupal 7. If you don't know how breadcrumbs are 
 ## Drupal 8 Breadcrumb Improvements
  Drupal 8 vastly improves breadcrumbs, but core still gets them wrong. They are based on the current page path exactly like Easy Breadcrumb in Drupal 7. So, what did they get wrong? The current page title is missing as an unlinked crumb. Bummer. But, not hard to fix. If someone tells you to program the breadcrumbs in your theme, don't listen to them. Themes should work with markup. They shouldn't implement complex logic. 
  
+ ## Current Page Crumb
  Drupal 8 has refactored breadcrumbs [making them much easier](https://www.palantir.net/blog/d8ftw-breadcrumbs-work) for developers to extend or replace. This new architecture makes it easy for us to correct Drupal 8's breadcrumbs. Unfortunately, the code from Larry is a bit out of date and doesn't work anymore. So, lets look at the code pulled from my module Current Page Crumb module that [adds the current page title](https://www.drupal.org/sandbox/gregboggs/2664958) to the breadcrumb.
  
  <script src="https://gist.github.com/Greg-Boggs/2338e65e6e60b8812ed7.js"></script>
