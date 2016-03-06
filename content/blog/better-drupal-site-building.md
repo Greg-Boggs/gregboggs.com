@@ -15,7 +15,7 @@ Over the years I've developed many strong opinions about the best way to "drupal
 * [Drupal Development Best Practices](/drupal-development-best-practices/)
 * [Drupal Configuration Workflow](/drupal-configuration-best-practices/)
 * [Drupal Breadcrumbs](/drupal8-breadcrumbs/)
-* Theming best practices
+* [Theming best practices](/drupal-8-theming-best-practices/)
 * Editor Experience basics
 * Content modeling in Drupal
 * What to do with blocks

@@ -29,7 +29,7 @@ In Drupal, there are many times where the only selector you have that will work 
 
 Make sure to target your styles to reusable elements. So, avoid node types because those aren't reusable on other nodes. Instead, use view modes and configuration to apply selectors as you need them. 
 
-## Avoid using machine names
+## Avoid machine names
 
 This relates back to avoiding IDs. Machine names in Drupal sometimes need to change, and they are not reusable. So, don't target them. Instead use view css, block class and configuration to apply classes to your content.
 
@@ -37,7 +37,7 @@ This relates back to avoiding IDs. Machine names in Drupal sometimes need to cha
 
 Drupal 8 markup is better, but Drupal is still very verbose. Don't get sucked in by Drupal's divs. Only get as specific as you need to be. Don't replicate Drupal's HTML in your CSS.
 
-## Apply your grid to Drupal
+## Apply a grid to Drupal
 
 Choose a grid system that allows you to apply the grid to any markup like Singularity or Neat. While you certainly can Bootstrap Drupal. Using Bootstrap on Drupal requires a heavy rewrite of the HTML which will break contributed modules like Drupal Commerce in  obscure, hard to fix ways.
 
@@ -45,7 +45,7 @@ Choose a grid system that allows you to apply the grid to any markup like Singul
 
 Do not write advanced business logic into your theme templates. If your theme is programming complex features, move that code to a module. Or, install modules like [Current Page Crumb](/drupal8-breadcrumbs/), or [Advanced Agg](https://www.drupal.org/project/advagg) to handle more complex functions. This isn't WordPress, your theme shouldn't ship with a custom version of Panels.
 
-## Don't hard code field names or layouts
+## Don't hard code fields or layouts
 
 Use {{ content }} in your templates and let the View Modes, Display Suite, or Panels handle your layouts.
 
