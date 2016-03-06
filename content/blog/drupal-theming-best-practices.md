@@ -45,7 +45,7 @@ Choose a grid system that allows you to apply the grid to any markup like Singul
 
 Do not write advanced business logic into your theme templates. If your theme is programming complex features, move that code to a module. Or, install modules like [Current Page Crumb](/drupal8-breadcrumbs/), or [Advanced Agg](https://www.drupal.org/project/advagg) to handle more complex functions. This isn't WordPress, your theme shouldn't ship with a custom version of Panels.
 
-## Don't hard code fields or layouts
+## Don't hard code layouts
 
 Use {{ content }} in your templates and let the View Modes, Display Suite, or Panels handle your layouts.
 
