@@ -1,5 +1,5 @@
 ---
-date: "2015-07-14T11:36:49-07:00"
+date: "2016-03-04T11:36:49-08:00"
 title: "Drupal 8 Breadcrumbs - Adding the Current Page Title"
 author: Greg Boggs
 url: /drupal8-breadcrumbs/
