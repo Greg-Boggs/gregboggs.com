@@ -20,7 +20,7 @@ Here are a few major princiables behind the admin experience:
 * Taxonomy can be used to apply additional page styles.
 * Taxonomy terms should have limited fields.
 * Vocabularies shouldn't be too large or too deep.
-* The editor user should have links or a dashboard that links to key editor pages.
+* The editor should have easy links and dashboard.
 * Editors should be given the Clear Cache permission.
 * CKeditor should be configured to allow pre-selected CSS styles.
 * Editors should have a simple tool for applying layouts to new pages.
