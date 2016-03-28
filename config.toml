@@ -34,6 +34,9 @@ Author = "Greg Boggs"
     name = "Scan WP"
     url = "http://www.scanwp.com"
 [[menu.blog]]
+    name = "Game Solver"
+    url = "https://www.gamesolver.info/"
+[[menu.blog]]
     name = "CSS Complexity"
     url = "http://css.gregboggs.com"
 [[menu.blog]]
