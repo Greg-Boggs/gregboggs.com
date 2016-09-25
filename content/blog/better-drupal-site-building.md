@@ -6,6 +6,8 @@ url: /drupal8-site-building-best-practices/
 categories:
   - Drupal
   - Best Practices
+tags:
+  - Drupal Admin
 menu: featured
 ---
 I've taught an beginners course during Drupal Global Training Days [many times](https://assoc.drupal.org/global-training-day-portland-oregon-february-2016) in portland, and I give students an introduction to Drupal 8 for site builders. I spend the day simplifying Drupal for new developers. But once you're beyond the basics of the interface, there are many different ways to accomplish a task in Drupal and Drupal 8 only adds to the choices. So, if you're a Drupal developer looking to craft easier to maintain Drupal 8 sites, this series is for you.
