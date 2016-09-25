@@ -12,11 +12,11 @@ I've taught an beginners course during Drupal Global Training Days [many times](
 
 Over the years I've developed many strong opinions about the best way to "drupal". Some of my decisions aren't actually better than alternatives, but they are patterns I've memorized to make my work more efficient so I can avoid getting stuck building sites. This series will cover the following topics: 
 
-* [Drupal Development Best Practices](/drupal-development-best-practices/)
-* [Drupal Configuration Workflow](/drupal-configuration-best-practices/)
-* [Drupal Breadcrumbs](/drupal8-breadcrumbs/)
+* [Drupal development best practices](/drupal-development-best-practices/)
+* [Drupal configuration workflow](/drupal-configuration-best-practices/)
+* [Drupal breadcrumbs](/drupal8-breadcrumbs/)
 * [Theming best practices](/drupal-8-theming-best-practices/)
-* [Editor Experience basics](/drupal-8-admin-best-practices/)
+* [Editor experience basics](/drupal-8-admin-best-practices/)
 * [Content modeling in Drupal 8](/drupal-8-content-modeling/)
 * What to do with blocks
 * Creating lists correctly
