@@ -6,6 +6,8 @@ url: /drupal-8-admin-best-practices/
 categories:
   - Drupal
   - Best Practices
+tags:
+- Drupal Admin
 ---
 Drupal sites often suffer from a less than ideal editor experience. While Drupal 8 improves on the default experience by providing inline editting, working preview, and moving the 'advanced' options to the sidebar, there's still common mistakes that will lead to poor a experience. As a part of my on-going [Drupal 8 Best Practices](/drupal8-site-building-best-practices/) series, lets look at what we can do to build good admin interfaces.
 

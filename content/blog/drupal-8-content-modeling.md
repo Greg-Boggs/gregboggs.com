@@ -6,6 +6,8 @@ url: /drupal-8-content-modeling/
 categories:
   - Drupal
   - Best Practices
+tags:
+  - Drupal Admin
 menu: featured
 ---
 In many modern frameworks, data modeling is done by building out database tables. In Drupal, we use a web-based interface to build our models. This interface makes building the database accessible for people with no database experience. However, this easy access can lead to overly complex content models because it's so easy to build out advanced structures with a few hours of clicking. It's surprising how often Drupal developers are expected to be content modeling experts. Here's a well-written [overview of content modeling](http://alistapart.com/article/content-modelling-a-master-skill) for the rest of us who aren't experts yet.

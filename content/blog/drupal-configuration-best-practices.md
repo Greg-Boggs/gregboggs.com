@@ -6,6 +6,8 @@ url: /drupal-configuration-best-practices/
 categories:
   - Drupal
   - Best Practices
+tags:
+  - Drupal Config
 ---
 Don't store site configuration in the database during development because putting configuration in the database makes configuration difficult to track in version control. Instead, [use the file system](https://www.drupal.org/node/2416555)! Putting configuration in a database also makes it more difficult to restore, compare, sync, deploy, modify, and review the site config. Drupal 8 uses Yml files for configuration which are a perfect format for file-based configuration. In fact, this is the only method for [storing configuration in BackdropCMS](http://www.jenlampton.com/blog/managing-backdrop-cms-config-files-git) because BackdropCMS uses JSON files to store site configuration. Drupal uses Yaml to store your configuration the database, but storing Yaml in files was the default method for Drupal 8 when CMI was released. Many posts have been written about the [default workflow](http://nuvole.org/blog/2014/aug/20/git-workflow-managing-drupal-8-configuration) for configuration. But, the promise of file-based workflow is more efficient.
 
