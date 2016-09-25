@@ -7,10 +7,11 @@ categories:
   - Drupal
   - Best Practices
 ---
-Drupal sites often suffer from a very poor editor experience. While Drupal 8 improves on the default experience by providing inline editting, working preview, and moving the 'advanced' options to the sidebar, there's still a lot of common mistakes that will lead to poor a experience. As a part of my on-going [Drupal 8 Best Practices](/drupal8-site-building-best-practices/) series, lets look at what we can do to build good admin interfaces.
+Drupal sites often suffer from a less than ideal editor experience. While Drupal 8 improves on the default experience by providing inline editting, working preview, and moving the 'advanced' options to the sidebar, there's still common mistakes that will lead to poor a experience. As a part of my on-going [Drupal 8 Best Practices](/drupal8-site-building-best-practices/) series, lets look at what we can do to build good admin interfaces.
 
-Here are a few major princiables behind the admin experience:
+Here are a few major principles behind the admin experience:
 
+* Use as [few content types](/drupal-8-content-modeling/) as reasonable.
 * Use permissions to hide unneeded options.
 * Content should not be defined in code.
 * Content and layouts should be editable by the editor without modifying code or css.

@@ -8,7 +8,7 @@ categories:
   - Best Practices
 menu: featured
 ---
-I teach Drupal Global Training Days [every 3 months](https://assoc.drupal.org/global-training-day-portland-oregon-february-2016) in portland, and I give students an introduction to Drupal 8 for site builders. I spend the day simplifying Drupal for new developers. But once you're beyond the basics of the interface, there are many different ways to accomplish a task in Drupal and Drupal 8 only adds to the choices. So, if you're a Drupal developer looking to craft easier to maintain Drupal 8 sites, this series is for you.
+I've taught an beginners course during Drupal Global Training Days [many times](https://assoc.drupal.org/global-training-day-portland-oregon-february-2016) in portland, and I give students an introduction to Drupal 8 for site builders. I spend the day simplifying Drupal for new developers. But once you're beyond the basics of the interface, there are many different ways to accomplish a task in Drupal and Drupal 8 only adds to the choices. So, if you're a Drupal developer looking to craft easier to maintain Drupal 8 sites, this series is for you.
 
 Over the years I've developed many strong opinions about the best way to "drupal". Some of my decisions aren't actually better than alternatives, but they are patterns I've memorized to make my work more efficient so I can avoid getting stuck building sites. This series will cover the following topics: 
 
@@ -16,8 +16,8 @@ Over the years I've developed many strong opinions about the best way to "drupal
 * [Drupal Configuration Workflow](/drupal-configuration-best-practices/)
 * [Drupal Breadcrumbs](/drupal8-breadcrumbs/)
 * [Theming best practices](/drupal-8-theming-best-practices/)
-* [Editor Experience basics](drupal-8-admin-best-practices/)
-* Content modeling in Drupal
+* [Editor Experience basics](/drupal-8-admin-best-practices/)
+* [Content modeling in Drupal 8](/drupal-8-content-modeling/)
 * What to do with blocks
 * Creating lists correctly
 * Mistake-free site search
