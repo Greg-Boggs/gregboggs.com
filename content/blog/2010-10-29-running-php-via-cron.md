@@ -1,17 +1,17 @@
 ---
-id: 249
 title: Running PHP via Cron
+date: 2010-10-29 00:00:00 Z
+id: 249
 author: Greg Boggs
-
 guid: http://www.gregboggs.com/?p=249
-url: /running-php-via-cron/
-date: 2010-10-29
+url: "/running-php-via-cron/"
 categories:
-  - Blog
+- Blog
 tags:
-  - cron
-  - PHP
+- cron
+- PHP
 ---
+
 Three very annoying things I never, ever want to forget (again) about running PHP via the command line using cron:
 
   1. Cron has strange paths so, include (&#8216;./common.php'); will not work! You have to use (&#8216;common.php');

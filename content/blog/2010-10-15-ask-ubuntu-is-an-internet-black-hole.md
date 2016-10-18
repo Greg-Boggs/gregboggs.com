@@ -1,16 +1,16 @@
 ---
-id: 229
 title: Ask Ubuntu is an Internet Black Hole
+date: 2010-10-15 00:00:00 Z
+id: 229
 author: Greg Boggs
-
 guid: http://www.gregboggs.com/?p=229
-url: /ask-ubuntu-is-an-internet-black-hole/
-date: 2010-10-15
+url: "/ask-ubuntu-is-an-internet-black-hole/"
 categories:
-  - Blog
+- Blog
 tags:
-  - SEO
+- SEO
 ---
+
 The content on [Ask Ubuntu][1] is licensed CC attribution required. However, the content isn't licensed by the people who WRITE the content, but by the owners of the website who host the content. Evil? Probably.
 
 Update: Chris points out in the comments that Stack Exchange gives users with 2000 reputation points do follow links to their home page. That means when someone borrows an author's content to answer a stack exchange question, the person who copies gets a reward and the author does not. This is certainly better than no one getting a link&#8230; but not quite in the spirit of Ubuntu.

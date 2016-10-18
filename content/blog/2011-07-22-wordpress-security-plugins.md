@@ -1,14 +1,14 @@
 ---
-id: 330
 title: WordPress Security Plugins
+date: 2011-07-22 00:00:00 Z
+id: 330
 author: Greg Boggs
-
 guid: http://www.gregboggs.com/?p=330
-url: /wordpress-security-plugins/
-date: 2011-07-22
+url: "/wordpress-security-plugins/"
 categories:
-  - Blog
+- Blog
 ---
+
 <http://wordpress.org/extend/plugins/secure-wordpress/></p> 
 
 http://wordpress.org/extend/plugins/exploit-scanner/

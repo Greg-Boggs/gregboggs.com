@@ -1,14 +1,15 @@
 ---
-id: 620
 title: Living Room Conversations
+date: 2013-07-04 00:00:00 Z
+id: 620
 author: Greg Boggs
 theme: right-sidebar
 guid: http://www.gregboggs.com/?p=620
-url: /living-room-conversations/
-date: 2013-07-04
+url: "/living-room-conversations/"
 categories:
-  - freelance2
+- freelance2
 ---
+
 [Living Room Conversations][1] is an amazing project that brings together people from all sides to discuss major political issues.<!--more--> The project was created by [Amanda Kathryn Roman][2] and Joan Blades, the co-founder of [MoveOn.org][3]. While the site is fairly small, I had a blast working with the team, and I got to implement my [user generated content][4] recipe on a live project.
 
 ## Kudos from Craig

@@ -1,15 +1,15 @@
 ---
-id: 750
 title: Improving Drupal Frontend Performance
+date: 2014-01-19 19:43:59 Z
+id: 750
 author: Greg Boggs
-
 guid: http://www.gregboggs.com/?p=750
-url: /drupal-frontend-performance/
-date: 2014-01-19T11:43:59-08:00
+url: "/drupal-frontend-performance/"
 categories:
-  - Drupal
+- Drupal
 menu: featured
 ---
+
 Steve Sounder's is an [authority on web performance][1]. He writes about everything from front end performance to browser performance. As a front end developer, it's easy to get lost in tasks that don't matter. There's a saying in software development, "Don't optimize until you need to." In frontend development, that doesn't apply because we don't write complex algorithims. But, it's important to make sure we focus our time and attention on the right stuff. So, what is the right stuff.
 
 The best practices to focus on as a front end developer are the ones that have the most impact on site performance and user preception. To that end, here's 4 topics that you should put special effort into:

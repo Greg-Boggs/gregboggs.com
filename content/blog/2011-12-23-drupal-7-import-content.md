@@ -1,14 +1,14 @@
 ---
-id: 425
 title: Drupal 7 Import content with custom fields, images, and taxonomy
+date: 2011-12-23 19:43:59 Z
+id: 425
 author: Greg Boggs
-
 guid: http://www.gregboggs.com/?p=425
-url: /drupal-7-import-content/
-date: 2011-12-23T11:43:59-08:00
+url: "/drupal-7-import-content/"
 categories:
-  - Drupal
+- Drupal
 ---
+
 I'm in the process of migrating an [old PHP website][1] for Portland State University from a custom database into Drupal 7. Doing the data entry on hundreds of nodes with multiple custom fields, taxonomies, and images would have taken ages. So, instead I imported the data into Drupal with a PHP script. At first, I attempted to use phpMyAdmin, to export a CSV, and then import the CSV using the Feeds module. However, the feeds module for Drupal 7 doesn't seem to do field matching well, and I couldn't get the taxonomies or images to import correctly. So, with the help of my intelligent coworker, I decided to use Drush to execute a PHP script that will import the content. The process wasn't hard for a PHP programmer, but all the directions I found on other blogs were either [confusing me][2], or [missing a few steps][3]. Mainly the examples were missing the code to insert dynamic data from a database in a loop.
 
 This being my first Drupal 7 project, I had a lot to learn about new Drupal features. Don't worry, I've attached the code, so you can cut and paste my hard work.

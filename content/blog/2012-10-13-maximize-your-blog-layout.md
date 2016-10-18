@@ -1,14 +1,14 @@
 ---
-id: 513
 title: Maximize your blog layout
+date: 2012-10-13 00:00:00 Z
+id: 513
 author: Greg Boggs
-
 guid: http://www.gregboggs.com/?p=513
-url: /maximize-your-blog-layout/
-date: 2012-10-13
+url: "/maximize-your-blog-layout/"
 categories:
-  - Blog
+- Blog
 ---
+
 It's been many years since the blog become the standard layout of the web. However, many people still struggle with the basics of how to use the blog layout to maximize their content and reward readers. When a friend ask me what he should do to maximize his blog content, I  went and found a [couple][1] [of][2] [blogs][3] that [maximize][4] their layout to promote content.
 
 ## What is a Blog?

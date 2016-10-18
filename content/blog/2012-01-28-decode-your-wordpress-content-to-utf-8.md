@@ -1,14 +1,14 @@
 ---
-id: 453
 title: Decode your WordPress content to UTF-8
+date: 2012-01-28 00:00:00 Z
+id: 453
 author: Greg Boggs
-
 guid: http://www.gregboggs.com/?p=453
-url: /decode-your-wordpress-content-to-utf-8/
-date: 2012-01-28
+url: "/decode-your-wordpress-content-to-utf-8/"
 categories:
-  - Blog
+- Blog
 ---
+
 Ann Smarty recently posted an article about how scammers [ use foreign characters][1] to disguise duplicate content as unique, original content. If you've never seen this before, go read her post. It's really interesting.
 
 No really. Read it. 
