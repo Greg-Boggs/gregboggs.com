@@ -1,17 +1,17 @@
 ---
-id: 370
 title: WordPress Silent Automatic Background Updates
+date: 2011-08-01 00:00:00 Z
+id: 370
 author: Greg Boggs
-
 guid: http://www.gregboggs.com/?p=370
-url: /wordpress-silent-automatic-background-updates/
-date: 2011-08-01
+url: "/wordpress-silent-automatic-background-updates/"
 categories:
-  - Blog
+- Blog
 tags:
-  - Security
-  - WordPress
+- Security
+- WordPress
 ---
+
 WordPress automatic [silent updates][1] could mean and end to WordPress security problems and kill the need for [WordPress security plugins][2]. While this solution has it's drawbacks that could cause your website to [white screen of death][3], silent updates have the potential to finally make WordPress a secure platform. This change, planned for November, would make my WP security scanners obsolete including my own [WordPress Security Scanner][4] because every website running WordPress will, in theory, be secure. While WordPress has many basic security flaws like account name harvesting, old versions and misplaced backup copies is by far the largest reason for hacked WordPress sites.
 
 Given the potential silent updates have, I have to wonder, are WP Security experts going to be looking for a new line of work?

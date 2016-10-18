@@ -1,15 +1,16 @@
 ---
-date: "2016-03-04T11:36:49-08:00"
-title: "Drupal 8 Breadcrumbs - Add the Current Page"
+title: Drupal 8 Breadcrumbs - Add the Current Page
+date: 2016-03-04 19:36:49 Z
 author: Greg Boggs
-url: /drupal8-breadcrumbs/
+url: "/drupal8-breadcrumbs/"
 categories:
-  - Drupal
-  - Best Practices
+- Drupal
+- Best Practices
 tags:
-  - Drupal Config
+- Drupal Config
 menu: featured
 ---
+
 Breadcrumbs are a pain point in Drupal 7. If you don't know how breadcrumbs are supposed to work, [go read this](https://www.nngroup.com/articles/breadcrumb-navigation-useful/). The crumb should start with home and continue through to an unlinked crumb of the current page. Crumbs were implemented poorly, and breadcrumbs were difficult to modify in a module. Further, they were based on items in the menu. The breadcrumbs didn't even allow you to edit the home title or include the current page title as an unlinked crumb. So, if you wanted breadcrumbs on a Drupal site, the first step was to choose 1 of 10 different modules to build them for you. Making matters worse, some themes decided to program breadcrumbs for you as well. If you're stuck with a Drupal 7 breadcrumb problem, use a module I help maintain, [Easy Breadcrumb](https://www.drupal.org/project/easy_breadcrumb). Trust me. I've got this for you.
 
 ## Breadcrumb Improvements

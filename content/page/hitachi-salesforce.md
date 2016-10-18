@@ -1,13 +1,14 @@
 ---
 title: Hitachi HTA
+date: 2013-11-19 00:00:00 Z
 author: Greg Boggs
-url: /hitachi-hta/
-date: 2013-11-19
+url: "/hitachi-hta/"
 categories:
-  - Programming
+- Programming
 tags:
-  - TNG
+- TNG
 ---
+
 <img src="/portfolio/hitachi_1.jpg" alt="Hitachi Website" />
 
 Hitachi High Technologies is a diverse company with 8 divisions sharing a Drupal website. I tied user tracking information to 

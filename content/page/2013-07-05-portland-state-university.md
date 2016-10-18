@@ -1,14 +1,15 @@
 ---
-id: 642
 title: Portland State University
+date: 2013-07-05 00:00:00 Z
+id: 642
 author: Greg Boggs
 theme: right-sidebar
 guid: http://www.gregboggs.com/?p=642
-url: /portland-state-university/
-date: 2013-07-05
+url: "/portland-state-university/"
 categories:
-  - freelance2
+- freelance2
 ---
+
 In a year as a Drupal specialist contractor for Portland State University, I created useful solutions for teachers and students.<!--more--> Working for the PSU gave me the opportunity to delve into the inner workings of Drupal while doing important work.
 
 ## The Solutions Journal

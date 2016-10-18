@@ -1,16 +1,18 @@
 ---
-id: 308
 title: John Robbins
+date: 2010-09-29 00:00:00 Z
+id: 308
 author: Greg Boggs
-excerpt: "Greg has helped us to generate more than 5,000 unique visitors in just one day, and to generate more than 4,963 external links promoting our site."
+excerpt: Greg has helped us to generate more than 5,000 unique visitors in just one
+  day, and to generate more than 4,963 external links promoting our site.
 theme: right-sidebar
 guid: http://www.gregboggs.com/wordpress/?p=1
-url: /john-robbins/
+url: "/john-robbins/"
 LinkTitle: John Robbins
-date: 2010-09-29
 categories:
-  - freelance
+- freelance
 ---
+
 John Robbins is a best-selling author, social activist, and humanitarian. His work, &#8220;Diet for a New America&#8221; is one of the<!--more--> seminal works on the value of a plant-based diet.
 
 <img class="alignleft size-medium wp-image-19" title="johnrobbins2" alt="" src="/wp-content/uploads/2010/09/johnrobbins2-600x413.jpg" width="400" height="275" />

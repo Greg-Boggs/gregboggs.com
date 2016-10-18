@@ -1,16 +1,16 @@
 ---
-id: 260
 title: Upgrading to 10.10 wasn't a perfect 10.
+date: 2010-11-07 00:00:00 Z
+id: 260
 author: Greg Boggs
-
 guid: http://www.gregboggs.com/?p=260
-url: /upgrading-to-10-10-not-perfect/
-date: 2010-11-07
+url: "/upgrading-to-10-10-not-perfect/"
 categories:
-  - Blog
+- Blog
 tags:
-  - Ubuntu
+- Ubuntu
 ---
+
 <a rel="attachment wp-att-264" href="http://www.gregboggs.com/upgrading-to-10-10-not-perfect/startupgrade/"><img class="alignleft size-medium wp-image-264" title="startupgrade" src="http://www.gregboggs.com/wp-content/uploads/2010/11/startupgrade-400x355.png" alt="" width="400" height="355" /></a>Upgrading Ubuntu has always been difficult. I put myself through the updater before doing a fresh install hoping I can either fix the problems or, at least, experience them before giving up and using a fresh install. One of my favorite [Canonical bloggers][1] asked [why do people insist][2] on fresh installs. Hopefully this post sheds some light on why upgrades still hurt.
 
 Most of my problems stem from the fact that I install programs on my system and change a few minor settings here and there. But, who doesn't install software on their computer?

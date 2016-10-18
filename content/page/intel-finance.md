@@ -1,14 +1,15 @@
 ---
 title: Intel Finance
+date: 2013-03-19 00:00:00 Z
 author: Greg Boggs
-url: /intel-finance/
-date: 2013-03-19
+url: "/intel-finance/"
 categories:
-  - Responsive
-  - Programming
+- Responsive
+- Programming
 tags:
-  - TNG
+- TNG
 ---
+
 <img src="/portfolio/intel-finance_1.jpg" alt="Intel Finance Website" />
 This world-class knowledge management platform is used by <strong>multiple Intel departments</strong> to provide search,
 subscriptions, and more<!--more-->. Finance takes advantage of the powerful features built into this Drupal-based knowledge

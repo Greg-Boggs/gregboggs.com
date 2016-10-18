@@ -1,16 +1,16 @@
 ---
-id: 184
 title: Remove category from WordPress URLs
+date: 2010-10-08 00:00:00 Z
+id: 184
 author: Greg Boggs
-
 guid: http://www.gregboggs.com/?p=184
-url: /remove-category-from-wordpress-urls/
-date: 2010-10-08
+url: "/remove-category-from-wordpress-urls/"
 categories:
-  - Blog
+- Blog
 tags:
-  - WordPress
+- WordPress
 ---
+
 The theme I use for this website creates a blog by using a separate category in WordPress for blog posts. Normally I prefer to use static pages for non-blog pages, and rely on posts for the blogging feature. This method is easy to set up and creates an easy to manage, less confusing installation. However, category-based blogging came built into the theme, and tearing it out would be a lot of wasted effort.
 
 Instead I removed the &#8220;category&#8221; word from my URLs because &#8220;category&#8221; adds no meaning. My blog was found at www.gregboggs.com/category/blog&#8230; try sharing that URL over the phone. Now, my blog is gregboggs.com/blog/ which is much easier.

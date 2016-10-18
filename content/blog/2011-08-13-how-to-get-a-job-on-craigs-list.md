@@ -1,14 +1,14 @@
 ---
-id: 389
 title: How to get a Job on Craigslist
+date: 2011-08-13 00:00:00 Z
+id: 389
 author: Greg Boggs
-
 guid: http://www.gregboggs.com/?p=389
-url: /how-to-get-a-job-on-craigs-list/
-date: 2011-08-13
+url: "/how-to-get-a-job-on-craigs-list/"
 categories:
-  - Blog
+- Blog
 ---
+
 I'm not an [amazing career blogger][1], but I have applied for, and gotten, a lot of work on Craig's. If you have a white-sounding, male name and aren't getting responses, there is something wrong with your email. I give to my friends, but every time I use Craigslist, I improve my results. The first thing you need to know about Craigslist is that any posting is going to be overrun by spammers trying to drum up business. So, when replying to a job listing, your goal is to cut through the spam.
 
   1. Use spell check.
