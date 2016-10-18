@@ -1,18 +1,18 @@
 ---
-title: How to Test a New Web Server?
-date: 2010-10-13 00:00:00 Z
 id: 192
+title: How to Test a New Web Server?
 author: Greg Boggs
-guid: http://www.gregboggs.com/?p=192
-url: "/how-to-test-a-new-web-server/"
-categories:
-- Blog
-tags:
-- Apache
-- DNS
-- Web Design
----
 
+guid: http://www.gregboggs.com/?p=192
+url: /how-to-test-a-new-web-server/
+date: 2010-10-13
+categories:
+  - Blog
+tags:
+  - Apache
+  - DNS
+  - Web Design
+---
 > I'm moving to a new web host. Apache, mySQL, Drupal, etc&#8230; Virtual web sites. How do I test virtual web sites before changing the DNS? For example, there is a virtual site [http://www.example.com][1], but [http://www.example.com][1] is still pointing to the old server. How do I test it on the new server?
 
 Apache will respond to a visitor according to it's Virtual Host file. So, when you visit a server by it's IP address(123.123.123.123) , you won't see your website. You must use your domain name so that Apache can retrieve the correct files for your website. To test a new Apache server before moving a live website you can edit the local domain name files on your personal computer to point your domain to the new website.

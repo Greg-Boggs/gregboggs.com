@@ -1,16 +1,16 @@
 ---
-title: WordPress Thumbnails
-date: 2010-10-24 00:00:00 Z
 id: 247
+title: WordPress Thumbnails
 author: Greg Boggs
-guid: http://www.gregboggs.com/?p=247
-url: "/wordpress-thumbnails/"
-categories:
-- Blog
-tags:
-- WordPress
----
 
+guid: http://www.gregboggs.com/?p=247
+url: /wordpress-thumbnails/
+date: 2010-10-24
+categories:
+  - Blog
+tags:
+  - WordPress
+---
 I was recently asked how I would generate thumb nails in WordPress. WP has gone through ALOT of changes around images and thumbnails since I first started using WordPress.
 
 The current best practice for thumbnails in WordPress is described here:

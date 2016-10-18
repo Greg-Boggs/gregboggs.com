@@ -1,14 +1,14 @@
 ---
-title: Portland Drupal Group Gets a little Awesome
-date: 2013-07-11 19:43:59 Z
 id: 680
+title: Portland Drupal Group Gets a little Awesome
 author: Greg Boggs
-guid: http://www.gregboggs.com/?p=680
-url: "/portland-drupal-group-gets-a-little-awesome/"
-categories:
-- Drupal
----
 
+guid: http://www.gregboggs.com/?p=680
+url: /portland-drupal-group-gets-a-little-awesome/
+date: 2013-07-11T11:43:59-08:00
+categories:
+  - Drupal
+---
 Have you ever had a client ask for everything to be red? Or perhaps it was auto playing audio on every page load? Well, check these awesome sites out.
 
 Portland is a Drupal epicenter. The Drupal community comes together strongly in many places around the world and [Portland's Drupal User Group][1] is no exception. Once a month we gather for conference quality presentations about all sorts of advanced Drupal topics. Last night our fantastic host, Jason, Yee [(JYee)][2] did something different. He had us break into 7 teams with the goal of using 4 specific modules to produce a website that's awesome in 1 hour. The competition was stiff. Everything from advanced working, feature-complete Drupal builds to sparkles that actually sparkled. I appologize now if any of these screen shots make your eyes water.

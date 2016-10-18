@@ -1,15 +1,14 @@
 ---
 title: Sutter Home Wines
-date: 2013-03-19 00:00:00 Z
 author: Greg Boggs
-url: "/sutter-home-wines/"
+url: /sutter-home-wines/
+date: 2013-03-19
 categories:
-- Responsive
-- Programming
+  - Responsive
+  - Programming
 tags:
-- TNG
+  - TNG
 ---
-
 <img src="/portfolio/sutterhome_1.jpg" alt="Sutter Home Website" />
 Sutter Home Wines is a leading wine producer, and they needed a **fully adaptive and responsive** website to communicate
 their new brand<!--more-->. The New Group delivered a beautiful design in their first responsive site. As my first

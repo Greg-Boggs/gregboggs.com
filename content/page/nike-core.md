@@ -1,15 +1,14 @@
 ---
 title: Nike - Manager Core
-date: 2013-12-01 00:00:00 Z
 author: Greg Boggs
-url: "/nike-core/"
+url: /nike-core/
+date: 2013-12-01
 categories:
-- Responsive
-- Programming
+  - Responsive
+  - Programming
 tags:
-- TNG
+  - TNG
 ---
-
 <img alt="Nike Core Website" src="/portfolio/nike-core_1.jpg" />
 Nike Manager Core is a **fully responsive** learning management system that integrates Drupal with Moodle to provide in-store
 training<!--more-->for Nike managers through smart phones, tablets and desktops. As a global platform, Core is translated into

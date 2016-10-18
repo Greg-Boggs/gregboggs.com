@@ -1,18 +1,18 @@
 ---
-title: PHP Hash (bcrypt) Passwords with Random Salt
-date: 2011-07-26 00:00:00 Z
 id: 342
+title: PHP Hash (bcrypt) Passwords with Random Salt
 author: Greg Boggs
+
 guid: http://www.gregboggs.com/?p=342
-url: "/php-blowfish-random-salted-passwords/"
+url: /php-blowfish-random-salted-passwords/
+date: 2011-07-26
 categories:
-- Blog
+  - Blog
 tags:
-- PHP
-- Security
+  - PHP
+  - Security
 menu: featured
 ---
-
 We all know storing passwords in clear text in your database is rude. Yet, many do it because it makes a website easy for 
 testing or password recovery. Programmers often don't hash passwords because we are lazy. But, I'm developing 
 a WordPress security product. So, I should make an effort to securely hash passwords. It's just polite really. I know 

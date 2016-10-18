@@ -1,13 +1,12 @@
 ---
-title: Wordpress vs Drupal for Complex Sites
-date: 2015-05-28 18:36:49 Z
+date: "2015-05-28T11:36:49-07:00"
+title: "Wordpress vs Drupal for Complex Sites"
 author: Greg Boggs
-url: "/drupal-vs-wordpress/"
+url: /drupal-vs-wordpress/
 categories:
-- Drupal
+  - Drupal
 menu: featured
 ---
-
 ![WordPress vs Drupal][wp-drupal]
 
 Dries, the creator of Drupal recently started a conversation about WordPress vs. Drupal. This is the first time I've read a [great discussion][1] about the pros and cons of each platform. John Eckman, the founder of one of the best WordPress agencies [responded well][2] on his blog.

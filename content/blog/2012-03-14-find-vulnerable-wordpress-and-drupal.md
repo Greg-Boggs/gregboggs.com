@@ -1,14 +1,14 @@
 ---
-title: Find Vulnerable WordPress and Drupal
-date: 2012-03-14 19:43:59 Z
 id: 484
+title: Find Vulnerable WordPress and Drupal
 author: Greg Boggs
-guid: http://www.gregboggs.com/?p=484
-url: "/find-vulnerable-wordpress-and-drupal/"
-categories:
-- Drupal
----
 
+guid: http://www.gregboggs.com/?p=484
+url: /find-vulnerable-wordpress-and-drupal/
+date: 2012-03-14T11:43:59-08:00
+categories:
+  - Drupal
+---
 ## Drupal:
 
 `grep 'DocumentRoot' /etc/httpd/vhost.d/* | awk {'print $2;'} | xargs -I {} nice find {} -name CHANGELOG.txt > ~/drupal-sites.txt`

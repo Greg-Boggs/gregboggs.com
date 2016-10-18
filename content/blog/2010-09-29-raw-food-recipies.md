@@ -1,16 +1,15 @@
 ---
-title: Food Keywords for Raw Food Recipies
-date: 2010-09-29 00:00:00 Z
 id: 6
+title: Food Keywords for Raw Food Recipies
 author: Greg Boggs
 guid: http://www.gregboggs.com/?p=6
-url: "/raw-food-recipies/"
+url: /raw-food-recipies/
+date: 2010-09-29
 categories:
-- Blog
+  - Blog
 tags:
-- Keywords
+  - Keywords
 ---
-
 <a href="http://www.gregboggs.com/raw-food-recipies/addictedtoveggies/" rel="attachment wp-att-125"><img class="alignleft size-full wp-image-125" title="addictedtoveggies" src="http://www.gregboggs.com/wp-content/uploads/2010/09/addictedtoveggies.jpg" alt="" width="220" height="165" /></a>One of my favorite bloggers is a raw food blogger named Addicted to Veggies (ATV). She recently mentioned wanting to earn income for the hard work she puts into her amazing original [raw food recipes][1]. So, I started thinking about keywords for her blog. Later that week, I came across a raw food site called from Sad to Raw that had a banner at the bottom advertising, &#8220;#3 for the search Raw Food Recipes&#8221;. I thought, wow that's perfect for ATV! Even if you're not into raw food, you should [follow Addicted to Veggies on Twitter][2] because her recipes are amazing, healthy, fun, and beautiful.
 
 ### Finding Raw Food Keywords
