@@ -29,7 +29,9 @@ Author = "Greg Boggs"
 [[menu.top]]
     name = "Blog"
     url = "/blog/"
-    
+[[menu.blog]]
+    name = "Build Your Own House"
+    url = "https://www.byoh.com" 
 [[menu.blog]]
     name = "Scan WP"
     url = "http://www.scanwp.com"
