@@ -1,16 +1,16 @@
 ---
-title: Best WordPress Plugins I'm Excited About
-date: 2010-10-13 00:00:00 Z
 id: 205
+title: Best WordPress Plugins I'm Excited About
 author: Greg Boggs
-guid: http://www.gregboggs.com/?p=205
-url: "/best-wordpress-plugins-im-excited-about/"
-categories:
-- Blog
-tags:
-- WordPress
----
 
+guid: http://www.gregboggs.com/?p=205
+url: /best-wordpress-plugins-im-excited-about/
+date: 2010-10-13
+categories:
+  - Blog
+tags:
+  - WordPress
+---
 The short list of Plugins I'm excited about:
 
   1. Google [Analytics by Yoast][1] loads your Google analytics asynchronously to speed up your page loads.

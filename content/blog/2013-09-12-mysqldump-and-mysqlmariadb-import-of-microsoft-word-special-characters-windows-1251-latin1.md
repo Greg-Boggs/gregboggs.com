@@ -1,15 +1,14 @@
 ---
-title: Mysqldump and mySQL/Mariadb import of Microsoft Word Special Characters Windows
-  1251 (Latin1)
-date: 2013-09-12 00:00:00 Z
 id: 724
+title: Mysqldump and mySQL/Mariadb import of Microsoft Word Special Characters Windows 1251 (Latin1)
 author: Greg Boggs
-guid: http://www.gregboggs.com/?p=724
-url: "/mysqldump-and-mysqlmariadb-import-of-microsoft-word-special-characters-windows-1251-latin1/"
-categories:
-- Blog
----
 
+guid: http://www.gregboggs.com/?p=724
+url: /mysqldump-and-mysqlmariadb-import-of-microsoft-word-special-characters-windows-1251-latin1/
+date: 2013-09-12
+categories:
+  - Blog
+---
 I needed to export and import a WordPress database from Dreamhost. So, I logged in via command line dumped the files with:
 
     

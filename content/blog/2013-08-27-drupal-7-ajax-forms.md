@@ -1,14 +1,14 @@
 ---
-title: Drupal 7 AJAX Forms
-date: 2013-08-27 19:43:59 Z
 id: 706
+title: Drupal 7 AJAX Forms
 author: Greg Boggs
-guid: http://www.gregboggs.com/?p=706
-url: "/drupal-7-ajax-forms/"
-categories:
-- Drupal
----
 
+guid: http://www.gregboggs.com/?p=706
+url: /drupal-7-ajax-forms/
+date: 2013-08-27T11:43:59-08:00
+categories:
+  - Drupal
+---
 Using AJAX to update a Drupal 7 form could be easier. The documentation on this feature is [extremely verbose][1], and I had a difficult time piecing together a working example. So, here's the code to modify the values of a second field when the value of the first is selected. The code below will use the taxonomy_voc drop down to control the product model drop down values. This code does not work with field widgets that define their own AJAX.
 
 **Wrap the field that's being controlled and add the callback and wrapper to the controller field**.

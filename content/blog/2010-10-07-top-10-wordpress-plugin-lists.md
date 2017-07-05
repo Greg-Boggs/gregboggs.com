@@ -1,16 +1,16 @@
 ---
-title: Top 10 WordPress Plugin Lists
-date: 2010-10-07 00:00:00 Z
 id: 153
+title: Top 10 WordPress Plugin Lists
 author: Greg Boggs
-guid: http://www.gregboggs.com/?p=153
-url: "/top-10-wordpress-plugin-lists/"
-categories:
-- Blog
-tags:
-- WordPress
----
 
+guid: http://www.gregboggs.com/?p=153
+url: /top-10-wordpress-plugin-lists/
+date: 2010-10-07
+categories:
+  - Blog
+tags:
+  - WordPress
+---
 <div id="attachment_162" style="width: 510px" class="wp-caption aligncenter">
   <img class="size-full wp-image-162 " title="Old faded book" src="http://www.gregboggs.com/wp-content/uploads/2010/10/tomb.jpg" alt="Old faded book" width="500" height="303" />
   

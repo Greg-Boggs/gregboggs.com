@@ -1,13 +1,12 @@
 ---
-title: Drupal 8 Development Best Practices
-date: 2016-01-20 19:43:59 Z
+date: "2016-01-20T11:43:59-08:00"
+title: "Drupal 8 Development Best Practices"
 author: Greg Boggs
-url: "/drupal-development-best-practices/"
+url: /drupal-development-best-practices/
 categories:
-- Drupal
-- Best Practices
+  - Drupal
+  - Best Practices
 ---
-
 These core concepts apply to Drupal 8 site builds. However, many often apply to the other major web framework from WordPress to Node projects. Many of these ideas are [documented on Drupal.org](https://www.drupal.org/best-practices) as well. I'm rewriting them here because I disagree with the documentation in several key areas.
 
 ## Use The Same Development Environment

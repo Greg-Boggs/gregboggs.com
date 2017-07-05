@@ -1,10 +1,10 @@
 ---
 title: About Greg
-date: 2010-05-22 00:00:00 Z
 author: Greg Boggs
-url: "/about-greg-boggs/"
----
+url: /about-greg-boggs/
+date: 2010-05-22
 
+---
 <img style="float:left; margin-right: 15px; margin-top: 10px" title="Greg Boggs" src="http://farm4.static.flickr.com/3282/2876062127_8e4684fc58_m.jpg" alt="Greg Boggs" width="240" height="156">
 Greg has been working with technology since the late 90′s, and he has been a founding partner in two “all hands on deck”
  startup companies. Coming to web development in 2003 after 4 years as a systems administrator, he has over <strong>10 years 

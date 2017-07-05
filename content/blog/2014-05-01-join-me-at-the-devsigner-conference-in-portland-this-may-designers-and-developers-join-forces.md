@@ -1,15 +1,14 @@
 ---
-title: 'Join me at the Devsigner conference in Portland this May: designers and developers
-  join forces!'
-date: 2014-05-01 19:43:59 Z
 id: 766
+title: 'Join me at the Devsigner conference in Portland this May: designers and developers join forces!'
 author: Greg Boggs
-guid: http://www.gregboggs.com/?p=766
-url: "/join-me-at-the-devsigner-conference-in-portland-this-may-designers-and-developers-join-forces/"
-categories:
-- Drupal
----
 
+guid: http://www.gregboggs.com/?p=766
+url: /join-me-at-the-devsigner-conference-in-portland-this-may-designers-and-developers-join-forces/
+date: 2014-05-01T11:43:59-08:00
+categories:
+  - Drupal
+---
 <img title="Credit: Devsigner" alt="Portland: A great place for designers and developers to join forces" src="http://rootwork.org/sites/default/files/imagecache/blog_header/blog/devsignerslide1.jpg" width="576" height="225" />
 
 **Devsigner is celebrating the cross-overs, the multi-disciplinarians, the coders who paint and the designers who send pull requests — and those who want to develop some new left-right brain skills.**

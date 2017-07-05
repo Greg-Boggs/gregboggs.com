@@ -1,13 +1,13 @@
 ---
-title: Telelanguage Inc.
-date: 2013-01-19 00:00:00 Z
 id: 523
+title: Telelanguage Inc.
 author: Greg Boggs
 theme: right-sidebar
 guid: http://www.gregboggs.com/?p=523
-url: "/telelanguage/"
+url: /telelanguage/
+date: 2013-01-19
 categories:
-- freelance2
+  - freelance2
 ---
 
 Telelanguage had been working on their website for more than 2 years when I found their call for a Drupal developer.<!--more--> 
