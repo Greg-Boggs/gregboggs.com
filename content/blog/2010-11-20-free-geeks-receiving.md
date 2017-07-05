@@ -1,15 +1,16 @@
 ---
+title: Free Geek Volunteer - Receiving
+date: 2010-11-20 00:00:00 Z
 id: 281
-title: 'Free Geek Volunteer - Receiving'
 author: Greg Boggs
 guid: http://www.gregboggs.com/?p=281
-url: /free-geeks-receiving/
-date: 2010-11-20
+url: "/free-geeks-receiving/"
 categories:
-  - Blog
+- Blog
 tags:
-  - Free Geek
+- Free Geek
 ---
+
 Free Geek is a [Portland computer reuse][1] and [recycling][2] non-profit organization. Free Geek takes in [almost all e-waste][3] and either reuses it or responsibly recycles it. They are an amazing organization staffed by a huge volunteer force and run as a consensus-based organization. Every volunteer gets a free computer after only 24 hours of work. So, they get hundreds of volunteers. They take in anyone regardless of skill or ability and they provide training, friendly oversight, and lots of encouragement. They even teach you free classes before you leave home with your Ubuntu computer. Yes, Free Geek only sells computers with the Ubuntu [Free][4] operating system on them!
 
 I took the tour for fun and had to sign up for a couple volunteer hours just to see what it was like. I don't need any more computers, but it's the least I can do to offset the huge pile of e-waste I generate. During my tour, it seemed like receiving is always in dire need of more help because it involves some serious memorization, heavy lifting, repetitive tasks, and people skills all in the same station. Receiving is responsible for getting every &#8220;donation&#8221; of e-waste in through the door, counting it, sorting it, organization it, and finally dispersing it through out the building. Much of what gets recycled meets its fate in receiving. In fact, Free Geek goes way beyond [what I was expecting][5] to respect the privacy of donors. Every item that might have personal data on it was dropped in a secure bin for wiping. As a volunteer I only handled the stuff long enough to put it in a bin and it was gone. There was even a short debate about how to wipe phone numbers off a pager before recycling it!

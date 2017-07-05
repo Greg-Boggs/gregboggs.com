@@ -1,14 +1,14 @@
 ---
-id: 561
 title: Increasing Klout Score by 30 Points
+date: 2013-06-17 00:00:00 Z
+id: 561
 author: Greg Boggs
-
 guid: http://www.gregboggs.com/?p=561
-url: /increasing-klout-scores/
-date: 2013-06-17
+url: "/increasing-klout-scores/"
 categories:
-  - Blog
+- Blog
 ---
+
 Does LinkedIn ever send you messages that aren't spam? Well, anyway, while deleting my LinkedIn spam, I saw one of the largest SEO firms advertising an SEO manager position that required a Klout Score of 50. And, I thought, well that's lame! Who cares about Klout? Then I thought, could I hack my social media profiles to increase my Klout score without much work?
 
 ## Hacking Your Klout Profile Score

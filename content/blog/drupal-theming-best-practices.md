@@ -1,12 +1,13 @@
 ---
-date: "2016-03-05T11:43:59-08:00"
-title: "Drupal 8 Theming Best Practices"
+title: Drupal 8 Theming Best Practices
+date: 2016-03-05 19:43:59 Z
 author: Greg Boggs
-url: /drupal-8-theming-best-practices/
+url: "/drupal-8-theming-best-practices/"
 categories:
-  - Drupal
-  - Best Practices
+- Drupal
+- Best Practices
 ---
+
 The [theming guide](https://www.drupal.org/theme-guide/8) for Drupal 8 will get you started in the basics for theming a Drupal site. But, once you've learned the basics, what best practices should you be applying to Drupal 8 themes? There are [lots of popular](https://smacss.com/book/) methods for writing and organizing CSS. The basics of CSS, of course, apply to Drupal.
 
 * Don't get too specific

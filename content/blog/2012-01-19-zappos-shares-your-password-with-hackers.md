@@ -1,14 +1,14 @@
 ---
-id: 444
 title: Zappos shares your password with hackers
+date: 2012-01-19 00:00:00 Z
+id: 444
 author: Greg Boggs
-
 guid: http://www.gregboggs.com/?p=444
-url: /zappos-shares-your-password-with-hackers/
-date: 2012-01-19
+url: "/zappos-shares-your-password-with-hackers/"
 categories:
-  - Blog
+- Blog
 ---
+
 <img class="alignleft" title="Zappos" src="http://blogs.zappos.com/assets/hotspot/timeslot_images/10425_1311613627.png" alt="Zappos logo" width="157" height="86" />So, while I've been slaving away trying to get my own blog to pass my [WordPress security scanner][1], Zappos got hacked. It happens. They were probably running WordPress right? Their customer information was accessed. While they didn't make an announcement, [they did email their customers][2] and tweet about it. While I'm happy with their proactive response, this provides a wonderful learning opportunity for all of us who store passwords for a living. When a user gives you a password, they trust that you will keep it safe, and that you won't share it with anyone. Part of keeping passwords safe is storing them well.
 
 Now, Zappos comment on the hack:

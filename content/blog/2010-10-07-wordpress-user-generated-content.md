@@ -1,18 +1,18 @@
 ---
-id: 151
 title: WordPress User Generated Content
+date: 2010-10-07 00:00:00 Z
+id: 151
 author: Greg Boggs
-
 guid: http://www.gregboggs.com/?p=151
-url: /wordpress-user-generated-content/
-date: 2010-10-07
+url: "/wordpress-user-generated-content/"
 theme: right-sidebar
 categories:
-  - Blog
+- Blog
 tags:
-  - Free Software
-  - WordPress
+- Free Software
+- WordPress
 ---
+
 An amazing start-up that I provide consulting for recently used WordPress to build user-generated [consumer complaints][1] feature. The idea behind ConsumerBell is to empower consumers by grouping their complaints together and giving them leverage. For ConsumerBell to work, they need complaints! So, they built a beautiful feature for users to submit and publish their complaints.
 
 There are several ways to publish moderated user-generated content in WordPress. ConsumerBell built a custom plugin, but I've found some other interesting ways to solve the problem of generating user created content **without programming**. For example, WordPress includes comments which can be used to create simple content. However, comments have many drawbacks because a comment doesn't create a new post inside WordPress. So, all your user content is confined to a single page of your site. After some digging I've turned up several other methods to generate moderated content.

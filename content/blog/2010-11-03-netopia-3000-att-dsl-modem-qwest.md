@@ -1,16 +1,16 @@
 ---
-id: 256
 title: Netopia 3000 for Qwest DSL
+date: 2010-11-03 00:00:00 Z
+id: 256
 author: Greg Boggs
-
 guid: http://www.gregboggs.com/?p=256
-url: /netopia-3000-att-dsl-modem-qwest/
-date: 2010-11-03
+url: "/netopia-3000-att-dsl-modem-qwest/"
 categories:
-  - Blog
+- Blog
 tags:
-  - Networking
+- Networking
 ---
+
 Want to use your AT&T DSL Netopia Modem on QWest DSL without having to pay the $99 dollars for a new Qwest DSL modem?
 
 The short version:
