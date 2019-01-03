@@ -47,3 +47,6 @@ Author = "Greg Boggs"
 [[menu.blog]]
     name = "Wesnoth Gaming Ladder"
     url = "http://sourceforge.net/projects/gamingladder/"
+[[menu.blog]]
+    name = "Elijah Lynn's Blog"
+    url = "https://www.elijahlynn.net"
