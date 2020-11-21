@@ -2,7 +2,7 @@
 title: "Drupal Maintainer's Initiative"
 date: "2020-06-19T11:43:59-08:00"
 author: "Greg Boggs"
-url: "/drupal-maintainers initiative/"
+url: "/drupal-maintainers-initiative/"
 categories = ["Drupal", "Blog"]
 menu: featured
 +++
