@@ -1,11 +1,12 @@
-+++
-title = "Drupal Maintainer's Initiative"
-date = "2020-06-19T11:43:59-08:00"
-author = "Greg Boggs"
-url = "/drupal-maintainers-initiative/"
-categories = ["Drupal", "Blog"]
-menu = [featured]
-+++
+---
+title: Drupal Maintainer's Initiative
+date: 2020-06-19T11:43:59-08:00
+author: Greg Boggs
+url: "/drupal-maintainers-initiative/"
+categories:
+- Drupal
+menu: featured
+---
 
 With the launch of Drupal 9, the community is rallying to update all of the community contributed modules from Drupal 8 to Drupal 9. This work is often just a single line of code to tell Drupal that the module supports 9. But, for older, out of date modules, the work required to get to Drupal 9 is a bigger effort. Some of these modules haven't been updated in 4 years.
 
