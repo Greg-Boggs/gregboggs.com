@@ -5,6 +5,7 @@ author: Greg Boggs
 url: "/drupal-maintainers-initiative/"
 categories:
 - Drupal
+- Blog
 menu: featured
 ---
 
