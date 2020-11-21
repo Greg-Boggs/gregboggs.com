@@ -51,14 +51,15 @@ git commit -m 'Issue #3174165 by kell.mcnaughton, pattsai: How to support limiti
 git push --set-upstream easy_breadcrumb-3174165 HEAD
 ```
 
+
 The commands do the following:
 
-1. Add the new fork as a remote.
-2. Fetch the new fork.
-3. Checkout a branch on that fork.
-4. Add your work to that branch.
-5. Commit your work to that branch.
-6. Push your work to Gitlab.
+* Add the new fork as a remote.
+* Fetch the new fork.
+* Checkout a branch on that fork.
+* Add your work to that branch.
+* Commit your work to that branch.
+* Push your work to Gitlab.
 
 ## Open a Merge Request
 
