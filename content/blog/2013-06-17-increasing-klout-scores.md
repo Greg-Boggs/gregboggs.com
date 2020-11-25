@@ -1,6 +1,6 @@
 ---
 title: Increasing Klout Score by 30 Points
-date: 2013-06-17 00:00:00 Z
+date: 2013-06-17
 id: 561
 author: Greg Boggs
 guid: http://www.gregboggs.com/?p=561
