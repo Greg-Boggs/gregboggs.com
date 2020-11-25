@@ -1,6 +1,6 @@
 ---
 title: Netopia 3000 for Qwest DSL
-date: 2010-11-03 00:00:00 Z
+date: 2010-11-03
 id: 256
 author: Greg Boggs
 guid: http://www.gregboggs.com/?p=256
