@@ -1,6 +1,6 @@
 ---
 title: Drupal 8 Breadcrumbs - Add the Current Page
-date: 2016-03-04 19:36:49 Z
+date: 2016-03-04
 author: Greg Boggs
 url: "/drupal8-breadcrumbs/"
 categories:
