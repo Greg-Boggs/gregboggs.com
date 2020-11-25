@@ -10,15 +10,13 @@ categories:
 - Drupal
 ---
 
-<img title="Credit: Devsigner" alt="Portland: A great place for designers and developers to join forces" src="http://rootwork.org/sites/default/files/imagecache/blog_header/blog/devsignerslide1.jpg" width="576" height="225" />
-
 **Devsigner is celebrating the cross-overs, the multi-disciplinarians, the coders who paint and the designers who send pull requests — and those who want to develop some new left-right brain skills.**
 
 We’re looking for folks to break out of their familiar meetup silos and apply their knowledge across the crafts of development and design.
 
 <a href="http://devsignercon.com/" target="_blank"><strong>Join me at Devsigner in Portland, Oregon, May 23-25!</strong></a>
 
-Tickets are <a href="http://devsignercon.com/devsigner-2014" target="_blank">now on sale</a>, and <a href="http://devsignercon.com/" target="_blank">session submissions are open</a> until this Friday, May 2!<a href="http://devsignercon.com/" target="_blank"><img alt="Devsigner: Portland, OR, May 23-25" src="http://rootwork.org/sites/default/files/devsignerlogo.png" width="454" height="188" /></a>
+Tickets are <a href="http://devsignercon.com/devsigner-2014" target="_blank">now on sale</a>, and <a href="http://devsignercon.com/" target="_blank">session submissions are open</a> until this Friday, May 2!<a href="http://devsignercon.com/" target="_blank"></a>
 
 ### Sessions will include things like:
 
