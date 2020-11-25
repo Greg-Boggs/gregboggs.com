@@ -1,6 +1,6 @@
 ---
 title: Wordpress vs Drupal for Complex Sites
-date: 2015-05-28 18:36:49 Z
+date: 2015-05-28
 author: Greg Boggs
 url: "/drupal-vs-wordpress/"
 categories:
