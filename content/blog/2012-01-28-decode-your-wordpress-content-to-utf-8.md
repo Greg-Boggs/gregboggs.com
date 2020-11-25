@@ -1,6 +1,6 @@
 ---
 title: Decode your WordPress content to UTF-8
-date: 2012-01-28 00:00:00 Z
+date: 2012-01-28
 id: 453
 author: Greg Boggs
 guid: http://www.gregboggs.com/?p=453
