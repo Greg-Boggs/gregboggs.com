@@ -1,6 +1,6 @@
 ---
 title: Best WordPress Plugins I'm Excited About
-date: 2010-10-13 00:00:00 Z
+date: 2010-10-13
 id: 205
 author: Greg Boggs
 guid: http://www.gregboggs.com/?p=205
