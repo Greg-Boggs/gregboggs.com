@@ -1,7 +1,7 @@
 ---
 title: 'Join me at the Devsigner conference in Portland this May: designers and developers
   join forces!'
-date: 2014-05-01 19:43:59 Z
+date: 2014-05-01
 id: 766
 author: Greg Boggs
 guid: http://www.gregboggs.com/?p=766
