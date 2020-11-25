@@ -1,7 +1,7 @@
 +++
 author = "Greg Boggs"
-categories = ["Drupal", "Blog"]
-date = "2020-11-20T11:43:59-08:00"
+categories = ["Drupal"]
+date = "2020-11-20"
 draft = false
 tags = ["Drupal"]
 title = "Drupal Merge Requests using Gitlab!"
