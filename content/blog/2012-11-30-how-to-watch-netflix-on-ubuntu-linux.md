@@ -1,6 +1,6 @@
 ---
 title: How to watch Netflix on Ubuntu 13.04
-date: 2012-11-30 00:00:00 Z
+date: 2012-11-30
 id: 518
 author: Greg Boggs
 guid: http://www.gregboggs.com/?p=518
