@@ -1,6 +1,6 @@
 ---
 title: Maximize your blog layout
-date: 2012-10-13 00:00:00 Z
+date: 2012-10-13
 id: 513
 author: Greg Boggs
 guid: http://www.gregboggs.com/?p=513
