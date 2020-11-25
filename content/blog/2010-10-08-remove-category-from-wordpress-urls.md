@@ -1,6 +1,6 @@
 ---
 title: Remove category from WordPress URLs
-date: 2010-10-08 00:00:00 Z
+date: 2010-10-08
 id: 184
 author: Greg Boggs
 guid: http://www.gregboggs.com/?p=184
