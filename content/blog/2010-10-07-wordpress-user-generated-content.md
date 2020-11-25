@@ -1,6 +1,6 @@
 ---
 title: WordPress User Generated Content
-date: 2010-10-07 00:00:00 Z
+date: 2010-10-07
 id: 151
 author: Greg Boggs
 guid: http://www.gregboggs.com/?p=151
