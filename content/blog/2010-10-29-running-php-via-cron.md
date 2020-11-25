@@ -1,6 +1,6 @@
 ---
 title: Running PHP via Cron
-date: 2010-10-29 00:00:00 Z
+date: 2010-10-29
 id: 249
 author: Greg Boggs
 guid: http://www.gregboggs.com/?p=249
