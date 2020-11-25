@@ -1,6 +1,6 @@
 ---
 title: Joining ThinkShout
-date: 2015-07-14 18:36:49 Z
+date: 2015-07-14
 author: Greg Boggs
 url: "/joining-thinkshout/"
 categories:
