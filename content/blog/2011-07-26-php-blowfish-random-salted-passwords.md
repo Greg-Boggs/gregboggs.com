@@ -1,6 +1,6 @@
 ---
 title: PHP Hash (bcrypt) Passwords with Random Salt
-date: 2011-07-26 00:00:00 Z
+date: 2011-07-26
 id: 342
 author: Greg Boggs
 guid: http://www.gregboggs.com/?p=342
