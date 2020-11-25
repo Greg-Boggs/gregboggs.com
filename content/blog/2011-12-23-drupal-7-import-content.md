@@ -1,6 +1,6 @@
 ---
 title: Drupal 7 Import content with custom fields, images, and taxonomy
-date: 2011-12-23 19:43:59 Z
+date: 2011-12-23
 id: 425
 author: Greg Boggs
 guid: http://www.gregboggs.com/?p=425
