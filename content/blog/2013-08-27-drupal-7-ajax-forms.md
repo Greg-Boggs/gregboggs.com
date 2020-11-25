@@ -1,6 +1,6 @@
 ---
 title: Drupal 7 AJAX Forms
-date: 2013-08-27 19:43:59 Z
+date: 2013-08-27
 id: 706
 author: Greg Boggs
 guid: http://www.gregboggs.com/?p=706
