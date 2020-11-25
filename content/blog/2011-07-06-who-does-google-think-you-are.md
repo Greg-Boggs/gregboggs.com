@@ -1,6 +1,6 @@
 ---
 title: Who Does Google Think I Am?
-date: 2011-07-06 00:00:00 Z
+date: 2011-07-06
 id: 325
 author: Greg Boggs
 guid: http://www.gregboggs.com/?p=325
