@@ -1,6 +1,6 @@
 ---
 title: Find Vulnerable WordPress and Drupal
-date: 2012-03-14 19:43:59 Z
+date: 2012-03-14
 id: 484
 author: Greg Boggs
 guid: http://www.gregboggs.com/?p=484
