@@ -1,6 +1,6 @@
 ---
 title: Drupal 8 Site Building Best Practices
-date: 2016-01-20 19:43:59 Z
+date: 2016-01-20
 author: Greg Boggs
 url: "/drupal8-site-building-best-practices/"
 categories:
