@@ -1,6 +1,6 @@
 ---
 title: Drupal Maintainer's Initiative
-date: 2020-06-19T11:43:59-08:00
+date: 2020-06-19
 author: Greg Boggs
 url: "/drupal-maintainers-initiative/"
 categories:
