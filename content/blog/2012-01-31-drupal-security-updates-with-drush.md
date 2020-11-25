@@ -1,6 +1,6 @@
 ---
 title: Drupal Security Updates with Drush
-date: 2012-01-31 00:00:00 Z
+date: 2012-01-31
 id: 465
 author: Greg Boggs
 guid: http://www.gregboggs.com/?p=465
