@@ -1,6 +1,6 @@
 ---
 title: Free Geek Volunteer - Receiving
-date: 2010-11-20 00:00:00 Z
+date: 2010-11-20
 id: 281
 author: Greg Boggs
 guid: http://www.gregboggs.com/?p=281
