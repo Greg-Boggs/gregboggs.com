@@ -1,6 +1,6 @@
 ---
 title: Upgrading to 10.10 wasn't a perfect 10.
-date: 2010-11-07 00:00:00 Z
+date: 2010-11-07
 id: 260
 author: Greg Boggs
 guid: http://www.gregboggs.com/?p=260
