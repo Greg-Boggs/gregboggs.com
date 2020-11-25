@@ -1,6 +1,6 @@
 ---
 title: How to get a Job on Craigslist
-date: 2011-08-13 00:00:00 Z
+date: 2011-08-13
 id: 389
 author: Greg Boggs
 guid: http://www.gregboggs.com/?p=389
