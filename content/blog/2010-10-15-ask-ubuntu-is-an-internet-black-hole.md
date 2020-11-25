@@ -1,6 +1,6 @@
 ---
 title: Ask Ubuntu is an Internet Black Hole
-date: 2010-10-15 00:00:00 Z
+date: 2010-10-15
 id: 229
 author: Greg Boggs
 guid: http://www.gregboggs.com/?p=229
