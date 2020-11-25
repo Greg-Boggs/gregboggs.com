@@ -1,6 +1,6 @@
 ---
 title: Zappos shares your password with hackers
-date: 2012-01-19 00:00:00 Z
+date: 2012-01-19
 id: 444
 author: Greg Boggs
 guid: http://www.gregboggs.com/?p=444
