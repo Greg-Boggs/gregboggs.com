@@ -1,6 +1,6 @@
 ---
 title: Ubuntu Hash Sum mismatch
-date: 2010-10-24 00:00:00 Z
+date: 2010-10-24
 id: 239
 author: Greg Boggs
 guid: http://www.gregboggs.com/?p=239
