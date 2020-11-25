@@ -1,6 +1,6 @@
 ---
 title: How Would You Configure High Traffic Webservers?
-date: 2010-10-13 00:00:00 Z
+date: 2010-10-13
 id: 187
 author: Greg Boggs
 guid: http://www.gregboggs.com/?p=187
