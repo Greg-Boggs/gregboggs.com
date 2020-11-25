@@ -1,6 +1,6 @@
 ---
 title: Drupal 8 Development Best Practices
-date: 2016-01-20 19:43:59 Z
+date: 2016-01-20
 author: Greg Boggs
 url: "/drupal-development-best-practices/"
 categories:
