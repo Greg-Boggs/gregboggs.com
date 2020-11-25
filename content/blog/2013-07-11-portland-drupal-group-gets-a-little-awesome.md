@@ -1,6 +1,6 @@
 ---
 title: Portland Drupal Group Gets a little Awesome
-date: 2013-07-11 19:43:59 Z
+date: 2013-07-11
 id: 680
 author: Greg Boggs
 guid: http://www.gregboggs.com/?p=680
