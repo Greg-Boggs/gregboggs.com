@@ -1,6 +1,6 @@
 ---
 title: WordPress Security Plugins
-date: 2011-07-22 00:00:00 Z
+date: 2011-07-22
 id: 330
 author: Greg Boggs
 guid: http://www.gregboggs.com/?p=330
