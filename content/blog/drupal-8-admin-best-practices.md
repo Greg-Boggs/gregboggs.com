@@ -1,6 +1,6 @@
 ---
 title: Drupal 8 Admin Best Practices
-date: 2016-03-05 19:43:59 Z
+date: 2016-03-05
 author: Greg Boggs
 url: "/drupal-8-admin-best-practices/"
 categories:
