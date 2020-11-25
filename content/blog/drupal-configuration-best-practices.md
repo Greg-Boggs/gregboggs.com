@@ -1,6 +1,6 @@
 ---
 title: Drupal 8 Configuration Workflow Best Practices
-date: 2016-02-18 19:43:59 Z
+date: 2016-02-18
 author: Greg Boggs
 url: "/drupal-configuration-best-practices/"
 categories:
