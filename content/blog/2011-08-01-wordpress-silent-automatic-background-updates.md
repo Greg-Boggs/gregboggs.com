@@ -1,6 +1,6 @@
 ---
 title: WordPress Silent Automatic Background Updates
-date: 2011-08-01 00:00:00 Z
+date: 2011-08-01
 id: 370
 author: Greg Boggs
 guid: http://www.gregboggs.com/?p=370
