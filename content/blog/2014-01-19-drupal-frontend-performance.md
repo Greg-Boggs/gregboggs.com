@@ -1,6 +1,6 @@
 ---
 title: Improving Drupal Frontend Performance
-date: 2014-01-19 19:43:59 Z
+date: 2014-01-19
 id: 750
 author: Greg Boggs
 guid: http://www.gregboggs.com/?p=750
