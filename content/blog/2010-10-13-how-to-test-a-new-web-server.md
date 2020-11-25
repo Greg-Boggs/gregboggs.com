@@ -1,6 +1,6 @@
 ---
 title: How to Test a New Web Server?
-date: 2010-10-13 00:00:00 Z
+date: 2010-10-13
 id: 192
 author: Greg Boggs
 guid: http://www.gregboggs.com/?p=192
