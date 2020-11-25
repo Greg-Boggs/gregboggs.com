@@ -1,6 +1,6 @@
 ---
 title: Drupal Scrum Tips
-date: 2012-06-26 19:43:59 Z
+date: 2012-06-26
 id: 505
 author: Greg Boggs
 guid: http://www.gregboggs.com/?p=505
