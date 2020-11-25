@@ -1,7 +1,7 @@
 +++
 author = "Greg Boggs"
 categories = ["Drupal", "Best Practices"]
-date = "2016-09-25T11:43:59-08:00"
+date = "2016-09-25"
 draft = false
 tags = ["Drupal Admin"]
 title = "Content Modeling in Drupal 8"
