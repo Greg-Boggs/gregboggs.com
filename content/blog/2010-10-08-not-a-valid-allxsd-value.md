@@ -1,6 +1,6 @@
 ---
 title: Not a valid AllXsd value
-date: 2010-10-08 00:00:00 Z
+date: 2010-10-08
 id: 180
 author: Greg Boggs
 guid: http://www.gregboggs.com/?p=180
