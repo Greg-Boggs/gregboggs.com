@@ -1,6 +1,6 @@
 ---
 title: Drupal Internet Explorer 7 CSS Problems
-date: 2011-03-08 19:43:59 Z
+date: 2011-03-08
 id: 310
 author: Greg Boggs
 guid: http://www.gregboggs.com/?p=310
