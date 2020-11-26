@@ -21,7 +21,7 @@ Over the years I've developed many strong opinions about the best way to "drupal
 * [Theming best practices](/drupal-8-theming-best-practices/)
 * [Editor experience basics](/drupal-8-admin-best-practices/)
 * [Content modeling in Drupal 8](/drupal-8-content-modeling/)
-* What to do with blocks
+* [What to do with blocks](/drupal-blocks-best-practices/)
 * Creating lists correctly
 * Mistake-free site search
 * Breadcrumbs in 20 minutes
