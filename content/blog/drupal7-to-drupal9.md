@@ -34,12 +34,12 @@ Can you imagine those crazy numbers?
 
 But despite this size, generally, the whole migration consists of 4 main steps:
 
-1. Creation of mappings from the old Drupal 7 site to the new Drupal 9 site.
-2. Creation of the appropriate entities/fields on the Drupal 9 site.
-3. Content migration itself by migrating module from Drupal 9 core.
-4. Both Contrib and Custom functionality implementation/migration.
-5. Theme migration.
-6. Production deployments and content managers studying.
+- Creation of mappings from the old Drupal 7 site to the new Drupal 9 site.
+- Creation of the appropriate entities/fields on the Drupal 9 site.
+- Content migration itself by migrating module from Drupal 9 core.
+- Both Contrib and Custom functionality implementation/migration.
+- Theme migration.
+- Production deployments and content managers studying.
 
 Of course, it sounds easier than it is. I have faced many complex and interesting challenges during my migrations. I will do another article on it so I can share my difficulties with you.
 
