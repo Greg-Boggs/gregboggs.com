@@ -8,7 +8,7 @@ title = "Migrating a website from Drupal 7 to Drupal 9"
 url = "/upgrade-drupal7-to-drupal9-migration/"
 +++
 
-This is a guest post by [Kana Patrick](https://kanapatrick.cm/en/get-quote) who is a world-class Drupal migration expert.
+This is a guest post by [Kana Patrick](https://kanapatrick.cm/en) who is a world-class Drupal migration expert.
 
 The end of life of Drupal 7 is getting closer and every day more and more website owners are starting the migration. This process is not easy and almost always takes a long time. I recently migrated a client's site from Drupal 7 to Drupal 9. The purpose of this article is to share with you my modest experience.
 
