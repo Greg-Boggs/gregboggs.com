@@ -3,7 +3,7 @@ author = "Greg Boggs"
 categories = ["Drupal"]
 date = "2023-01-17"
 draft = false
-tags = ["Drupal"]
+tags = ["Drupal", "Blog"]
 title = "Unleash the Power of Drupal 9 Routing: Create Custom Routes with Page Callbacks & Debug Like a Pro"
 url = "/debugging-routing-page-callbacks-drupal10/"
 +++
