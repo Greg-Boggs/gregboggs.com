@@ -5,7 +5,7 @@ date = "2023-01-17"
 draft = false
 tags = ["Drupal"]
 title = "Unleash the Power of Drupal 9 Routing: Create Custom Routes with Page Callbacks & Debug Like a Pro"
-url = "/empty-front-page-drupal-chat-gpt/"
+url = "/debugging-routing-page-callbacks-drupal10/"
 +++
 
 ## How do I create a route with a page callback in Drupal 10?
