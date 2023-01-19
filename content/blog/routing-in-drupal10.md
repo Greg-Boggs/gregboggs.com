@@ -6,7 +6,7 @@ draft = false
 tags = ["Drupal"]
 title = " Unleash the Power of Drupal 9 Routing: Create Custom Routes with Page Callbacks & Debug Like a Pro"
 url = "/debugging-routing-page-callbacks-drupal10/"
-menu: ["featured"]
+menu = ["featured"]
 +++
 
 
