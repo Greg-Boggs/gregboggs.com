@@ -2,10 +2,9 @@
 title: Unleash the Power of Drupal 9 Routing: Create Custom Routes with Page Callbacks & Debug Like a Pro
 date: 2023-01-17
 author: Greg Boggs
-url: /debugging-routing-page-callbacks-drupal10/
+url: "/debugging-routing-page-callbacks-drupal10/"
 categories:
 - Blog
-- Drupal
 menu: featured
 ---
 
