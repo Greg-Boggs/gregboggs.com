@@ -1,12 +1,14 @@
----
-title: Unleash the Power of Drupal 9 Routing: Create Custom Routes with Page Callbacks & Debug Like a Pro
-date: 2023-01-17
-author: Greg Boggs
-url: "/debugging-routing-page-callbacks-drupal10/"
-categories:
-- Blog
++++
+author = "Greg Boggs"
+categories = ["Drupal"]
+date = "2023-01-17"
+draft = false
+tags = ["Drupal"]
+title = " Unleash the Power of Drupal 9 Routing: Create Custom Routes with Page Callbacks & Debug Like a Pro"
+url = "/debugging-routing-page-callbacks-drupal10/"
 menu: featured
----
++++
+
 
 ## How do I create a route with a page callback in Drupal 10?
 
