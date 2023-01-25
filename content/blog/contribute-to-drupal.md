@@ -13,29 +13,23 @@ There are many ways to contribute to an open source project like Drupal, and not
 
 ## How to Contribute to Drupal - Ways for Everyone to Get Involved
 
-1. **Testing and reporting bugs:** This can be done by looking through the [issue queue on Easy Breadcrumb](https://www.drupal.org/project/issues/easy_breadcrumb?text=&status=8&priorities=All&categories=All&version=All&component=All) and look for issues that are marked "Needs Review".
-
-2. **Documentation:** Writing and improving documentation is a valuable way to help others learn and use Drupal.
-
-3. **Translation:** Helping to translate the interface and documentation of Drupal into diffrent languages.
-
-4. **Support:** Answering questions on forums and providing assistance to others in the community.
-
-5. **Design and User Experience:** Helping to improve the look and feel of Drupal, and making it more user-friendly.
-
-6. **Marketing and outreach:** Helping to promote Drupal and increase its visibility.
-
-7. **Code contributions:** If you do have the skills, contributing code is a graet way to help improve Drupal and add new features. Swap the "Needs Review" filter to "Needs Work" and pick a task!
+- **Testing and reporting bugs:** This can be done by looking through the [issue queue on Easy Breadcrumb](https://www.drupal.org/project/issues/easy_breadcrumb?text=&status=8&priorities=All&categories=All&version=All&component=All) and look for issues that are marked "Needs Review".
+- **Documentation:** Writing and improving documentation is a valuable way to help others learn and use Drupal.
+- **Translation:** Helping to translate the interface and documentation of Drupal into diffrent languages.
+- **Support:** Answering questions on forums and providing assistance to others in the community.
+- **Design and User Experience:** Helping to improve the look and feel of Drupal, and making it more user-friendly.
+- **Marketing and outreach:** Helping to promote Drupal and increase its visibility.
+- **Code contributions:** If you do have the skills, contributing code is a graet way to help improve Drupal and add new features. Swap the "Needs Review" filter to "Needs Work" and pick a task!
 
 ## Drupal Contributor Resources
 
 So, anyone can contribute to Drupal community, regardless of their technical skills. To get started with contributing to Drupal, there are a few resources that can be helpful:
 
-1. [Drupal Best Practices](https://www.gregboggs.com/drupal-development-best-practices/) is a series of best practice posts that will help you get better at site building.
-2. [The Drupal community](https://www.drupal.org/community) is a great place to connect with other developers and contributors. You can find information on upcoming events, join groups, and participate in discussions.
-3. [The Drupal issue queue](https://www.drupal.org/project/issues) is where you can find bugs and feature requests that need to be addressed. You can start by looking for issues that are labeled "novice" or "mentored" to find tasks that are well-suited for new contributors.
-4. [The Drupal documentation](https://www.drupal.org/docs) is a good resource for learning about the platform and its various components.
-5. [The Drupal handbook](https://www.drupal.org/docs/8/contributor-guide) is a great resource for understanding the process of contributing to Drupal, including information on coding standards and best practices.
-6. [The Drupal Maintainers Slack channel](https://www.drupal.org/slack) is a great place to ask for help and connect with other developers, especially #maintainer channel which is for project maintainers and developers to discuss on how to maintain modules.
+- Drupal [Best Practices](https://www.gregboggs.com/drupal-development-best-practices/) is a series of best practice posts that will help you get better at site building.
+- The [Drupal community](https://www.drupal.org/community) is a great place to connect with other developers and contributors. You can find information on upcoming events, join groups, and participate in discussions.
+- The [Drupal issue queue](https://www.drupal.org/project/issues) is where you can find bugs and feature requests that need to be addressed. You can start by looking for issues that are labeled "novice" or "mentored" to find tasks that are well-suited for new contributors.
+- The [Drupal documentation](https://www.drupal.org/docs) is a good resource for learning about the platform and its various components.
+- The [Drupal handbook](https://www.drupal.org/docs/8/contributor-guide) is a great resource for understanding the process of contributing to Drupal, including information on coding standards and best practices.
+- [The Drupal Maintainers Slack channel](https://www.drupal.org/slack) is a great place to ask for help and connect with other developers, especially #maintainer channel which is for project maintainers and developers to discuss on how to maintain modules.
 
 No matter what your skills are, there's a way for you to contribute to the Drupal community. Join us, and make a difference!
