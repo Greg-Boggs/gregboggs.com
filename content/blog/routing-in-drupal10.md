@@ -9,6 +9,7 @@ url = "/debugging-routing-page-callbacks-drupal10/"
 menu = ["featured"]
 +++
 
+Routes in Drupal are a powerful tool to programatically execute code and build custom pages for tasks such as custom forms and data processing. However, Routes rely on learning a few key concepts and  they can be tricky to learn at first. So, lets break them down step by step.
 
 ## How do I create a route with a page callback in Drupal 10?
 
