@@ -1,4 +1,4 @@
-baseurl = "http://www.gregboggs.com"
+baseurl = "https://www.gregboggs.com"
 title = "Portland Drupal Developer"
 uglyurls = false
 paginate = 10
